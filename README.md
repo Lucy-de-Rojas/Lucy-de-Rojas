@@ -1,8 +1,17 @@
 ### Hi there 👋
 
 🌱 I’m currently learning with School of Code
+
+
+https://lucy-de-rojas.github.io/Lucy-de-Rojas/
+
+
+
+
 <!--
 **Lucy-de-Rojas/Lucy-de-Rojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
