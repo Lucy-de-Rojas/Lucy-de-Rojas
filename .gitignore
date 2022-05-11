@@ -1,1 +1,4 @@
 *.indd
+
+# ignore gallery:
+GALLERY/*
