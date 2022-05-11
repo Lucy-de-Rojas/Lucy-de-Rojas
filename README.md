@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning with School of Code
 
-
+home page:
 https://lucy-de-rojas.github.io/Lucy-de-Rojas/
 
 
