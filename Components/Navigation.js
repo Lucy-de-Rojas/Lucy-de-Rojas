@@ -1,5 +1,7 @@
+import Link from 'next/link';
 
 
+import styles from './navigation.module.css';
 
 
 
@@ -12,16 +14,25 @@ export default function Navigation() {
 
 
 
-    return (<div id='navigation'>
+    return (<div className={styles.navigation}>
 
-        <h1>navigation</h1>
+            <Link href="/about" >
+            <a className={styles.nav}> About</a>
+             </Link>
 
-        <ul>
 
-            <li>About</li>
-            <li>Portfolio</li>
-            <li>Contact</li>
-        </ul>
+             <Link href="/portfolio">
+             <a className={styles.nav}>Portfolio </a>
+             </Link>
+
+
+
+             <Link href="/contact">
+             <a className={styles.nav}>Contact</a>
+             </Link>
+            
+
+
 
 
 
