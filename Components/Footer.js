@@ -1,5 +1,5 @@
 import Image from "next/image";
-
+import Link from "next/link";
 
 
 
@@ -22,26 +22,30 @@ export default function Footer() {
     <div className={styles.container}>
 
 
-
 <div className={styles.containerIcon}>
-
-        <Image
+    <Link href="https://github.com/Lucy-de-Rojas"><a target="_blank">
+            <Image
             src='/Media/githuREDb.png'
             width={100}
             height={100}
             alt='git hub logo'
             />
+
+            </a></Link>
             </div>
 
 
 
 
-            <div className={styles.containerIcon}>        <Image
+            <div className={styles.containerIcon}>    
+            <Link href="https://www.linkedin.com/in/lucyderojas/"><a target="_blank">
+            <Image
             src='/Media/LinkedInRED.png'
             width={100}
             height={100}
             alt='git hub logo'
-             />
+            />
+            </a></Link>    
 
              </div>
 
