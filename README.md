@@ -9,10 +9,12 @@ Hi there 👋
 
 
 
-[<img src="./public/../lucy-de-rojas-next/public/Media/SchoolOfCode-Logo.png" width="10%" />](https://www.schoolofcode.co.uk/)
+[<img src="./public/Media/SchoolOfCode-Logo.png" width="10%" />](https://www.schoolofcode.co.uk/)
 
 
-<img src="./lucy-de-rojas-next/public/DonQuiDesigns-logo.jpg" width="20%"/>
+
+
+<img src="./public/DonQuiDesigns-logo.jpg" width="20%"/>
 
 
 
