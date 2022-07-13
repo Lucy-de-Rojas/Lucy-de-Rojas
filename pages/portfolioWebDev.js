@@ -1,5 +1,6 @@
 import Layout from '../Components/Layout'
 import PortfolioBottomNavigation from '../Components/portfolioBottomNavigation';
+import PortfolioWebContent from '../Components/Contents/portfolioWebContent';
 
 import Head from 'next/head';
 
@@ -16,9 +17,6 @@ export default function PortfolioWebDev () {
 </Head>
 <PortfolioBottomNavigation />
 
-<h1>
-        Portfolio - Web Dev
-
-</h1>
+<PortfolioWebContent />
     </Layout>);
 }

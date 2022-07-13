@@ -1,5 +1,7 @@
 import Layout from '../Components/Layout'
 import PortfolioBottomNavigation from '../Components/portfolioBottomNavigation';
+import PortfolioGraphicDesignContent from './PortfolioGraphicDesignContent';
+
 
 import Head from 'next/head';
 
@@ -16,9 +18,6 @@ export default function PortfolioGraphicDesign () {
 </Head>
 <PortfolioBottomNavigation />
 
-<h1>
-        Portfolio - Graphic Design
-
-</h1>
+<PortfolioGraphicDesignContent />
     </Layout>);
 }
