@@ -1,0 +1,65 @@
+
+
+
+
+.container {
+
+    background-color: rgb(236, 173, 173);
+    display: flex;
+
+    /* justify-content: center; */
+    
+    /* align-items: center; */
+
+    justify-content: space-between;
+    
+    padding: 10px ;
+
+
+}
+
+
+
+
+
+
+
+.imageContainer {
+    width: 40%;
+    background-color: rgb(5, 211, 5);
+}
+
+
+.image {
+
+    
+}
+
+
+
+
+
+.para {
+    background-color: yellow;
+     text-align: center;
+     width: 80%;
+  
+}
+
+
+
+
+
+
+
+.redText {
+    color: red;
+}
+
+
+
+
+
+
+
+

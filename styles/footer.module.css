@@ -1,0 +1,32 @@
+
+
+
+
+.wrapper {
+    /* background-color: rgb(240, 162, 162); */
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+
+
+
+
+.container {
+
+
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+
+
+
+.containerIcon {
+    width: 13%;
+    margin: 0 5px;
+}

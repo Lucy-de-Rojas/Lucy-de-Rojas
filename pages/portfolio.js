@@ -4,6 +4,10 @@ import Head from 'next/head'
 
 
 
+// componments
+import PortfolioBottomNavigation from "../Components/portfolioBottomNavigation";
+
+
 
 
 
@@ -16,6 +20,7 @@ export default function Portfolio() {
         <Head>
 <title>Portfolio</title>
 </Head>
+<PortfolioBottomNavigation />
 
 <h1>
         Portfolio

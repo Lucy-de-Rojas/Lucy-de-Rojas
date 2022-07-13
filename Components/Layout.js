@@ -5,7 +5,7 @@
 // components:
 import Navigation from "./Navigation";
 import TopHeader from "./TopHeader";
-
+import Footer from "./Footer";
 
 
 
@@ -34,6 +34,6 @@ export default function Layout({children}) {
 
 
 
-Bottom navigation
+<Footer />
     </div>);
 }

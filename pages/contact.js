@@ -16,7 +16,7 @@ export default function Contact() {
 </Head>
 <h1>
     
-    contact
+    Contact
     </h1>
 
     </Layout>);

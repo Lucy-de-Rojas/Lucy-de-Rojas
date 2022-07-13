@@ -26,8 +26,8 @@ export default function Home() {
       </Head>
 
 
-<h1>home</h1>
-<hr />
+<h1>Home</h1>
+
 
 </Layout>
 

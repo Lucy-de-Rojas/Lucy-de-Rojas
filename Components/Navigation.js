@@ -1,8 +1,9 @@
 import Link from 'next/link';
 
 
-import styles from './navigation.module.css';
 
+
+import styles from '../styles/navigation.module.css';
 
 
 

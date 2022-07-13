@@ -10,7 +10,7 @@ import Link from "next/link";
 
 
 // styles:
-import styles from './topHeader.module.css';
+import styles from '../styles/topHeader.module.css';
 
 
 
@@ -26,45 +26,36 @@ export default function TopHeader() {
 
 
 
-    return (<div>
-
-   <div className={styles.container}>
+    return (<div className={styles.container} >
 
 
 
 
-<Link href="/">
-<a>
-    
-<div className={styles.logo} >
 
-<Image
-    src='/DonQuiDesigns-logo.png' 
-    width="500"
-    height="402"
-    layout="responsive"
-    className={styles.image}
-    alt="logo"
-/>
+           <div className={styles.imageContainer}>
+        <Link href="/"><a>
 
-</div>
-    
-    </a></Link>
+            
+            <Image
+                src="/DonQuiDesigns-logo.png"
+                width={500}
+                height={402} 
+                alt="logo"
+                />
+                      
+            </a></Link>
+                </div>
+
+
+
+
+ 
  
 
 
 
+<h2 className={styles.para}>Lucy de Rojas <br /> Web Development <br /><span className={styles.redText}> &amp; </span> Graphic Design </h2>
 
-
-
-
-
-
-
-<p>Luy de Rojas - Web Development & Graphic design</p>
-<p>Luy de Rojas - Web Development & Graphic design</p>
-
-</div>
 
     </div>);
 }

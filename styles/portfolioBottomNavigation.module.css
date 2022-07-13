@@ -1,0 +1,35 @@
+
+
+
+.container {
+    background-color: rgb(238, 236, 130);
+    margin-top: 0;
+
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.nav {
+    text-align: center;
+    background-color: var(--grays);
+    padding: 10px 0;
+    margin: 0 5px;
+    width: 40%;
+
+    border-radius: 0 0 10px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
