@@ -1,7 +1,12 @@
 
-import Layout from "../Components/Layout";
 
 import Head from 'next/head';
+
+
+import Layout from "../Components/Layout";
+
+
+import ContactContent from '../Components/Contents/ContactContent';
 
 
 export default function Contact() {
@@ -14,11 +19,8 @@ export default function Contact() {
 <Head>
 <title>Contact</title>
 </Head>
-<h1>
-    
-    Contact
-    </h1>
 
+<ContactContent />
     </Layout>);
 }
 

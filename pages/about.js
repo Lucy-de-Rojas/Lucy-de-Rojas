@@ -3,6 +3,13 @@ import Head from 'next/head';
 
 
 
+import AboutContent from "../Components/Contents/aboutContent";
+
+
+
+
+
+
 export default function About() {
 
 
@@ -13,7 +20,7 @@ export default function About() {
 <title>About Lucy</title>
 </Head>
 
-        <h1>About</h1>
+      <AboutContent />
 
 
 

@@ -1,24 +1,19 @@
 
 
-
 import LayoutContent from "./LayoutContent";
 
 
 
-export default function HomePageContent () {
 
-
+export default function ContactContent() {
 
     return (<LayoutContent>
 
-<h1>Home </h1>
+
+
+        <h1>Contact</h1>
     </LayoutContent>);
 }
-
-
-
-
-
 
 
 

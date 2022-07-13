@@ -10,7 +10,7 @@ import styles from '../styles/Home.module.css'
 
 // components:
 import Layout from '../Components/Layout'
-
+import HomePageContent from '../Components/Contents/HomePageContent'
 
 
 
@@ -25,8 +25,7 @@ export default function Home() {
         <link rel="icon" href="/DonQuiDesigns-logo.ico" />
       </Head>
 
-
-<h1>Home</h1>
+<HomePageContent />
 
 
 </Layout>

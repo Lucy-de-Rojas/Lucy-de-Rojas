@@ -4,5 +4,6 @@
 
 .container {
 
-    background-color: green;
+    background-color: var(--grays);
+    padding: 20px;
 }

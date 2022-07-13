@@ -15,8 +15,7 @@ export default function LayoutContent({children}) {
 
     return (<div className={styles.container}>
 
-sdfds
-
+{children}
     </div>);
 
 
