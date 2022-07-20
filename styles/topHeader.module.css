@@ -4,16 +4,12 @@
 
 .container {
 
-    background-color: rgb(236, 173, 173);
+    /* background-color: rgb(248, 206, 206); */
     display: flex;
-
-    /* justify-content: center; */
-    
-    /* align-items: center; */
-
+    align-items: center;
     justify-content: space-between;
     
-    padding: 10px ;
+    margin: 50px 50px;
 
 
 }
@@ -25,8 +21,8 @@
 
 
 .imageContainer {
-    width: 40%;
-    background-color: rgb(5, 211, 5);
+    width: 20%;
+    /* background-color: rgb(5, 211, 5); */
 }
 
 
@@ -37,7 +33,7 @@
 
 
 .para {
-    background-color: yellow;
+    /* background-color: yellow; */
      text-align: center;
      width: 80%;
   
