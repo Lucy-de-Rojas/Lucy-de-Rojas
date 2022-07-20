@@ -1,7 +1,6 @@
-import Layout from '../Components/Layout'
+import Layout from '../Components/Layout';
 import PortfolioBottomNavigation from '../Components/portfolioBottomNavigation';
-import PortfolioGraphicDesignContent from './PortfolioGraphicDesignContent';
-
+import PortfolioGraphicDesignContent from '../Components/Contents/PortfolioGraphicDesignContent';
 
 import Head from 'next/head';
 
