@@ -14,7 +14,7 @@ export default function PortfolioGraphicDesign () {
 
     return (<Layout>
         <Head>
-<title>Portfolio - Graphic Design</title>
+<title>Lucy de Rojas - Portfolio - Graphic Design</title>
 </Head>
 <PortfolioBottomNavigation />
 
