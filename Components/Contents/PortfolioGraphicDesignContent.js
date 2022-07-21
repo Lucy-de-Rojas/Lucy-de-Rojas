@@ -10,6 +10,16 @@ import ReactPlayer from 'react-player';
 
 
 
+{/* //////////////////////////////////////////// */}
+
+import {Worker, Viewer} from '@react-pdf-viewer/core'
+import '@react-pdf-viewer/core/lib/styles/index.css';
+import {BookmarkPlugin} from '@react-pdf-viewer/bookmark';
+import {scrollModePlugin} from '@react-pdf-viewer/scroll-mode';
+
+
+
+{/* //////////////////////////////////////////// */}
 
 
 
@@ -37,6 +47,14 @@ export default function PortfolioGraphicDesignContent() {
             />
 
             </div>
+
+
+
+
+
+
+
+
 
 
 
@@ -92,18 +110,33 @@ export default function PortfolioGraphicDesignContent() {
 <iframe 
     src="//www.slideshare.net/slideshow/embed_code/key/uacSwSZs0M3A1y" 
     width="100%" 
-    height="auto" 
+    height="350px" 
     frameborder="0" 
     marginwidth="0" 
     marginheight="0" 
     scrolling="no" 
     // style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" 
-    allowfullscreen /> 
+    allowfullscreen 
+    /> 
+
+
+
+
+
+<iframe 
+    src="https://www.slideshare.net/slideshow/embed_code/key/nTF910SdOJM2gn?hostedIn=slideshare&page=upload" 
+    width="476" 
+    height="400" 
+    frameborder="0" 
+    marginwidth="0" 
+    marginheight="0" 
+    scrolling="no"
+
+/>
     
     
-    
-    
-    
+
+
     
 </div>
 
