@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@pdftron/webviewer": "^8.7.0",
     "@react-pdf-viewer/bookmark": "^3.6.0",
     "@react-pdf-viewer/core": "^3.6.0",
     "@react-pdf-viewer/scroll-mode": "^3.6.0",
@@ -16,6 +17,7 @@
     "pdfjs-dist": "^2.14.305",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-pdf": "^5.7.2",
     "react-player": "^2.10.1"
   },
   "devDependencies": {

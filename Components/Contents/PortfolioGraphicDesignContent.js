@@ -1,4 +1,6 @@
 import Image from "next/image";
+import {useState, useRef, useEffect} from 'react';
+
 
 import styles from '../../styles/graphic-design-portfolio.module.css';
 
@@ -6,24 +8,29 @@ import styles from '../../styles/graphic-design-portfolio.module.css';
 import LayoutContent from "./LayoutContent";
 
 
-import ReactPlayer from 'react-player';
+
+{/* //////////////////////////////////////////// */}
+
 
 
 
 {/* //////////////////////////////////////////// */}
 
-import {Worker, Viewer} from '@react-pdf-viewer/core'
-import '@react-pdf-viewer/core/lib/styles/index.css';
-import {BookmarkPlugin} from '@react-pdf-viewer/bookmark';
-import {scrollModePlugin} from '@react-pdf-viewer/scroll-mode';
 
 
-
-{/* //////////////////////////////////////////// */}
 
 
 
 export default function PortfolioGraphicDesignContent() {
+
+    // const viewerDiv = useRef(null);
+
+
+    // useEffect(()=> {
+    //     WebViewer({path: 'lib', initialDoc: '../../public/Portfolio/pdfs/benefits of CSSC membership 2016 (1).pdf' }, 
+    //     viewerDiv.current.then(instance => {}))
+    // },[]);
+
 
 
 
@@ -50,9 +57,19 @@ export default function PortfolioGraphicDesignContent() {
 
 
 
+ {/* /////////////////////////////////////////////// */}
+{/* 
+<div 
+    className={styles.pdf}
+    ref={viewerDiv}
+    >
+    
+    </div> */}
 
 
 
+
+ {/* /////////////////////////////////////////////// */}
 
 
 
@@ -123,17 +140,10 @@ export default function PortfolioGraphicDesignContent() {
 
 
 
-<iframe 
-    src="https://www.slideshare.net/slideshow/embed_code/key/nTF910SdOJM2gn?hostedIn=slideshare&page=upload" 
-    width="476" 
-    height="400" 
-    frameborder="0" 
-    marginwidth="0" 
-    marginheight="0" 
-    scrolling="no"
 
-/>
-    
+
+
+
     
 
 

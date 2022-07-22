@@ -18,6 +18,29 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+
+
+
+@media only screen and (min-width: 1000px) {
+  body {
+    padding: 0 20%;
+  }
+  
+}
+
+
+
+@media only screen and (min-width: 1200px) {
+  body {
+    padding: 0 30%;
+  }
+  
+}
+
+
+
+
+
 a {
   color: inherit;
   text-decoration: none;
