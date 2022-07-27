@@ -46,16 +46,6 @@ export default function PortfolioGraphicDesignContent() {
             </div>
 
 
-<h2>embed:</h2>
-            <embed 
-                src='/Portfolio/pdfs/CSSC Membership Booklet November 2017 for ONLINE USE.pdf'
-                className={styles.pdf}
-                />
-
-<h2>iframe:</h2>
-
-<iframe src='/Portfolio/pdfs/CSSC Membership Booklet November 2017 for ONLINE USE.pdf' 
-        className={styles.pdf} />
 
 
 
@@ -119,14 +109,7 @@ export default function PortfolioGraphicDesignContent() {
 
 <iframe 
     src="//www.slideshare.net/slideshow/embed_code/key/uacSwSZs0M3A1y" 
-    width="100%" 
-    height="350px" 
-    frameborder="0" 
-    marginwidth="0" 
-    marginheight="0" 
-    scrolling="no" 
-    // style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" 
-    allowfullscreen 
+    className={styles.pdf} 
     /> 
 
 
