@@ -1,5 +1,4 @@
 import Image from "next/image";
-import {useState, useRef, useEffect} from 'react';
 
 
 import styles from '../../styles/graphic-design-portfolio.module.css';
@@ -8,8 +7,8 @@ import styles from '../../styles/graphic-design-portfolio.module.css';
 import LayoutContent from "./LayoutContent";
 
 
-
 {/* //////////////////////////////////////////// */}
+
 
 
 
@@ -22,15 +21,6 @@ import LayoutContent from "./LayoutContent";
 
 
 export default function PortfolioGraphicDesignContent() {
-
-    // const viewerDiv = useRef(null);
-
-
-    // useEffect(()=> {
-    //     WebViewer({path: 'lib', initialDoc: '../../public/Portfolio/pdfs/benefits of CSSC membership 2016 (1).pdf' }, 
-    //     viewerDiv.current.then(instance => {}))
-    // },[]);
-
 
 
 
@@ -56,23 +46,25 @@ export default function PortfolioGraphicDesignContent() {
             </div>
 
 
+<h2>embed:</h2>
+            <embed 
+                src='/Portfolio/pdfs/CSSC Membership Booklet November 2017 for ONLINE USE.pdf'
+                className={styles.pdf}
+                />
 
- {/* /////////////////////////////////////////////// */}
-{/* 
-<div 
+<h2>iframe:</h2>
+
+<iframe src='' width='500px' height='500px' />
+
+
+
+<h2>slideshare:</h2>
+
+<iframe 
+    src="//www.slideshare.net/slideshow/embed_code/key/x3MTog1XpcJ1L1" 
     className={styles.pdf}
-    ref={viewerDiv}
-    >
     
-    </div> */}
-
-
-
-
- {/* /////////////////////////////////////////////// */}
-
-
-
+    /> 
 
 
 
