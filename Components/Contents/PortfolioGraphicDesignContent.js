@@ -64,7 +64,7 @@ export default function PortfolioGraphicDesignContent() {
 <h2>Animations</h2>
 
 <div className={styles.imageContainer}>
-
+online advert for Guardian:
     <Image
         src="/Portfolio/animatedGifs/TrySomethingNew.gif"
         width={2244}
@@ -74,14 +74,33 @@ export default function PortfolioGraphicDesignContent() {
     
     />
 
+</div>
 
+
+
+
+
+
+<div className={styles.imageContainer}>
+email footer:
+    <Image
+        src="/Portfolio/animatedGifs/MySaving+October2017.gif"
+        width={620}
+        height={146}
+        alt="animated email footer"   
+    
+    
+    />
 
 </div>
 
 
 
 
-<h2>Video Production & Post Production </h2>
+
+
+
+<h2>Video Production<br /> & Post Production </h2>
 
 
 <div className={styles.videoContainer}>
@@ -101,11 +120,6 @@ export default function PortfolioGraphicDesignContent() {
 
 
 <h2>Powerpoint Presentations</h2>
-
-
-
-
-
 
 <iframe 
     src="//www.slideshare.net/slideshow/embed_code/key/uacSwSZs0M3A1y" 
