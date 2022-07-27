@@ -100,12 +100,12 @@ export default function PortfolioGraphicDesignContent() {
 
 
 
-<h2>Powerpoint Presentaions</h2>
+<h2>Powerpoint Presentations</h2>
 
 
 
 
-<div className={styles.powerpointContainer}>
+
 
 <iframe 
     src="//www.slideshare.net/slideshow/embed_code/key/uacSwSZs0M3A1y" 
@@ -123,8 +123,6 @@ export default function PortfolioGraphicDesignContent() {
     
 
 
-    
-</div>
 
 
 
