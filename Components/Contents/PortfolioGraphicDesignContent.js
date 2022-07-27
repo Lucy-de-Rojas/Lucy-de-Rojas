@@ -54,7 +54,8 @@ export default function PortfolioGraphicDesignContent() {
 
 <h2>iframe:</h2>
 
-<iframe src='' width='500px' height='500px' />
+<iframe src='/Portfolio/pdfs/CSSC Membership Booklet November 2017 for ONLINE USE.pdf' 
+        className={styles.pdf} />
 
 
 
