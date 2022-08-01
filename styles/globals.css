@@ -5,7 +5,10 @@
 }
 
 
-
+@font-face {
+  font-family: 'Astronika';
+  src: url('/FONTS/Header/Astronika.otf');
+}
 
 
 
@@ -48,4 +51,10 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+
+
+h1 {
+  font-family: Astronika;
 }

@@ -7,13 +7,8 @@ import styles from '../../styles/graphic-design-portfolio.module.css';
 import LayoutContent from "./LayoutContent";
 
 
-{/* //////////////////////////////////////////// */}
 
 
-
-
-
-{/* //////////////////////////////////////////// */}
 
 
 
@@ -24,33 +19,21 @@ export default function PortfolioGraphicDesignContent() {
 
 
 
+
+
+
     return (<LayoutContent>
 
 <div className={styles.container}>
-        <h1>Portfolio Graphic Design</h1>
 
 
-
-        <h2>Print</h2>
-
-<div className={styles.imageContainer}>
-
-        <Image 
-            src='/Portfolio/JPEGs/CSSC Membership Booklet November 2017 FC.jpg'
-            width={2244}
-            height={1654}
-            alt="print design portfolio lucy de rojas"
-               
-            />
-
-            </div>
+        <h1>Print</h1>
 
 
 
 
-
-<h2>slideshare:</h2>
-
+<h2>Membership benefits booklet:</h2>
+Booklet:
 <iframe 
     src="//www.slideshare.net/slideshow/embed_code/key/x3MTog1XpcJ1L1" 
     className={styles.pdf}
@@ -58,10 +41,33 @@ export default function PortfolioGraphicDesignContent() {
     /> 
 
 
+Magazine:
+
+
+<iframe 
+    src="//www.slideshare.net/slideshow/embed_code/key/Hd0s6POqkuGT3P" 
+    className={styles.pdf}
+    
+    />
+
+
+    Magazine 2:
+
+    <iframe 
+        src="//www.slideshare.net/slideshow/embed_code/key/caVGWR5bkQVnEQ" 
+        className={styles.pdf}
+        
+        
+        /> 
+        
+        
+        
+        
+         
 
 
 
-<h2>Animations</h2>
+<h1>Animations</h1>
 
 <div className={styles.imageContainer}>
 online advert for Guardian:
@@ -100,7 +106,7 @@ email footer:
 
 
 
-<h2>Video Production<br /> & Post Production </h2>
+<h1>Video Production<br /> & Post Production </h1>
 
 
 <div className={styles.videoContainer}>
@@ -119,8 +125,22 @@ email footer:
 
 
 
-<h2>Powerpoint Presentations</h2>
+<h1>Powerpoint Presentations</h1>
 
+
+
+
+
+
+    <Image 
+        src='/Portfolio/PowerPointsPresentation/CSSCPresentationJune2017-5pages.gif'
+        width={1280}
+        height={720}
+        alt='powerpoint presentation 5 pages'
+     />
+
+
+See full presentation below:
 <iframe 
     src="//www.slideshare.net/slideshow/embed_code/key/uacSwSZs0M3A1y" 
     className={styles.pdf} 
@@ -129,6 +149,7 @@ email footer:
 
 
 
+new presentation:
 
 
 
