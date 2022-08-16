@@ -51,6 +51,23 @@ export default function Footer() {
 
 
         
+
+
+
+
+
+        {/* codewars: */}
+             <div className={styles.containerIcon}>    
+            <Link href="https://www.codewars.com/users/ldrojas"><a target="_blank">
+            <Image
+            src='/Media/codewarsLogo.svg'
+            width={100}
+            height={100}
+            alt='cadewars logo'
+            />
+            </a></Link>    
+
+             </div>
         
  
 
