@@ -34,6 +34,30 @@ export default function PortfolioGraphicDesignContent() {
 
 <h2>Membership benefits booklet:</h2>
 Booklet:
+
+
+<iframe 
+    src="https://www.slideshare.net/slideshow/embed_code/key/z5gdvF6dCLimqg?hostedIn=slideshare&page=upload" 
+    width="476" 
+    height="400" 
+/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <iframe 
     src="//www.slideshare.net/slideshow/embed_code/key/x3MTog1XpcJ1L1" 
     className={styles.pdf}
