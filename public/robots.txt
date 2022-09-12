@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://lucy-de-rojas.vercel.app/
+
+# Sitemaps
+Sitemap: https://lucy-de-rojas.vercel.app/sitemap.xml
