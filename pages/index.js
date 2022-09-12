@@ -23,6 +23,9 @@ export default function Home() {
 
     {/* for google search console: */}
       <meta name="google-site-verification" content="-U70Yo_PUyJNjtc9GuyqT4vWVG0UDMjNYE247B5sORY" />
+
+{/* SEO for Bing: */}
+      <meta name="msvalidate.01" content="BB1EB7899B59F1CA72D84F367E74DB96" />
         
         
         <title>Lucy de Rojas - Web Dev</title>
