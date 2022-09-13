@@ -27,7 +27,7 @@ export default function ContactContent() {
         <h1>Contact</h1>
 
 
-        <a href={finishedProduct}>Send email</a>
+        <a href={finishedProduct}> Send me an email</a>
 
 
 

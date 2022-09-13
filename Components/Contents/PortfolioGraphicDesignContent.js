@@ -31,8 +31,10 @@ export default function PortfolioGraphicDesignContent() {
 <h2>Print design - Membership Benefits booklet:</h2>
 <p>24 page booklet in high gloss finish. Design work included intial document setup, 
     flatplan management and printing arrangements. 
-    Software used: Indesign, Photoshop and Illustrator. Have a flip through and see if can spot the 
+    Software used: Indesign, Photoshop and Illustrator. 
+     <span className={styles.author}> Have a flip through and see if can spot the 
     "infamous" pizza chart?
+    </span>
     
     
      </p>
@@ -88,7 +90,9 @@ export default function PortfolioGraphicDesignContent() {
     <p>Projected on cinema size screen during AGM. Video introduces Centenary 
         celebrations of CSSC. It starts with the 3D animation of Planet CSSC, followed by
         Star Wars yellow text describing how CSSC was founded in 1921, accompanied by the 
-        characteristic music. Press play to see where the Force will take you!    
+        characteristic music. 
+        <span className={styles.author}> Press play to see where the Force will take you!    
+        </span>
     </p>
 
 <div className={styles.videoContainer}>
@@ -113,7 +117,10 @@ export default function PortfolioGraphicDesignContent() {
 
 <h2>Powerpoint presentations - About CSSC</h2> 
     <p>Presentation used for sales pitches. It has 27 animated slides. 
-        Why not try clicking on the slides to see the power of Powerpoint? </p>
+       <span className={styles.author}>
+         Why not try clicking on the slides to see the power of Powerpoint?
+                </span>
+          </p>
     <iframe className={styles.pdf} src="https://onedrive.live.com/embed?resid=EC6BF2592866F3BD%21133&amp;authkey=%21AB0z1gC--kIE3K4&amp;em=2&amp;wdAr=1.7777777777777777&amp;Embed=1&amp;wdEaa=1">This is an embedded <a href="https://office.com">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps">Office</a>.</iframe>
 
     {/* <iframe src="https://onedrive.live.com/embed?resid=EC6BF2592866F3BD%21133&amp;authkey=%21AB0z1gC--kIE3K4&amp;em=2&amp;wdAr=1.7777777777777777&amp;Embed=1&amp;wdEaa=1" width="100%" height="300px" frameBorder="1">This is an embedded <a href="https://office.com">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps">Office</a>.</iframe> */}
