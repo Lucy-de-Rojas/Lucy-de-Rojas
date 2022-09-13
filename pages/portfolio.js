@@ -18,7 +18,7 @@ export default function Portfolio() {
 
     return (<Layout>
         <Head>
-<title>Portfolio</title>
+<title>Lucy de Rojas - Portfolio</title>
 </Head>
 <PortfolioBottomNavigation />
 

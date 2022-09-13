@@ -18,7 +18,7 @@ export default function About() {
 
     return (<Layout>
         <Head>
-<title>About Lucy</title>
+<title>Lucy de Rojas  - About</title>
 </Head>
 
       <AboutContent />

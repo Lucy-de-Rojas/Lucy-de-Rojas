@@ -13,7 +13,7 @@ export default function PortfolioGraphicDesign () {
 
     return (<Layout>
         <Head>
-<title>Lucy de Rojas - Portfolio - Graphic Design</title>
+<title>Lucy de Rojas - Graphic Design</title>
 </Head>
 <PortfolioBottomNavigation />
 

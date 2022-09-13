@@ -17,7 +17,7 @@ export default function Contact() {
     return (<Layout>
 
 <Head>
-<title>Contact</title>
+<title>Lucy de Rojas - Contact</title>
 </Head>
 
 <ContactContent />

@@ -13,7 +13,7 @@ export default function PortfolioWebDev () {
 
     return (<Layout>
         <Head>
-<title>Portfolio - Web Dev</title>
+<title>Lucy de Rojas - Web Development Design</title>
 </Head>
 <PortfolioBottomNavigation />
 
