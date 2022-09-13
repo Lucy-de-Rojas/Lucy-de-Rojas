@@ -31,7 +31,7 @@ export default function PortfolioGraphicDesignContent() {
 <h2>Print design - Membership Benefits booklet:</h2>
 <p>24 page booklet in high gloss finish. Design work included intial document setup, 
     flatplan management and printing arrangements. 
-    Software used: Indesign, Photoshop and Illustrator. 
+    Software used: Indesign, Photoshop and Illustrator. <br />
      <span className={styles.author}> Have a flip through and see if can spot the 
     "infamous" pizza chart?
     </span>
@@ -53,7 +53,9 @@ export default function PortfolioGraphicDesignContent() {
 
 <h2>Animations - Online Ad for The Guardian</h2>
 <p>From drafting ideas to submitting finished work based on
-    specifications provided by The Guardian. <span className={styles.quote}>"Why not try new things and 
+    specifications provided by The Guardian. 
+    <br />
+    <span className={styles.quote}>"Why not try new things and 
     discover yourself every single day?" </span> <span className={styles.author}>Bhavya Choudhary </span>
     
     
@@ -91,6 +93,7 @@ export default function PortfolioGraphicDesignContent() {
         celebrations of CSSC. It starts with the 3D animation of Planet CSSC, followed by
         Star Wars yellow text describing how CSSC was founded in 1921, accompanied by the 
         characteristic music. 
+        <br />
         <span className={styles.author}> Press play to see where the Force will take you!    
         </span>
     </p>
@@ -117,6 +120,7 @@ export default function PortfolioGraphicDesignContent() {
 
 <h2>Powerpoint presentations - About CSSC</h2> 
     <p>Presentation used for sales pitches. It has 27 animated slides. 
+    <br />
        <span className={styles.author}>
          Why not try clicking on the slides to see the power of Powerpoint?
                 </span>
