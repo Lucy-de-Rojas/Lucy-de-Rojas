@@ -59,3 +59,12 @@
 
 
 
+.quote {
+    font-style: italic;
+    font-weight: bolder;
+
+}
+
+.author {
+    font-weight: bolder;
+}

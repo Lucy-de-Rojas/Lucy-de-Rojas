@@ -31,7 +31,8 @@ export default function PortfolioGraphicDesignContent() {
 <h2>Print design - Membership Benefits booklet:</h2>
 <p>24 page booklet in high gloss finish. Design work included intial document setup, 
     flatplan management and printing arrangements. 
-    Software used: Indesign, Photoshop and Illustrator.
+    Software used: Indesign, Photoshop and Illustrator. Have a flip through and see if can spot the 
+    "infamous" pizza chart?
     
     
      </p>
@@ -50,7 +51,14 @@ export default function PortfolioGraphicDesignContent() {
 
 <h2>Animations - Online Ad for The Guardian</h2>
 <p>From drafting ideas to submitting finished work based on
-    specifications provided by The Guardian. 
+    specifications provided by The Guardian. <span className={styles.quote}>"Why not try new things and 
+    discover yourself every single day?" </span> <span className={styles.author}>Bhavya Choudhary </span>
+    
+    
+    
+
+
+
 </p>
 
 <div className={styles.imageContainer}>
@@ -79,8 +87,8 @@ export default function PortfolioGraphicDesignContent() {
 <h2>Video Production<br /> & Visual Effects - Star Wars Theme Centenary Celebrations Introduction </h2>
     <p>Projected on cinema size screen during AGM. Video introduces Centenary 
         celebrations of CSSC. It starts with the 3D animation of Planet CSSC, followed by
-        Star Wars yellow text describing how CSSC was founded in 1921 with characteristic music as 
-        accompaniment.    
+        Star Wars yellow text describing how CSSC was founded in 1921, accompanied by the 
+        characteristic music. Press play to see where the Force will take you!    
     </p>
 
 <div className={styles.videoContainer}>
@@ -104,7 +112,7 @@ export default function PortfolioGraphicDesignContent() {
 
 
 <h2>Powerpoint presentations - About CSSC</h2> 
-    <p>Presentation used for sales pitches. It has 27 animated slides with transitions between pages. 
+    <p>Presentation used for sales pitches. It has 27 animated slides. 
         Why not try clicking on the slides to see the power of Powerpoint? </p>
     <iframe className={styles.pdf} src="https://onedrive.live.com/embed?resid=EC6BF2592866F3BD%21133&amp;authkey=%21AB0z1gC--kIE3K4&amp;em=2&amp;wdAr=1.7777777777777777&amp;Embed=1&amp;wdEaa=1">This is an embedded <a href="https://office.com">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps">Office</a>.</iframe>
 
