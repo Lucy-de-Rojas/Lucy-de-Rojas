@@ -28,12 +28,11 @@ export default function AboutContent() {
 <h1>About</h1>
 <p>Lucy is an active, techie mum and wife who loves technology and art. With professional sporting
 past in athletics, her work style carries strong rule adhering, self-discipline and bringing projects to
-successful finish. After completing  
+successful finish. 
 
 
-With background in graphic design she wants to add full stack web developement
-into her diverse skills toolbox.
 
+With background in graphic design and graduating from School of Code as a full stack developer
 
 
 
