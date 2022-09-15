@@ -32,7 +32,7 @@ successful finish.
 
 
 
-With background in graphic design and graduating from School of Code as a full stack developer
+With background in graphic design she graduated from School of Code as a full stack developer.
 
 
 
