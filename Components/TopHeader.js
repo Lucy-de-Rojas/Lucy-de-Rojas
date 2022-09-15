@@ -28,7 +28,7 @@ export default function TopHeader() {
 
     return (<div className={styles.container} >
         <Head>
-        <link rel="icon" href="/DonQuiDesigns-logo.ico" />
+        <link rel="icon" href="/newLogoNOtail.ico" />
 
         </Head>
 
@@ -41,7 +41,7 @@ export default function TopHeader() {
 
             
             <Image
-                src="/DonQuiDesigns-logo.png"
+                src="/Media/NEW-logoRed.png"
                 width={500}
                 height={402} 
                 alt="logo"
