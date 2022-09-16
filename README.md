@@ -1,6 +1,6 @@
 <div align="center">
 
-<iframe src="https://onedrive.live.com/embed?cid=2E3A76ABA53A4AED&resid=2E3A76ABA53A4AED%211376&authkey=APWT4FAKcb8VQBU&em=2" width="402" height="327" className={styles.powerpoint}></iframe>
+
 
 <h1>
 Hi there 👋
