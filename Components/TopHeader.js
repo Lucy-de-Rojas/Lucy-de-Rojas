@@ -42,8 +42,8 @@ export default function TopHeader() {
             
             <Image
                 src="/Media/NEW-logoRed.png"
-                width={500}
-                height={402} 
+                width={2065}
+                height={1595} 
                 alt="logo"
                 />
                       

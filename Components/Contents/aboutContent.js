@@ -32,12 +32,14 @@ successful finish.
 
 
 
-With background in graphic design she graduated from School of Code as a full stack developer.
+With background in graphic design she graduated from School of Code as a full stack developer focusing on techologies of ReactJS,
 
 
 
 </p>
 
+
+<iframe src="https://onedrive.live.com/embed?cid=2E3A76ABA53A4AED&resid=2E3A76ABA53A4AED%211376&authkey=APWT4FAKcb8VQBU&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
 
 
     </LayoutContent>);
