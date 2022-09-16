@@ -6,7 +6,7 @@
 Hi there 👋
 </h1>
 
-🌱 I’m currently learning with [School Of Code:](https://www.schoolofcode.co.uk/)
+🌱 Finished learning with [School Of Code:](https://www.schoolofcode.co.uk/)
 
 
 
