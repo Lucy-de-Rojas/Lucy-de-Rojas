@@ -22,3 +22,20 @@
 
  
   }
+
+
+
+
+
+
+  .technologiesWrapper {
+
+    background-color: rgb(250, 187, 187);
+    padding: 20px;
+  }
+
+
+  .iconImage {
+    width: 50%;
+    height: auto;
+  }

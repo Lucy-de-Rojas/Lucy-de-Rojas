@@ -1,9 +1,46 @@
 import Image from "next/image";
 import styles from '../../styles/about.module.css';
-
-
-
+ 
 import LayoutContent from "./LayoutContent";
+
+
+
+let allIcons = [
+    {
+        href: "/Media/IconsAndLogos/codewars.png",
+        width: 920 ,
+        height: 234,
+        alt: 'Codewars logo',
+    },
+    {
+        href: '/Media/IconsAndLogos/Cypress.png',
+        with: 403,
+        height: 135,
+        alt: 'Cypress Testing Logo'
+
+    }, {
+        href: '/Media/IconsAndLogos/figma.png',
+        with:999 ,
+        height:478 ,
+        alt: 'Figma Logo'
+    }, {
+        href: '/Media/IconsAndLogos/Heroku_logo.png',
+        width: 2560,
+        height: 716,
+        alt: 'Heroku Logo'
+    }, {
+        href: '/Media/IconsAndLogos/jest.png',
+        with: 296,
+        height: 142,
+        alt: 'Jest Testing logo'
+    }
+
+]
+
+
+
+
+
 
 export default function AboutContent() {
 
@@ -22,6 +59,7 @@ export default function AboutContent() {
         layout="responsive"
         alt="Lucy de Rojas photo"
         className={styles.image}
+        quality="100"
         
         /></div>
 
@@ -35,7 +73,46 @@ successful finish.
 With background in graphic design she graduated from School of Code as a full stack developer. 
 <br />
 <br />
-TECHOLOGIES HERE (SAME AS WITH THE CV)
+
+
+
+
+
+<div className={styles.technologiesWrapper}>
+
+
+    {/* <Image 
+        src={allIcons[0].href}
+        width={allIcons[0].width}
+        height={allIcons[0].height}
+        alt={allIcons[0].alt}
+    /> */}
+
+
+
+
+
+            {
+              
+              allIcons.map((item)=> {
+                return (<div className={styles.iconImage}>
+                    <img src={item.href} width={item.width} height={item.height} className={styles.iconImage}/>
+                </div>);
+              })
+
+            }
+
+
+
+
+
+
+
+
+
+
+
+</div>
 
 
 <br />
