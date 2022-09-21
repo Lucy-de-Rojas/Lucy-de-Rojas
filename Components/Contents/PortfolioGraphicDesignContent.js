@@ -28,7 +28,14 @@ export default function PortfolioGraphicDesignContent() {
 
 
 
-<h2>Print design - Membership Benefits booklet:</h2>
+<h2>Print design: 
+    <br />
+    <span className={styles.quote}>
+     Membership Benefits booklet:
+     </span></h2>
+
+
+
 <p>24 page booklet in high gloss finish. Design work included intial document setup, 
     flatplan management and printing arrangements. 
     Software used: Indesign, Photoshop and Illustrator. <br />
@@ -51,7 +58,7 @@ export default function PortfolioGraphicDesignContent() {
 
 
 
-<h2>Animations - Online Ad for The Guardian</h2>
+<h2>Animations: <br /> <span className={styles.quote}> Online Ad for The Guardian</span></h2>
 <p>From drafting ideas to submitting finished work based on
     specifications provided by The Guardian. 
     <br />
@@ -65,7 +72,7 @@ export default function PortfolioGraphicDesignContent() {
 
 </p>
 
-<div className={styles.imageContainer}>
+<div className={styles.animatedGif}>
     <Image
         src="/Portfolio/animatedGifs/TrySomethingNew.gif"
         width={2244}
@@ -88,7 +95,13 @@ export default function PortfolioGraphicDesignContent() {
 
 
 
-<h2>Video Production<br /> & Visual Effects - Star Wars Theme Centenary Celebrations Introduction </h2>
+<h2>Video Production<br /> & Visual Effects: <br /> 
+<span className={styles.quote}>
+Star Wars Theme Centenary Celebrations Introduction 
+</span>
+
+
+</h2>
     <p>Projected on cinema size screen during AGM. Video introduces Centenary 
         celebrations of CSSC. It starts with the 3D animation of Planet CSSC, followed by
         Star Wars yellow text describing how CSSC was founded in 1921, accompanied by the 
@@ -118,7 +131,11 @@ export default function PortfolioGraphicDesignContent() {
 
 
 
-<h2>Powerpoint presentations - About CSSC</h2> 
+<h2>Powerpoint presentations: <br /> 
+<span className={styles.quote}>
+About CSSC
+</span>
+</h2> 
     <p>Presentation used for sales pitches. It has 27 animated slides. 
     <br />
        <span className={styles.author}>
