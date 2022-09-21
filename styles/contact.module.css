@@ -1,0 +1,55 @@
+
+
+.link {
+
+    /* position: relative; */
+    background-color: red;
+    width: 20%;
+    text-align: center;
+
+
+    margin:0  0 0 50px;
+
+    padding: 30px 20px;
+    border-radius: 10px; 
+    color: white;
+    font-weight: 900;
+    animation: contact 3s linear infinite alternate;
+    animation-fill-mode: both;
+
+
+
+
+    transition: width 1s;
+    transition-timing-function: ease-in-out;
+
+}
+
+
+@keyframes contact {
+    from {
+        background-color: red;
+        
+        
+    }
+    to {
+        background-color: rgb(90, 5, 5) ;
+
+    }
+}
+
+
+
+.link:hover {
+    animation-play-state: paused;
+    background-color: red;
+
+    width: 40%;
+}
+
+
+
+.contactWrapper {
+    display: flex;
+
+}
