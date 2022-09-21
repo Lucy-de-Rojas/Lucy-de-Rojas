@@ -25,16 +25,24 @@ export default function AboutContent() {
         
         /></div>
 
-<h1>About</h1>
+<h1>About Lucy</h1>
 <p>Lucy is an active, techie mum and wife who loves technology and art. With professional sporting
 past in athletics, her work style carries strong rule adhering, self-discipline and bringing projects to
 successful finish. 
 
 
 
-With background in graphic design she graduated from School of Code as a full stack developer focusing on techologies of ReactJS,
+With background in graphic design she graduated from School of Code as a full stack developer. 
+<br />
+<br />
+TECHOLOGIES HERE (SAME AS WITH THE CV)
 
 
+<br />
+<br />
+When she's not coding she loves to travel, explore and support her son in his geology and photography interests.
+<br />
+<br />
 
 </p>
 
