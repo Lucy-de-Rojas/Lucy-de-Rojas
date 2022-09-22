@@ -48,6 +48,27 @@
     
   }
 
-.headerTechnologies {
+
+  @media only screen and (max-width: 600px) {
+
+    .iconImage {
+        width: 27%;
+        margin: 10px 10px;
+    }
+
+  }
+  
+
+
+
+
+  
+  
+  
+  
+  .headerTechnologies {
     margin: 10px 0 35px 0;
+    /* background-color: red; */
+    width: 100%;
+    text-align: center;
 }
