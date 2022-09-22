@@ -22,7 +22,7 @@ My name is Lucy de Rojas and I code for web, design for print & screens.
 <br />
 
 
-VIDEO INTRODUCING MYSELF??? THE JOURNEY FROM DESIGN TO CODING
+powerpoint video/slideshow THE JOURNEY FROM DESIGN TO CODING
 
 
 
