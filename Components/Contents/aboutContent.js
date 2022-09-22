@@ -7,69 +7,68 @@ import LayoutContent from "./LayoutContent";
 
 let allIcons = [
     {
-        href: "/Media/IconsAndLogos/codewars.png",
-        width: 920 ,
-        height: 234,
-        alt: 'Codewars logo',
+        href: '/Media/IconsAndLogos/React_logo.png',
+        width: 5000,
+        height:1679 ,
+        alt: 'React logo'
     },
     {
+        href: '/Media/IconsAndLogos/Nextjs-Logo.png',
+        width: 800,
+        height: 479,
+        alt:'NextJs Logo'
+    },  {
+        href: '/Media/IconsAndLogos/PostgreSQL-Logo.png',
+        width: 799,
+        height: 296,
+        alt: 'PostgreSQL Logo'
+    },  {
+        href: '/Media/IconsAndLogos/Heroku_logo.png',
+        width: 2560,
+        height: 716,
+        alt: 'Heroku Logo'
+    },   {
         href: '/Media/IconsAndLogos/Cypress.png',
         width: 403,
         height: 135,
         alt: 'Cypress Testing Logo'
 
     }, {
-        href: '/Media/IconsAndLogos/figma.png',
-        width:999 ,
-        height:478 ,
-        alt: 'Figma Logo'
-    }, {
-        href: '/Media/IconsAndLogos/Heroku_logo.png',
-        width: 2560,
-        height: 716,
-        alt: 'Heroku Logo'
-    }, {
         href: '/Media/IconsAndLogos/jest.png',
         width: 296,
         height: 142,
         alt: 'Jest Testing logo'
-    }, {
-        href: '/Media/IconsAndLogos/Nextjs-Logo.png',
-        width: 800,
-        height: 479,
-        alt:'NextJs Logo'
-    }, {
-        href: '/Media/IconsAndLogos/PostgreSQL-Logo.png',
-        width: 799,
-        height: 296,
-        alt: 'PostgreSQL Logo'
-    }, {
-        href: '/Media/IconsAndLogos/python-logo.png',
-        width: 476,
-        height: 132,
-        alt: 'Python logo'
-    }, {
-        href: '/Media/IconsAndLogos/React_logo.png',
-        width: 5000,
-        height:1679 ,
-        alt: 'React logo'
-    }, {
-        href: '/Media/IconsAndLogos/scratch.png',
-        width: 815,
-        height: 625,
-        alt: 'Scratch logo'
-    }, {
+    },    {
+        href: '/Media/IconsAndLogos/figma.png',
+        width:999 ,
+        height:478 ,
+        alt: 'Figma Logo'
+    },  {
         href: '/Media/IconsAndLogos/Trello_logo.png',
         width: 1280,
         height: 366,
         alt: 'Trello Logo'
     }, {
+        href: '/Media/IconsAndLogos/python-logo.png',
+        width: 476,
+        height: 132,
+        alt: 'Python logo'
+    },  {
         href: '/Media/IconsAndLogos/vsCode.png',
         width: 637,
         height: 179,
         alt: 'VS Code Logo'
+    }, {
+        href: '/Media/IconsAndLogos/scratch.png',
+        width: 815,
+        height: 625,
+        alt: 'Scratch logo'
+    },  {
+        href: "/Media/IconsAndLogos/codewars.png",
+        width: 920 ,
+        height: 234,
+        alt: 'Codewars logo',
     }
-
 ]
 
 
@@ -84,7 +83,7 @@ export default function AboutContent() {
     return (<LayoutContent>
 
 
-<div className={styles.image}>
+<div className={styles.imageWrapper}>
 
         <Image 
         
@@ -98,10 +97,23 @@ export default function AboutContent() {
         
         /></div>
 
-<h1>About Lucy</h1>
+<h1>Lucy de Rojas</h1>
+
+Graduate at School of Code in 2022.
+<div className={styles.digitalLeaderWrapper}>
+<Image 
+    src='/Media/IconsAndLogos/SchoolOfCode_DigitalLeader_Winner.png'
+    width={1096}
+    height={584}
+    alt='School Of Code Digital Leader Winner'
+    /></div>
+
+
+
 <p>Lucy is an active, techie mum and wife who loves technology and art. With professional sporting
 past in athletics, her work style carries strong rule adhering, self-discipline and bringing projects to
 successful finish. 
+
 
 
 
@@ -157,6 +169,17 @@ When she's not coding she loves to travel, explore and support her son in his ge
 </p>
 
 
+
+<div>
+
+<Image 
+    src='/Media/Photos/FoggintorQuarryDartmoor.jpg'
+    width={2048}
+    height={957}
+    alt='Foggintor Quarry Dartmoor'
+    
+/>
+    </div>
 
 
     </LayoutContent>);

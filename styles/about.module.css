@@ -1,14 +1,7 @@
-.powerpoint {
-    width: 100%;
-}
 
 
-
-
-.image {
-
-    width: 50%;
-    border-radius: 50%;
+.imageWrapper {
+    width: 40%;
     margin: 0 auto;
 
 }
@@ -16,12 +9,33 @@
 
 @media only screen and (min-width: 600px) {
 
-    .image {
+    .imageWrapper {
         width: 25%;
     }
 
  
   }
+
+
+
+
+.image {
+
+
+    border-radius: 50%;
+    margin: 0 auto;
+    background-color: red;
+
+}
+
+
+
+
+
+
+
+
+
 
 
 
@@ -37,6 +51,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
 
   }
 
@@ -58,6 +73,43 @@
 
   }
   
+
+
+
+
+
+
+
+
+
+
+  .digitalLeaderWrapper {
+    /* background-color: rgb(243, 182, 182); */
+    width: 50%;
+    margin: 15px auto;
+  }
+
+
+  @media only screen and (min-width: 600px) {
+
+    .digitalLeaderWrapper {
+        width: 35%;
+    }
+
+   
+ 
+  }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
