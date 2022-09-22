@@ -16,7 +16,7 @@ export default function HomePageContent () {
 
 
 <p>
-My name is Lucy de Rojas and I code for web and design for print & screens.
+My name is Lucy de Rojas and I code for web, design for print & screens.
 
 <br />
 <br />
@@ -24,6 +24,15 @@ My name is Lucy de Rojas and I code for web and design for print & screens.
 
 VIDEO INTRODUCING MYSELF??? THE JOURNEY FROM DESIGN TO CODING
 
+
+
+{/* 
+Video content:
+
+
+
+
+*/}
 </p>
     </LayoutContent>);
 }

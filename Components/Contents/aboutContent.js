@@ -13,7 +13,7 @@ let allIcons = [
         alt: 'React logo'
     },
     {
-        href: '/Media/IconsAndLogos/Nextjs-Logo.png',
+        href: '/Media/IconsAndLogos/Nextjs-logo.png',
         width: 800,
         height: 479,
         alt:'NextJs Logo'
