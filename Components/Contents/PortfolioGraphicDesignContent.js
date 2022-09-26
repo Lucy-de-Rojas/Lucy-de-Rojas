@@ -151,7 +151,7 @@ About CSSC
 
     <h2>3D print: <br /> 
 <span className={styles.quote}>
-CSSC Volunteer Awards Badge
+CSSC Volunteer Awards Badge, test sample made is stainless steel. Final print in silver not produced due to lack of detail. 
 </span>
 </h2> 
 
