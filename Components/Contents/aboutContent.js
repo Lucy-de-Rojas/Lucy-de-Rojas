@@ -211,19 +211,19 @@ With background in graphic design she graduated from School of Code as a full st
     
 
     
-    <img src={item.href} alt={item.alt} width={item.width} height={item.height} className={styles.iconImage} />
+    <img src={item.href} alt={item.alt} width={item.width} height={item.height} className={styles.iconImageDesign} />
 
 
     
 )})}
 
 
-
-
-
-
-
 </div>
+
+
+
+
+
 
 
 <br />
