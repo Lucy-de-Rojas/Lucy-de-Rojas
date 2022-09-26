@@ -228,7 +228,7 @@ With background in graphic design she graduated from School of Code as a full st
 
 <br />
 <br />
-When she's not coding she loves to travel, explore and support her son in his geology and photography interests.
+When she's not coding or designing she loves to travel, explore and support her son in his geology and photography interests.
 <br />
 <br />
 

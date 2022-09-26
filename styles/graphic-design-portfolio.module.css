@@ -73,3 +73,9 @@
 .author {
     font-weight: bolder;
 }
+
+
+.hrline {
+    width: 100%;
+    border: 2px dashed red;
+}
