@@ -4,8 +4,14 @@ import styles from '../../styles/about.module.css';
 import LayoutContent from "./LayoutContent";
 
 
-
+// for web technologies:
 let allIcons = [
+    {
+        href: '/Media/IconsAndLogos/JavaScript-logo.png',
+        width: 1052,
+        height: 1052,
+        alt: 'Javascript Logo'
+    },
     {
         href: '/Media/IconsAndLogos/React_logo.png',
         width: 5000,
@@ -53,7 +59,17 @@ let allIcons = [
         width: 476,
         height: 132,
         alt: 'Python logo'
-    },  {
+    },  
+    
+    {
+        href: '/Media/IconsAndLogos/GitHub-logo.jpg',
+        width:3840 ,
+        height: 2160,
+        alt:'Github Logo'
+    },
+    
+    
+    {
         href: '/Media/IconsAndLogos/vsCode.png',
         width: 637,
         height: 179,
@@ -71,6 +87,41 @@ let allIcons = [
     }
 ]
 
+
+
+// for designtools:
+let iconsDesign = [
+    {
+    href: '/Media/IconsAndLogos/Photoshop-logo.png',
+    width: 640,
+    height: 624,
+    alt: 'Adobe Photoshop Logo'
+}, {
+    href:'/Media/IconsAndLogos/Indesign-logo.png',
+    with: 1051,
+    height: 1025,
+    alt: 'Adobe Indesign Logo'
+}, {
+    href: '/Media/IconsAndLogos/Illustrator.-logo.png',
+    width: 512,
+    height: 499,
+    alt: 'Adobe Illustrator Logo'
+}, {
+    href: '/Media/IconsAndLogos/Premiere-logo.png',
+    width: 2101,
+    height: 2048,
+    alt: 'Adobe Premiere Logo'
+}, {
+    href: '/Media/IconsAndLogos/After_Effects-logo.png',
+    width: 2101,
+    height: 2048,
+    alt: 'Adobe After Effects Logo'
+}
+
+
+
+
+];
 
 
 
@@ -136,7 +187,7 @@ With background in graphic design she graduated from School of Code as a full st
     /> */}
 
 
-    <h2 className={styles.headerTechnologies}>Favourite techologies and tools:</h2>
+    <h2 className={styles.headerTechnologies}>Favourite web techologies and tools:</h2>
             {
               
               allIcons.map((item)=> {
@@ -150,6 +201,21 @@ With background in graphic design she graduated from School of Code as a full st
 
 
 
+{/* designing tools: */}
+<hr className={styles.hr} />
+    <h2 className={styles.headerTechnologies}>Designing tools: </h2>
+
+
+{iconsDesign.map((item)=> {
+    return (
+    
+
+    
+    <img src={item.href} alt={item.alt} width={item.width} height={item.height} className={styles.iconImage} />
+
+
+    
+)})}
 
 
 
@@ -170,6 +236,11 @@ When she's not coding she loves to travel, explore and support her son in his ge
 
 
 
+
+
+
+
+{/* bottom page image: */}
 <div>
 
 <Image 
