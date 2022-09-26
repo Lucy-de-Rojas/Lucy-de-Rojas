@@ -149,10 +149,25 @@ About CSSC
 
 
 
+    <h2>3D print: <br /> 
+<span className={styles.quote}>
+CSSC Volunteer Awards Badge
+</span>
+</h2> 
 
 
 
+{/* put photo of the 3D printed badge: */}
+<div className={styles.animatedGif}>
+    <Image
+        src="/Media/Photos/3D-printed-volunteer-award-badge-CSSC-back-and-front.jpg"
+        width={800}
+        height={559}
+        alt="3D printed volunteer award badge CSSC front"      
+    />
 
+
+</div>
     
 
 
