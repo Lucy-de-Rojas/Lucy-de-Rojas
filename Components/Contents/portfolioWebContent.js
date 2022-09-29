@@ -1,41 +1,18 @@
 import LayoutContent from "./LayoutContent";
-import styles from "../../styles/graphic-design-portfolio.module.css";
+import Image from "next/image";
 import Link from "next/link";
+import styles from "../../styles/web-dev-portfolio.module.css";
 import { portfolioWebData } from "../../data/portfolioWebData";
 
 
-
-/*
-const portfolioWebData = [
-    {
-        header: "Trivia Website",
-        src:"https://lucy-de-rojas.github.io/trivia/",
-        githubLink: "https://github.com/Lucy-de-Rojas/trivia/",
-        description: "Trivia site",
-        technologies: "JS, React",
-        challenges: "challenges",
-        enjoyed: "enjoyed",
-        learnedSomethingNew: "learned something new", 
-    },{
-        header:"",
-        src: "",
-        description: "",
-        technologies: "",
-        challenges: "",
-        enjoyed: "",
-        learnedSomethingNew: ""
-
-    },
-];
-*/
-console.log(portfolioWebData[0].githubLink);
 
 
 
 
 export default function PortfolioWebContent() {
+    console.clear();
 
-    
+  
 
 
 
@@ -70,38 +47,66 @@ export default function PortfolioWebContent() {
 
 <hr className={styles.hrline} />
 
-{portfolioWebData.map((item)=> {
-    return (<div className={styles.container}>
-
-        <h2>{item.header}:</h2>
-        <p>Description:{item.description}</p>
-        <iframe src={item.src} className={styles.pdf} />
-
-        <p>Technologies: {item.technologies}</p>
-        <p>Challenges: {item.challenges}</p>
-        <p>Enjoyed: {item.enjoyed}</p>
-        <p>Learned something new: {item.learnedSomethingNew}</p>
 
 
-        {/* <Link href={item.githubLink}><a>Github Link</a></Link> */}
-
-        <a href={item.githubLink}>Github Link</a>
+  {
 
 
+
+    portfolioWebData.map((item, index)=> {
 
     
+        return ( 
+        
+        <div className={styles.wrapper} key={index}>
+
+            <h1>{item.header}</h1>
+            <p>{item.description}</p>
+
+        <div className={styles.image}><Image
+            src={item.src}
+            width={item.width}
+            height={item.height}
+            alt={item.alt}
+            quality={item.quality}
+            /></div>
 
 
+            <h2>Technologies:</h2>
+            <p> {item.technologies}</p>
+
+            <h2>Enjoyed</h2>
+            <p> {item.enjoyed}</p>
+
+            <h2>Challenges:</h2>
+            <p>{item.challenges}</p>
+            
+            <h2>Learned something new:</h2>
+            <p>{item.learnedSomethingNew}</p>
+
+
+
+            <h2>Links:</h2>
+            <Link href={item.githubLink}><a target="_blank">Github</a></Link>
+
+
+            <Link href={item.liveSiteLink}><a target="_blank">Live Site</a></Link>
+
+
+
+
+
+            
+            <hr className={styles.hrline} />
+            </div>)
+
+
+       
+    })
+
+
+}
       
-
-
-
-<hr className={styles.hrline} />
-    </div>)
-})}
-
-
-                
 
 
 
