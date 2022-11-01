@@ -36,23 +36,19 @@ export default function TopHeader() {
 
 
 {/* svg logo: */}
-Logo:
-<Logo />
+
+
+
 {/* END objectFit: svg logo */}
 
            <div className={styles.imageContainer}>
         <Link href="/"><a>
 
+        <Logo />
 
-        {/* logo in svg: */}
 
-                 {/* <Image
-                        src="/Media/SVG/NEW-logo_adobe_express.svg"
-                        width={2065}
-                        height={1595}
-                        alt="don qui designs logo"
 
-                    /> */}
+
 
 
                     <div>
