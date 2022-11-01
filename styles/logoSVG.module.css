@@ -6,29 +6,52 @@
 }
 
 
-.logo {
-    /* background-color: rgb(195, 206, 251); */
+
+.redColor {
+    /* fill: #fc0000; */
+    animation: redAnim 30s infinite linear both;
+}
+
+
+
+
+.logoContainer:hover .redColor {
+    animation-play-state: paused;
+    /* animation-duration: 0s; */
+    /* fill: #fc0000; */
+
+    animation: resetRed 1.5s linear forwards;
 
 }
 
 
-.red {
 
-    fill: #fc0000;
-    animation: red 30s infinite linear;
-}
+
 
 /* auto animation NO action: */
-@keyframes red {
+@keyframes redAnim {
 
     0% {fill: #fc0000;}
     12.5% {fill: #ff5f1f;}
     25% {fill: yellow;}
-    37.5% {fill:rgb(90, 252, 90);}
+    37.5% {fill:rgb(210, 254, 65);}
     50% {fill:rgb(4, 129, 4);}
     62.5% {fill:rgb(85, 85, 242);}
     75% {fill:rgb(3, 3, 129);}
     87.5% {fill:purple;}
-    100% {fill:#fc0000;}
+    100% {fill:#3a1212;}
+
+
 
 }
+
+
+
+@keyframes resetRed {
+    0% {fill: rgb(255, 255, 255);}
+    100% {fill: #fc0000;}
+}
+
+
+
+
