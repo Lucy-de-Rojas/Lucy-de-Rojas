@@ -8,7 +8,7 @@
 
 
 .redColor {
-    /* fill: #fc0000; */
+    fill: #fc0000;
     animation: redAnim 30s infinite linear both;
 }
 
@@ -16,11 +16,11 @@
 
 
 .logoContainer:hover .redColor {
-    animation-play-state: paused;
+    /* animation-play-state: paused;
     /* animation-duration: 0s; */
     /* fill: #fc0000; */
 
-    animation: resetRed 1.5s linear forwards;
+    /* animation: resetRed 1.5s linear forwards; */
 
 }
 
@@ -39,18 +39,18 @@
     62.5% {fill:rgb(85, 85, 242);}
     75% {fill:rgb(3, 3, 129);}
     87.5% {fill:purple;}
-    100% {fill:#3a1212;}
+    100% {fill:#fc0000;}
 
 
 
 }
 
 
-
+/*
 @keyframes resetRed {
     0% {fill: rgb(255, 255, 255);}
     100% {fill: #fc0000;}
-}
+} */
 
 
 
