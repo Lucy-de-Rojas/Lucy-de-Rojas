@@ -5,7 +5,16 @@
 }
 
 
+.header2 {
 
+    padding: 0;
+    margin: 0;
+}
+
+.para {
+    margin: 0;
+    padding: 0;
+}
 
 
 .wrapper {

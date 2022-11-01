@@ -61,7 +61,7 @@ export default function PortfolioWebContent() {
         <div className={styles.wrapper} key={index}>
 
             <h1>{item.header}</h1>
-            <p>{item.description}</p>
+            <p className={styles.para}>{item.description}</p>
 
         <div className={styles.image}><Image
             src={item.src}
@@ -72,17 +72,16 @@ export default function PortfolioWebContent() {
             /></div>
 
 
-            <h2>Technologies:</h2>
-            <p> {item.technologies}</p>
+            <h2 className={styles.header2}>Technologies:</h2>
+            <p className={styles.para}> {item.technologies}</p>
 
             <h2>Enjoyed</h2>
-            <p> {item.enjoyed}</p>
+            <p className={styles.para}> {item.enjoyed}</p>
 
             <h2>Challenges:</h2>
-            <p>{item.challenges}</p>
             
             <h2>Learned something new:</h2>
-            <p>{item.learnedSomethingNew}</p>
+            <p className={styles.para}>{item.learnedSomethingNew}</p>
 
 
 

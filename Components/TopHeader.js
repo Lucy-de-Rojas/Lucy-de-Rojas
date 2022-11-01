@@ -39,22 +39,38 @@ export default function TopHeader() {
            <div className={styles.imageContainer}>
         <Link href="/"><a>
 
-            
+
             <Image
                 src="/Media/NEW-logoRed.png"
                 width={2065}
-                height={1595} 
+                height={1595}
                 alt="logo"
                 />
-                      
+
+
+{/* logo in svg: */}
+                <div>
+
+                 <Image
+                        src="/Media/SVG/NEW-logo_adobe_express.svg"
+                        width={500}
+                        height={500}
+                        alt=""
+                    />
+
+
+                </div>
+{/* END OFlogo in svg */}
+
+
             </a></Link>
                 </div>
 
 
 
 
- 
- 
+
+
 
 
 
