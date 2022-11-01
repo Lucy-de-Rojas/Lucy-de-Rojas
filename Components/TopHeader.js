@@ -40,26 +40,18 @@ export default function TopHeader() {
         <Link href="/"><a>
 
 
-            <Image
-                src="/Media/NEW-logoRed.png"
-                width={2065}
-                height={1595}
-                alt="logo"
-                />
-
-
-{/* logo in svg: */}
-                <div>
+        {/* logo in svg: */}
 
                  <Image
                         src="/Media/SVG/NEW-logo_adobe_express.svg"
-                        width={500}
-                        height={500}
-                        alt=""
+                        width={2065}
+                        height={1595}
+                        alt="don qui designs logo"
+
                     />
 
 
-                </div>
+
 {/* END OFlogo in svg */}
 
 
