@@ -8,6 +8,8 @@ import Link from "next/link";
 import Head from 'next/head';
 
 
+import Logo from "./SVGs/Logo";
+
 
 // styles:
 import styles from '../styles/topHeader.module.css';
@@ -33,8 +35,10 @@ export default function TopHeader() {
         </Head>
 
 
-
-
+{/* svg logo: */}
+Logo:
+<Logo />
+{/* END objectFit: svg logo */}
 
            <div className={styles.imageContainer}>
         <Link href="/"><a>
@@ -42,13 +46,20 @@ export default function TopHeader() {
 
         {/* logo in svg: */}
 
-                 <Image
+                 {/* <Image
                         src="/Media/SVG/NEW-logo_adobe_express.svg"
                         width={2065}
                         height={1595}
                         alt="don qui designs logo"
 
-                    />
+                    /> */}
+
+
+                    <div>
+
+
+
+                    </div>
 
 
 
