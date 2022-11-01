@@ -15,14 +15,14 @@
 .red {
 
     fill: #fc0000;
-    animation: red 20s infinite linear;
+    animation: red 30s infinite linear;
 }
 
-
+/* auto animation NO action: */
 @keyframes red {
 
     0% {fill: #fc0000;}
-    12.5% {fill: rgb(235, 166, 39);}
+    12.5% {fill: #ff5f1f;}
     25% {fill: yellow;}
     37.5% {fill:rgb(90, 252, 90);}
     50% {fill:rgb(4, 129, 4);}
