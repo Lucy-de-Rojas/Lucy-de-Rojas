@@ -11,11 +11,17 @@ export let allIcons = [
         width: 476,
         height: 132,
         alt: 'Python logo'
-    },  
+    },
     {
         href: '/Media/IconsAndLogos/php-logo.png',
         width: 306,
         height: 165,
+        alt: 'PHP logo'
+    },
+    {
+        href: '/Media/SVG/LaravelPHP_adobe_express.svg',
+        width: 1509,
+        height: 416,
         alt: 'PHP logo'
     },
     {
@@ -29,17 +35,17 @@ export let allIcons = [
         width: 800,
         height: 479,
         alt:'NextJs Logo'
-    }, 
-    
+    },
+
     {
         href: '/Media/IconsAndLogos/express-logo.png',
         width: 1102,
         height:500 ,
         alt: ''
     },
-    
-    
-    
+
+
+
     {
         href: '/Media/IconsAndLogos/PostgreSQL-Logo.png',
         width: 799,
@@ -72,15 +78,15 @@ export let allIcons = [
         height: 366,
         alt: 'Trello Logo'
     },
-    
+
     {
         href: '/Media/IconsAndLogos/GitHub-Logo.png',
         width:3840 ,
         height: 2160,
         alt:'Github Logo'
     },
-    
-    
+
+
     {
         href: '/Media/IconsAndLogos/vsCode.png',
         width: 637,
@@ -97,7 +103,7 @@ export let allIcons = [
         height: 234,
         alt: 'Codewars logo',
     },
- 
+
 ]
 
 
