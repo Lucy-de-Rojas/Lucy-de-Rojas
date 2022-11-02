@@ -25,7 +25,7 @@ export let allIcons = [
         alt: 'PHP logo'
     },
     {
-        href: '/Media/svg/React_logo_adobe_express.svg',
+        href: '/Media/SVG/React_logo_adobe_express.svg',
         width: 5000,
         height:1679 ,
         alt: 'React logo'
