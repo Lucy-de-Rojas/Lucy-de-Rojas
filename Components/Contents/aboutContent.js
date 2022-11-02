@@ -32,6 +32,7 @@ export default function AboutContent() {
         className={styles.image}
         quality="100"
 
+
         /></div>
 
 

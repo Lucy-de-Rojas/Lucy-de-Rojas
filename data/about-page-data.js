@@ -1,19 +1,19 @@
 // for web technologies:
 export let allIcons = [
     {
-        href: '/Media/IconsAndLogos/JavaScript-logo.png',
+        href: '/Media/SVG/JavaScript-logo_adobe_express.svg',
         width: 1052,
         height: 1052,
         alt: 'Javascript Logo'
     },
     {
-        href: '/Media/IconsAndLogos/python-logo.png',
+        href: '/Media/SVG/python-logo_adobe_express.svg',
         width: 476,
         height: 132,
         alt: 'Python logo'
     },
     {
-        href: '/Media/IconsAndLogos/php-logo.png',
+        href: '/Media/SVG/php-logo_adobe_express.svg',
         width: 306,
         height: 165,
         alt: 'PHP logo'
@@ -25,62 +25,89 @@ export let allIcons = [
         alt: 'PHP logo'
     },
     {
-        href: '/Media/IconsAndLogos/React_logo.png',
+        href: '/Media/svg/React_logo_adobe_express.svg',
         width: 5000,
         height:1679 ,
         alt: 'React logo'
     },
     {
-        href: '/Media/IconsAndLogos/Nextjs-logo.png',
+        href: '/Media/SVG/Nextjs-logo_adobe_express.svg',
         width: 800,
         height: 479,
         alt:'NextJs Logo'
     },
 
     {
-        href: '/Media/IconsAndLogos/express-logo.png',
+        href: '/Media/SVG/express-logo.svg',
         width: 1102,
         height:500 ,
         alt: ''
     },
 
 
+    {
+        href: '/Media/SVG/MySQL-Logo.svg',
+        width: 3000,
+        height: 2000,
+        alt: 'MySQL Logo'
+    },
+
+
+
 
     {
-        href: '/Media/IconsAndLogos/PostgreSQL-Logo.png',
+        href: '/Media/SVG/PostgreSQL-Logo.svg',
         width: 799,
         height: 296,
         alt: 'PostgreSQL Logo'
-    },  {
-        href: '/Media/IconsAndLogos/Heroku_logo.png',
+    },
+
+
+
+
+
+    {
+        href: '/Media/SVG/Heroku_logo.svg',
         width: 2560,
         height: 716,
         alt: 'Heroku Logo'
-    },   {
-        href: '/Media/IconsAndLogos/Cypress.png',
+    },
+
+
+    {
+        href: '/Media/SVG/Cypress.svg',
         width: 403,
         height: 135,
         alt: 'Cypress Testing Logo'
 
-    }, {
-        href: '/Media/IconsAndLogos/jest.png',
+    },
+
+    {
+        href: '/Media/SVG/jest.svg',
         width: 296,
         height: 142,
         alt: 'Jest Testing logo'
-    },    {
-        href: '/Media/IconsAndLogos/figma.png',
+    },
+
+
+    {
+        href: 'Media/SVG/figma.svg',
         width:999 ,
         height:478 ,
         alt: 'Figma Logo'
-    },  {
-        href: '/Media/IconsAndLogos/Trello_logo.png',
+    },
+
+
+
+    {
+        href: 'Media/SVG/Trello_logo.svg',
         width: 1280,
         height: 366,
         alt: 'Trello Logo'
     },
 
     {
-        href: '/Media/IconsAndLogos/GitHub-Logo.png',
+        href: '/Media/SVG/GitHub-Logo.svg',
         width:3840 ,
         height: 2160,
         alt:'Github Logo'
@@ -92,14 +119,22 @@ export let allIcons = [
         width: 637,
         height: 179,
         alt: 'VS Code Logo'
-    }, {
-        href: '/Media/IconsAndLogos/scratch.png',
+    },
+
+
+
+    {
+        href: '/Media/SVG/scratch.svg',
         width: 815,
         height: 625,
         alt: 'Scratch logo'
-    },  {
-        href: "/Media/IconsAndLogos/codewars.png",
-        width: 920 ,
+    },
+
+
+
+
+    {
+        href: "/Media/SVG/codewars.svg",        width: 920 ,
         height: 234,
         alt: 'Codewars logo',
     },
@@ -114,27 +149,27 @@ export let allIcons = [
 // for designtools:
 export let iconsDesign = [
     {
-    href: '/Media/IconsAndLogos/Photoshop-logo.png',
+    href: '/Media/SVG/Photoshop-logo.svg',
     width: 640,
     height: 624,
     alt: 'Adobe Photoshop Logo'
 }, {
-    href:'/Media/IconsAndLogos/Indesign-logo.png',
+    href:'/Media/SVG/Indesign-logo.svg',
     with: 1051,
     height: 1025,
     alt: 'Adobe Indesign Logo'
 }, {
-    href: '/Media/IconsAndLogos/Illustrator.-logo.png',
+    href: '/Media/SVG/Illustrator.-logo.svg',
     width: 512,
     height: 499,
     alt: 'Adobe Illustrator Logo'
 }, {
-    href: '/Media/IconsAndLogos/Premiere-logo.png',
+    href: '/Media/SVG/Premiere-logo.svg',
     width: 2101,
     height: 2048,
     alt: 'Adobe Premiere Logo'
 },   {
-    href: '/Media/IconsAndLogos/After_Effects-logo.png',
+    href: '/Media/SVG/After_Effects-logo.svg',
     width: 2101,
     height: 2048,
     alt: 'Adobe After Effects Logo'},
