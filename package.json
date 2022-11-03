@@ -22,7 +22,8 @@
     "react-image-gallery": "^1.2.8",
     "react-pdf": "^5.7.2",
     "react-player": "^2.10.1",
-    "stream": "^0.0.2"
+    "stream": "^0.0.2",
+    "swiper": "^8.4.4"
   },
   "devDependencies": {
     "eslint": "8.19.0",
