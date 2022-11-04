@@ -80,6 +80,7 @@ export default function Slider () {
 
 
 
+<SwiperSlide>
 
 
         <Image
@@ -88,7 +89,8 @@ export default function Slider () {
           height={heightSingle}
           alt='page 1'
 
-        />
+          />
+          </SwiperSlide>
 
 
 
