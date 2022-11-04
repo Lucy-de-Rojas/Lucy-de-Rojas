@@ -31,27 +31,7 @@ const altMain = "Benefits of Membership booklet 2018: ";
 const srcMainLink = '/portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet';
 
 
-let slideShowBooklet2 = [];
 
-
-for(let i=1;i<=24;i++){
-    // console.log(i + ' hello.jpg');
-
-    let item = {
-        src: srcMainLink + i + '.jpg',
-        width: widthSingle,
-        height: heightSingle,
-        alt: altMain + ' page '   + i,
-    };
-
-
-    console.log(item);
-
-
-    slideShowBooklet2.push(item);
-
-
-  }
 
 
 
@@ -98,23 +78,10 @@ export default function Slider () {
 
 
 
-        {slideShowBooklet2.map((item)=> {
-
-          return <SwiperSlide>
-            <Image
-                src={item.src}
-                width={item.width}
-                height={item.height}
-                alt={item.alt}
-                 />
-          </SwiperSlide>
-        })}
 
 
 
 
-
-{/*
         <Image
           src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet1.jpg"
           width={widthSingle}
@@ -153,7 +120,7 @@ export default function Slider () {
       </SwiperSlide>
 
 
- */}
+
 
 
 
