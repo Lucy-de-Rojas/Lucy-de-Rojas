@@ -34,7 +34,7 @@ export default function PowerPoint () {
 
 
     return (<div className={styles.wrapper}>
-        <h1>Powerpoint</h1>
+
         <Swiper
 
 modules={[Navigation, Pagination, Scrollbar, A11y,Lazy, EffectCube]}
