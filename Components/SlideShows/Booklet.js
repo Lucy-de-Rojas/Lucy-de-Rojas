@@ -10,13 +10,20 @@ import { slideShowBooklet2 } from '../../data/graphic-design-portfolio-slideshow
 
 
 
-
+import SwiperCore, { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // Import Swiper styles
 import 'swiper/css';
+import 'swiper/css/navigation';
+import 'swiper/css/pagination';
+import 'swiper/css/scrollbar';
+
+
+
+SwiperCore.use([Navigation, Pagination, Scrollbar, A11y]);
 
 
 
@@ -27,6 +34,12 @@ export default function Slider () {
 
 
     <Swiper
+
+      modules={[Navigation, Pagination, Scrollbar, A11y]}
+      navigation
+      pagination={{ clickable: true }}
+      scrollbar={{ draggable: true }}
+
       spaceBetween={50}
       slidesPerView={1}
       onSlideChange={() => console.log('slide change')}
@@ -60,6 +73,16 @@ export default function Slider () {
 
 
     </Swiper>
+
+
+
+
+
+
+
+
+
+
 
     </div>);
 }
