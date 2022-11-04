@@ -81,13 +81,11 @@ export default function Slider () {
 
 
 <SwiperSlide>
-
-
         <Image
           src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet1.jpg"
           width={widthSingle}
           height={heightSingle}
-          alt='page 1'
+          alt='Membership Benefits Booklet page 1'
 
           />
           </SwiperSlide>
@@ -102,7 +100,7 @@ export default function Slider () {
           src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet2.jpg"
           width={widthSingle}
           height={heightSingle}
-          alt='page 2'
+          alt='Membership Benefits Booklet page 2'
 
         />
       </SwiperSlide>
@@ -116,19 +114,269 @@ export default function Slider () {
           src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet3.jpg"
           width={widthSingle}
           height={heightSingle}
-          alt='page 3'
+          alt='Membership Benefits Booklet page 3'
 
         />
       </SwiperSlide>
 
 
+      <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet4.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 4'
+
+          />
+          </SwiperSlide>
+
+
+
+          <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet5.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 5'
+
+          />
+          </SwiperSlide>
+
+
+
+          <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet6.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 6'
+
+          />
+          </SwiperSlide>
+
+
+          <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet7.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 7'
+
+          />
+          </SwiperSlide>
+
+
+          <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet8.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 8'
+
+          />
+          </SwiperSlide>
+
+
+          <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet9.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 9'
+
+          />
+          </SwiperSlide>
+
+
+
+          <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet10.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 10'
+
+          />
+          </SwiperSlide>
+
+
+
+
+          <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet11.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 11'
+
+          />
+          </SwiperSlide>
+
+
+
+
+          <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet12.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 12'
+
+          />
+          </SwiperSlide>
+
+
+
+
+          <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet13.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 13'
+
+          />
+          </SwiperSlide>
+
+
+
+
+          <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet14.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 14'
+
+          />
+          </SwiperSlide>
+
+
+          <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet15.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 15'
+
+          />
+          </SwiperSlide>
+
+
+
+          <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet16.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 16'
+
+          />
+          </SwiperSlide>
+
+
+          <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet17.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 17'
+
+          />
+          </SwiperSlide>
+
+
+          <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet18.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 18'
+
+          />
+          </SwiperSlide>
+
+
+
+               <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet19.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 19'
+
+          />
+          </SwiperSlide>
+
+
+
+
+     <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet20.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 20'
+
+          />
+          </SwiperSlide>
+
+
+
+
+
+     <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet21.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 21'
+
+          />
+          </SwiperSlide>
+
+
+
+
+
+     <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet22.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 22'
+
+          />
+          </SwiperSlide>
+
+
+
+
+               <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet23.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 23'
+
+          />
+          </SwiperSlide>
 
 
 
 
 
 
-    </Swiper>
+
+     <SwiperSlide>
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet24.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='Membership Benefits Booklet page 24'
+
+          />
+          </SwiperSlide>
 
 
 
@@ -139,6 +387,5 @@ export default function Slider () {
 
 
 
-
-    </div>);
-}
+    </Swiper></div>);}
+    // END
