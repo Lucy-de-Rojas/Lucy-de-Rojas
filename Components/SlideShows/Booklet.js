@@ -49,7 +49,7 @@ export default function Slider () {
 
 
 
-      {slideShowBooklet2.map((item, index)=> {
+      {slideshowBooklet.map((item, index)=> {
         return  <SwiperSlide>
           <Image
           src={item.src}
