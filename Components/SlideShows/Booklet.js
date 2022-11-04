@@ -10,7 +10,7 @@ import Image from 'next/image';
 
 
 
-import SwiperCore, { Navigation, Pagination, Scrollbar, A11y, Lazy } from 'swiper';
+import SwiperCore, { Navigation, Pagination, Scrollbar, A11y, Lazy, EffectFlip } from 'swiper';
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -21,6 +21,7 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
 import 'swiper/css/lazy';
+import 'swiper/css/effect-flip'
 
 
 
@@ -36,7 +37,7 @@ const srcMainLink = '/portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCM
 
 
 
-SwiperCore.use([Navigation, Pagination, Scrollbar, A11y, Lazy]);
+SwiperCore.use([Navigation, Pagination, Scrollbar, A11y, Lazy, EffectFlip]);
 
 
 
@@ -51,6 +52,7 @@ export default function Slider () {
       modules={[Navigation, Pagination, Scrollbar, A11y,Lazy]}
       navigation
       Lazy
+      effect='flip'
       pagination={{ clickable: true }}
       scrollbar={{ draggable: true }}
 
