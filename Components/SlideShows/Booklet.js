@@ -23,6 +23,11 @@ import 'swiper/css/scrollbar';
 
 
 
+const widthSingle = "900";
+const heightSingle = "663";
+
+
+
 SwiperCore.use([Navigation, Pagination, Scrollbar, A11y]);
 
 
@@ -48,7 +53,7 @@ export default function Slider () {
 
 
 
-
+{/*
       {slideshowBooklet.map((item, index)=> {
         return  <SwiperSlide>
           <Image
@@ -58,14 +63,48 @@ export default function Slider () {
           alt={item.alt}
 
         />  </SwiperSlide>;
-      })}
+      })} */}
+
+
+      <SwiperSlide>
+
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet1.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='page 1'
+
+        />
+      </SwiperSlide>
 
 
 
 
 
-      {/* <SwiperSlide><p>last</p></SwiperSlide> */}
+      <SwiperSlide>
 
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet2.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='page 2'
+
+        />
+      </SwiperSlide>
+
+
+
+
+      <SwiperSlide>
+
+        <Image
+          src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet3.jpg"
+          width={widthSingle}
+          height={heightSingle}
+          alt='page 3'
+
+        />
+      </SwiperSlide>
 
 
 
