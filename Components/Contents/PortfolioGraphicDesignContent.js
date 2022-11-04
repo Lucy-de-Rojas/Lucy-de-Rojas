@@ -24,7 +24,7 @@ export default function PortfolioGraphicDesignContent() {
 
 
 
-<Booklet />
+
 
 
 
@@ -46,11 +46,14 @@ export default function PortfolioGraphicDesignContent() {
 
 
      </p>
+
+     <Booklet />
+{/*
 <iframe
     src="//www.slideshare.net/slideshow/embed_code/key/x3MTog1XpcJ1L1"
     className={styles.pdf}
 
-    />
+    /> */}
 
 
 

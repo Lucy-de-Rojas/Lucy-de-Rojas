@@ -1,7 +1,8 @@
 ﻿.wrapper {
 
     /* position: relative; */
-    background-color: green;
-    color: red;
+    /* background-color: green;
+    color: red; */
     width: 100%;
+    box-shadow: 5px 5px 10px rgba(85, 85, 85, 0.514);
 }
