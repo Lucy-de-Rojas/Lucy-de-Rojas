@@ -9,7 +9,7 @@ const srcMainLink = '/portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCM
 
 
 
-export let slideShowBooklet2 = [];
+let slideShowBooklet2 = [];
 
 
 for(let i=1;i<=24;i++){

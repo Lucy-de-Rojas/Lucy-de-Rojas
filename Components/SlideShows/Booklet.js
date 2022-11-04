@@ -3,14 +3,14 @@ import Image from 'next/image';
 
 
 // import data for the images:
-import { slideshowBooklet  } from '../../data/graphic-design-portfolio-slideshow';
+// import { slideshowBooklet  } from '../../data/graphic-design-portfolio-slideshow';
 
 
-import { slideShowBooklet2 } from '../../data/graphic-design-portfolio-slideshow';
+// import { slideShowBooklet2 } from '../../data/graphic-design-portfolio-slideshow';
 
 
 
-import SwiperCore, { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
+import SwiperCore, { Navigation, Pagination, Scrollbar, A11y, Lazy } from 'swiper';
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -20,15 +20,43 @@ import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
+import 'swiper/css/lazy';
+
 
 
 
 const widthSingle = "900";
 const heightSingle = "663";
+const altMain = "Benefits of Membership booklet 2018: ";
+const srcMainLink = '/portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet';
+
+
+let slideShowBooklet2 = [];
+
+
+for(let i=1;i<=24;i++){
+    // console.log(i + ' hello.jpg');
+
+    let item = {
+        src: srcMainLink + i + '.jpg',
+        width: widthSingle,
+        height: heightSingle,
+        alt: altMain + ' page '   + i,
+    };
+
+
+    console.log(item);
+
+
+    slideShowBooklet2.push(item);
+
+
+  }
 
 
 
-SwiperCore.use([Navigation, Pagination, Scrollbar, A11y]);
+
+SwiperCore.use([Navigation, Pagination, Scrollbar, A11y, Lazy]);
 
 
 
@@ -40,8 +68,9 @@ export default function Slider () {
 
     <Swiper
 
-      modules={[Navigation, Pagination, Scrollbar, A11y]}
+      modules={[Navigation, Pagination, Scrollbar, A11y,Lazy]}
       navigation
+      Lazy
       pagination={{ clickable: true }}
       scrollbar={{ draggable: true }}
 
@@ -53,21 +82,39 @@ export default function Slider () {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {slideShowBooklet2.map((item)=> {
+
+          return <SwiperSlide>
+            <Image
+                src={item.src}
+                width={item.width}
+                height={item.height}
+                alt={item.alt}
+                 />
+          </SwiperSlide>
+        })}
+
+
+
+
+
 {/*
-      {slideshowBooklet.map((item, index)=> {
-        return  <SwiperSlide>
-          <Image
-          src={item.src}
-          width={item.width}
-          height={item.height}
-          alt={item.alt}
-
-        />  </SwiperSlide>;
-      })} */}
-
-
-      <SwiperSlide>
-
         <Image
           src="/Portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCMembershipBenefitsBooklet1.jpg"
           width={widthSingle}
@@ -75,7 +122,6 @@ export default function Slider () {
           alt='page 1'
 
         />
-      </SwiperSlide>
 
 
 
@@ -106,6 +152,8 @@ export default function Slider () {
         />
       </SwiperSlide>
 
+
+ */}
 
 
 
