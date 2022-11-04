@@ -3,6 +3,7 @@ import styles from '../../styles/graphic-design-portfolio.module.css';
 import LayoutContent from "./LayoutContent";
 
 import Booklet from "../SlideShows/Booklet";
+import PowerPoint from "../SlideShows/PowerPoint";
 
 
 
@@ -146,7 +147,18 @@ About CSSC
          Why not try clicking on the slides to see the power of Powerpoint?
                 </span>
           </p>
-    <iframe className={styles.pdf} src="https://onedrive.live.com/embed?resid=EC6BF2592866F3BD%21133&amp;authkey=%21AB0z1gC--kIE3K4&amp;em=2&amp;wdAr=1.7777777777777777&amp;Embed=1&amp;wdEaa=1">This is an embedded <a href="https://office.com">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps">Office</a>.</iframe>
+
+
+
+                <PowerPoint />
+
+
+          {/* working powerpint link:   ✅*/}
+{/*
+    <iframe className={styles.pdf} src="https://onedrive.live.com/embed?resid=EC6BF2592866F3BD%21133&amp;authkey=%21AB0z1gC--kIE3K4&amp;em=2&amp;wdAr=1.7777777777777777&amp;Embed=1&amp;wdEaa=1">This is an embedded <a href="https://office.com">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps">Office</a>.</iframe> */}
+
+
+
 
     {/* <iframe src="https://onedrive.live.com/embed?resid=EC6BF2592866F3BD%21133&amp;authkey=%21AB0z1gC--kIE3K4&amp;em=2&amp;wdAr=1.7777777777777777&amp;Embed=1&amp;wdEaa=1" width="100%" height="300px" frameBorder="1">This is an embedded <a href="https://office.com">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps">Office</a>.</iframe> */}
 
