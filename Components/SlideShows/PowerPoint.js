@@ -253,6 +253,234 @@ onSwiper={(swiper) => console.log(swiper)}>
 
 
 
+  <SwiperSlide>
+        <Image
+            src="/Portfolio/PowerPointsPresentation/AnimatedGifs-PageBY16ge/CSSC Presentation June 2017 (Rolling Cube) low res16.gif"
+            width={widthSingle}
+            height={heightSingle}
+            alt="Powerpoint Slides: slide 16"
+
+    /></SwiperSlide>
+
+
+
+
+
+
+
+
+
+    <SwiperSlide>
+        <Image
+            src="/Portfolio/PowerPointsPresentation/AnimatedGifs-PageBYpage/CSSC Presentation June 2017 (Rolling Cube) low res17.gif"
+            width={widthSingle}
+            height={heightSingle}
+            alt="Powerpoint Slides: slide 17"
+
+    /></SwiperSlide>
+
+
+
+
+
+
+
+
+    <SwiperSlide>
+        <Image
+            src="/Portfolio/PowerPointsPresentation/AnimatedGifs-PageBYpage/CSSC Presentation June 2017 (Rolling Cube) low res18.gif"
+            width={widthSingle}
+            height={heightSingle}
+            alt="Powerpoint Slides: slide 18"
+
+    /></SwiperSlide>
+
+
+
+
+
+
+
+
+
+    <SwiperSlide>
+        <Image
+            src="/Portfolio/PowerPointsPresentation/AnimatedGifs-PageBYpage/CSSC Presentation June 2017 (Rolling Cube) low res19.gif"
+            width={widthSingle}
+            height={heightSingle}
+            alt="Powerpoint Slides: slide 19"
+
+    /></SwiperSlide>
+
+
+
+
+
+
+
+
+
+
+    <SwiperSlide>
+        <Image
+            src="/Portfolio/PowerPointsPresentation/AnimatedGifs-PageBYpage/CSSC Presentation June 2017 (Rolling Cube) low res20.gif"
+            width={widthSingle}
+            height={heightSingle}
+            alt="Powerpoint Slides: slide 20"
+
+    /></SwiperSlide>
+
+
+
+
+
+
+
+
+    <SwiperSlide>
+        <Image
+            src="/Portfolio/PowerPointsPresentation/AnimatedGifs-PageBYpage/CSSC Presentation June 2017 (Rolling Cube) low res21.gif"
+            width={widthSingle}
+            height={heightSingle}
+            alt="Powerpoint Slides: slide 21"
+
+    /></SwiperSlide>
+
+
+
+
+
+
+
+
+
+
+    <SwiperSlide>
+        <Image
+            src="/Portfolio/PowerPointsPresentation/AnimatedGifs-PageBYpage/CSSC Presentation June 2017 (Rolling Cube) low res22.gif"
+            width={widthSingle}
+            height={heightSingle}
+            alt="Powerpoint Slides: slide 22"
+
+    /></SwiperSlide>
+
+
+
+
+
+
+
+<SwiperSlide>
+        <Image
+            src="/Portfolio/PowerPointsPresentation/AnimatedGifs-PageBYpage/CSSC Presentation June 2017 (Rolling Cube) low res23.gif"
+            width={widthSingle}
+            height={heightSingle}
+            alt="Powerpoint Slides: slide 23"
+
+    /></SwiperSlide>
+
+
+
+
+
+
+
+
+
+<SwiperSlide>
+        <Image
+            src="/Portfolio/PowerPointsPresentation/AnimatedGifs-PageBYpage/CSSC Presentation June 2017 (Rolling Cube) low res24.gif"
+            width={widthSingle}
+            height={heightSingle}
+            alt="Powerpoint Slides: slide 24"
+
+    /></SwiperSlide>
+
+
+
+
+
+
+
+
+
+<SwiperSlide>
+        <Image
+            src="/Portfolio/PowerPointsPresentation/AnimatedGifs-PageBYpage/CSSC Presentation June 2017 (Rolling Cube) low res25.gif"
+            width={widthSingle}
+            height={heightSingle}
+            alt="Powerpoint Slides: slide 25"
+
+    /></SwiperSlide>
+
+
+
+
+
+
+
+
+
+<SwiperSlide>
+        <Image
+            src="/Portfolio/PowerPointsPresentation/AnimatedGifs-PageBYpage/CSSC Presentation June 2017 (Rolling Cube) low res26.gif"
+            width={widthSingle}
+            height={heightSingle}
+            alt="Powerpoint Slides: slide 26"
+
+    /></SwiperSlide>
+
+
+
+
+
+
+
+
+
+<SwiperSlide>
+        <Image
+            src="/Portfolio/PowerPointsPresentation/AnimatedGifs-PageBYpage/CSSC Presentation June 2017 (Rolling Cube) low res27.gif"
+            width={widthSingle}
+            height={heightSingle}
+            alt="Powerpoint Slides: slide 27"
+
+    /></SwiperSlide>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
