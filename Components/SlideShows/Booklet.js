@@ -10,7 +10,7 @@ import Image from 'next/image';
 
 
 
-import SwiperCore, { Navigation, Pagination, Scrollbar, A11y, Lazy, EffectFlip } from 'swiper';
+import SwiperCore, { Navigation, Pagination, Scrollbar, A11y, Lazy, EffectFlip, EffectFade, EffectCreative, EffectCards, EffectCoverflow } from 'swiper';
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -21,7 +21,10 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
 import 'swiper/css/lazy';
-import 'swiper/css/effect-flip'
+import 'swiper/css/effect-flip';
+import 'swiper/css/effect-fade';
+import 'swiper/css/effect-creative';
+import 'swiper/css/effect-coverflow';
 
 
 
@@ -37,11 +40,28 @@ const srcMainLink = '/portfolio/pdfs/booklets/CSSCMembershipBooklet/LowRes/CSSCM
 
 
 
-SwiperCore.use([Navigation, Pagination, Scrollbar, A11y, Lazy, EffectFlip]);
+SwiperCore.use([Navigation, Pagination, Scrollbar, A11y, Lazy, EffectFlip, EffectFade, EffectCreative, EffectCoverflow]);
 
 
 
 export default function Slider () {
+
+
+
+  //
+
+
+  const params = {
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+      renderBullet: (index, className) => {
+        return '<span class="' + className + '">' + (index + 1) + '</span>';
+      }
+    }
+  }
+//
+
 
     return (<div className={styles.wrapper}>
 
@@ -52,9 +72,13 @@ export default function Slider () {
       modules={[Navigation, Pagination, Scrollbar, A11y,Lazy]}
       navigation
       Lazy
-      effect='flip'
-      pagination={{ clickable: true }}
+      effect='coverflow'
+      pagination={{ clickable: true,    renderBullet: (index, className) => {
+        return '<span class="' + className + '">' + (index + 1) + '</span>';
+      }}}
       scrollbar={{ draggable: true }}
+
+
 
       spaceBetween={50}
       slidesPerView={1}
