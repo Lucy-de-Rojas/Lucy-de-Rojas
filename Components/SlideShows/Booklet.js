@@ -73,9 +73,7 @@ export default function Slider () {
       navigation
       Lazy
       effect='coverflow'
-      pagination={{ clickable: true,    renderBullet: (index, className) => {
-        return '<span class="' + className + '">' + (index + 1) + '</span>';
-      }}}
+      pagination={{ clickable: true}}
       scrollbar={{ draggable: true }}
 
 
