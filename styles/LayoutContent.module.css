@@ -4,9 +4,12 @@
 
 .container {
 
-    margin: 10px 0 0 0;
+    margin:0;
 
     background-color: var(--grays);
     padding: 20px;
-    
+
+
+
+
 }

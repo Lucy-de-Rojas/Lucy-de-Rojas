@@ -2,7 +2,7 @@
 
 
 .container {
-    background-color: rgb(238, 236, 130);
+    /* background-color: rgb(238, 236, 130); */
     margin-top: 0;
 
     display: flex;
@@ -18,8 +18,15 @@
     margin: 0 5px;
     width: 40%;
 
-    border-radius: 0 0 10px 10px;
+    border-top: 1px red solid;
+    border-bottom: 5px red solid;
+
+    /* border-radius: 0 0 10px 10px; */
 }
+
+
+
+
 
 
 

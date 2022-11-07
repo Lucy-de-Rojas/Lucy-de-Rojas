@@ -15,6 +15,11 @@ export default function Navigation() {
 
 
 
+
+
+
+
+
     return (<div className={styles.navigation}>
 
             <Link href="/about" >
@@ -31,7 +36,7 @@ export default function Navigation() {
              <Link href="/contact">
              <a className={styles.nav}>Contact</a>
              </Link>
-            
+
 
 
 

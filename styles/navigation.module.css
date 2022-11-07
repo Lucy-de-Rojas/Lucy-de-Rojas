@@ -12,9 +12,9 @@
     flex-direction: row;
     justify-content: center;
     margin-bottom: 0;
-    
-}
+    padding: 0;
 
+}
 
 
 
@@ -24,10 +24,10 @@
 
     width: 25%;
     padding: 15px 0;
-    
- 
 
-    margin:20px 10px;
+
+
+    margin:0px 10px;
 
     border-radius: 20px 20px 0 0;
 
@@ -36,5 +36,10 @@
     background-color: var(--grays);
 
 
-    
+
+}
+
+
+.nav:active {
+    background-color: red;
 }
