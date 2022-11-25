@@ -6,14 +6,6 @@
 Hi there 👋
 </h1>
 
-🌱 Finished learning with [School Of Code:](https://www.schoolofcode.co.uk/)
-
-
-
-[<img src="./public/Media/SchoolOfCode-Logo.png" width="10%" />](https://www.schoolofcode.co.uk/)
-
-
-
 
 <img src="./public/DonQuiDesigns-logo.jpg" width="20%"/>
 
