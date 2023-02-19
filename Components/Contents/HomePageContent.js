@@ -20,7 +20,7 @@ I&apos;m thrilled to have you here and hope that you find everything you&apos;re
 
 
 <p>
-    Some of the content on these pages has been helped with ChatGP as part of experiment. Yes, machines can sometimes write better content than us humans. Together we can create some awesome stuff.
+    Some of the content on these pages has been helped with ChatGPT as part of experiment. Yes, machines can sometimes write better content than us humans. Together we can create some awesome stuff.
 </p>
 
 
