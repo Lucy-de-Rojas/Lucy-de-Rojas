@@ -123,7 +123,7 @@ Working with the Laceys family was trully amazing experience where seeing how se
 {/* VIDEO: */}
 <h2>3. Centenary celebration video</h2>
 <p>
-Seeing a video I collaborated on to be shown on cinema size screen is unbelievalbe experience with the size of the projection and the sound as well.
+Seeing a video, I collaborated on, to be shown on cinema size screen is unbelievalbe experience. With the size of the projection and the sound as well it&apos;s uncomparable to pc screen.
 </p>
 <Link href="https://lucy-de-rojas.vercel.app/portfolioGraphicDesign#video">  &gt;&gt;  Link to video section &lt;&lt; </Link>
 
