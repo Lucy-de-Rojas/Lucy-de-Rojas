@@ -32,7 +32,7 @@ export const portfolioWebData = [
     // CHANELLE:
     {
         header: "Beauty by Chanelle",
-        description: "About the site ",
+        description: "Beauty by Chanelle is a local beauty treatment business. Creation of this site started on green field as there was no website beforehand. The look and feel of the site uses soft pastel colours and easy-on-eye fonts. There are beauty treatment related images used, some of these are taken by Chanelle and some are sourced from Unsplash site.   With this site help, Chanelle may reach back to her clients via message dashboard, that starts on Contact page and saves contact and a message into the database. There Chanelle can organise her messages between Messagesd and Archive sections. With the help of SEO Chanelle's site is planned to be listed to anyone searching for a beauty treatments in Buckinghamshire area.",
         recommendation: "",
         src:"/Media/screenshots/chanelle-site.jpg",
         quality: 100,
