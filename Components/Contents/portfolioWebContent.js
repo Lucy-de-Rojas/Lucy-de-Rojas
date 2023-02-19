@@ -60,6 +60,18 @@ export default function PortfolioWebContent() {
 
 
 
+{/* RECOMMENDATION: */}
+{item.recommendation && <div>
+    <h2>Recommendation</h2>
+    <p style={{
+        fontStyle: 'italic',
+
+    }}> {item.recommendation} </p>
+    <p> {item.recommendationBy} </p>
+    </div>}
+
+
+
 
 {/* SCREENSHOT: */}
         <div className={styles.image}><Image
