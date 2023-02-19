@@ -45,7 +45,8 @@ export const portfolioWebData = [
     // MENU13:
     {
         header: "Menu13",
-        description: "About the site ",
+        description: "This is a React / Next JS component library. It is a quick way to create a menu with links to associated pages. As any web developer, I found myself re-creating this part of site over and over until I decided to create an open source library that anyone can freely use. As of items in the Menu13, there are three default ones: Home, About and Contact. These can be overriden by using a list of customised items. Other elements that can be changed, are colours and backgrounds, corner radius, alignment and width. Feel free to use this library, I will welcome aby feedbacks.",
+
         src:"/Media/screenshots/menu13-site.jpg",
         quality: 100,
         recommendation: "",
