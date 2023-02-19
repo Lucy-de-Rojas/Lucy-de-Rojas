@@ -59,7 +59,7 @@ export const portfolioWebData = [
     // WATER BOTTLE COMPANY:
     {
         header: "Aquaguacamaya - Water bottling company",
-        description: "About the site ",
+        description: "This is currently running project. Water bottling company in Colombia is planning to create ordering form for clients to order their product and improve search result listing. Long term plan of the company is to go national and hopefully international too.",
         recommendation: "",
         src:"/Media/screenshots/federico-site.jpg",
         quality: 100,
