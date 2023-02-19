@@ -67,8 +67,8 @@ export default function PortfolioGraphicDesignContent() {
 <p>From drafting ideas to submitting finished work based on
     specifications provided by The Guardian.
     <br />
-    <span className={styles.quote}>"Why not try new things and
-    discover yourself every single day?" </span> <span className={styles.author}>Bhavya Choudhary </span>
+    <span className={styles.quote}>&quot;Why not try new things and
+    discover yourself every single day?&quot; </span> <span className={styles.author}>Bhavya Choudhary </span>
 
 
 
@@ -100,7 +100,7 @@ export default function PortfolioGraphicDesignContent() {
 
 
 
-<h2>Video Production<br /> & Visual Effects: <br />
+<h2 id="video">Video Production<br /> & Visual Effects: <br />
 <span className={styles.quote}>
 Star Wars Theme Centenary Celebrations Introduction
 </span>

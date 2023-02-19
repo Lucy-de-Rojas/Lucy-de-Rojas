@@ -10,24 +10,27 @@ export const portfolioWebData = [
         width: 900,
         height: 746,
         recommendation: "",
-        alt: "screenshot Trivia website",
+        alt: "screenshot naphill tennis club website",
         githubLink: "https://github.com/Lucy-de-Rojas/naphill-tennis-club",
         liveSiteLink: 'https://naphill-tennis-club.vercel.app/',
+        id:"naphill"
     },
 
     // LACEYS:
     {
         header: "The Laceys Farm Shop",
         description: "Laceys Farm Shop website has been made modern and responsive to be accessible on all devices. Colour theme and font were more consistent. More visual content was added in form of photos and collages. New look resulted in more customers being able to reach the Laceys Farm Shop and see new offers or sales.",
-        src:"/Media/screenshots/laceys-site.jpg",
         recommendation: "Lucy worked with our business in years 2014-2016 to help redesign and relaunch our website. I found her very professional, and understanding of our requirements. She was easy to work with and we were happy with the outcome of the project.",
         recommendationBy: ' Will Lacey',
+        src:"/Media/screenshots/laceys-site.jpg",
         quality: 100,
         width: 900,
         height: 933,
         alt: "screenshot Laceys website",
         githubLink: "https://github.com/Lucy-de-Rojas/laceys",
         liveSiteLink: 'https://laceys.vercel.app/',
+        id:"laceys"
+
     },
 
     // CHANELLE:
@@ -42,6 +45,7 @@ export const portfolioWebData = [
         alt: "screenshot Laceys website",
         githubLink: "https://github.com/Lucy-de-Rojas/laceys",
         liveSiteLink: 'https://beyond-beauty-by-chanelle.vercel.app/',
+        id:"chanelle"
     },
     // MENU13:
     {
@@ -56,6 +60,7 @@ export const portfolioWebData = [
         alt: "screenshot Laceys website",
         githubLink: "https://github.com/Lucy-de-Rojas/Menu13-Next",
         liveSiteLink: 'https://www.npmjs.com/package/@lucyderojas/menu13-next',
+        id:"menu13"
     },
     // WATER BOTTLE COMPANY:
     {
@@ -69,6 +74,7 @@ export const portfolioWebData = [
         alt: "screenshot Laceys website",
         githubLink: "https://github.com/Lucy-de-Rojas/",
         liveSiteLink: 'http://aguaguacamaya.com/',
+        id:"waterBottle"
     },
 
 ];

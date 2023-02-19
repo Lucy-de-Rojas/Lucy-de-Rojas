@@ -44,7 +44,7 @@ export default function PortfolioWebContent() {
 
 
 {/* HEADER: */}
-            <h1>{item.header}</h1>
+            <h1 id={item.id}>{item.header}</h1>
 
 {/* DESCRIPTION: */}
             <p className={styles.para}>{item.description}</p>
