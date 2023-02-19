@@ -94,7 +94,6 @@ Working with the Laceys family was trully amazing experience where seeing how se
 <p>This project tops my coding experience. The reason behind this is as this was my first React / Next JS library. And it&apos;s free to all to use.</p>
 <Link href="https://lucy-de-rojas.vercel.app//portfolioWebDev#menu13">  &gt;&gt;  Link  to Menu13 &lt;&lt; </Link>
 
-https://lucy-de-rojas.vercel.app/
 
 
 <Image
@@ -126,6 +125,7 @@ https://lucy-de-rojas.vercel.app/
 <p>
     descr
 </p>
+<Link href="https://lucy-de-rojas.vercel.app//portfolioWebDev#video">  &gt;&gt;  Link to video section &lt;&lt; </Link>
 
 <video
         src="/Portfolio/Videos/CSSCStarWarsCentenaryIntroduction.mp4"
