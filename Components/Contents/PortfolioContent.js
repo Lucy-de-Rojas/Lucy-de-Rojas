@@ -123,9 +123,9 @@ Working with the Laceys family was trully amazing experience where seeing how se
 {/* VIDEO: */}
 <h2>3. Centenary celebration video</h2>
 <p>
-    descr
+Seeing a video I collaborated on to be shown on cinema size screen is unbelievalbe experience with the size of the projection and the sound as well.
 </p>
-<Link href="https://lucy-de-rojas.vercel.app//portfolioWebDev#video">  &gt;&gt;  Link to video section &lt;&lt; </Link>
+<Link href="https://lucy-de-rojas.vercel.app/portfolioGraphicDesign#video">  &gt;&gt;  Link to video section &lt;&lt; </Link>
 
 <video
         src="/Portfolio/Videos/CSSCStarWarsCentenaryIntroduction.mp4"
