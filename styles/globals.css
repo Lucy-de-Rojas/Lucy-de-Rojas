@@ -59,7 +59,8 @@ p {
 
 @media only screen and (min-width: 1000px) {
   body {
-    padding: 0 10%;
+    padding: 0 30%;
+    padding: 0 30%;
     font-size: 2rem;
 
   }
@@ -70,7 +71,7 @@ p {
 @media only screen and (min-width: 1200px) {
   body {
     font-size: 2rem;
-    padding: 0 15%;
+    padding: 0 30%;
   }
 
 }
