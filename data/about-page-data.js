@@ -12,19 +12,8 @@ export let allIcons = [
         height: 132,
         alt: 'Python logo'
     },
-    {
-        href: '/Media/SVG/php-logo_adobe_express.svg',
-        width: 306,
-        height: 165,
-        alt: 'PHP logo'
-    },
-    {
-        href: '/Media/SVG/LaravelPHP_adobe_express.svg',
-        width: 1509,
-        height: 416,
-        alt: 'PHP logo'
-    },
-    {
+
+        {
         href: '/Media/SVG/React_logo_adobe_express.svg',
         width: 5000,
         height:1679 ,
@@ -37,49 +26,12 @@ export let allIcons = [
         alt:'NextJs Logo'
     },
 
-    {
-        href: '/Media/SVG/express-logo.svg',
-        width: 1102,
-        height:500 ,
-        alt: ''
-    },
-
 
     {
         href: '/Media/SVG/MySQL-Logo.svg',
         width: 3000,
         height: 2000,
         alt: 'MySQL Logo'
-    },
-
-
-
-
-    {
-        href: '/Media/SVG/PostgreSQL-Logo.svg',
-        width: 799,
-        height: 296,
-        alt: 'PostgreSQL Logo'
-    },
-
-
-
-
-
-    {
-        href: '/Media/SVG/Heroku_logo.svg',
-        width: 2560,
-        height: 716,
-        alt: 'Heroku Logo'
-    },
-
-
-    {
-        href: '/Media/SVG/Cypress.svg',
-        width: 403,
-        height: 135,
-        alt: 'Cypress Testing Logo'
-
     },
 
     {
@@ -138,6 +90,12 @@ export let allIcons = [
         height: 234,
         alt: 'Codewars logo',
     },
+    {
+        href: '/Media/SVG/php-logo_adobe_express.svg',
+        width: 306,
+        height: 165,
+        alt: 'PHP logo'
+    }
 
 ]
 

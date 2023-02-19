@@ -41,29 +41,12 @@ export default function AboutContent() {
 
 <h1>Lucy de Rojas</h1>
 
-Graduate at School of Code in 2022.
-<div className={styles.digitalLeaderWrapper}>
-
-
-
-
-<Image
-    src='/Media/SVG/SchoolOfCode_DigitalLeader_Winner_adobe_express.svg'
-    width={1096}
-    height={584}
-    alt='School Of Code Digital Leader Winner'
-    /></div>
-
-
-
 <p>Lucy is an active, techie mum and wife who loves technology and art. With professional sporting
 past in athletics, her work style carries strong rule adhering, self-discipline and bringing projects to
 successful finish.
 
 
 
-
-With background in graphic design she graduated from School of Code as a full stack developer.
 <br />
 <br />
 
@@ -82,12 +65,12 @@ With background in graphic design she graduated from School of Code as a full st
     /> */}
 
 
-    <h2 className={styles.headerTechnologies}>Favourite web techologies and tools:</h2>
+    <h2 className={styles.headerTechnologies}>Web techologies and tools:</h2>
             {
 
-              allIcons.map((item)=> {
+              allIcons.map((item, index)=> {
                 return (
-                    <img src={item.href} width={item.width} height={item.height} className={styles.iconImage}/>
+                    <img src={item.href} width={item.width} height={item.height} className={styles.iconImage} key={index}/>
                 );
               })
 
@@ -101,12 +84,12 @@ With background in graphic design she graduated from School of Code as a full st
     <h2 className={styles.headerTechnologies}>Designing tools: </h2>
 
 
-{iconsDesign.map((item)=> {
+{iconsDesign.map((item, index)=> {
     return (
 
 
 
-    <img src={item.href} alt={item.alt} width={item.width} height={item.height} className={styles.iconImageDesign} />
+    <img src={item.href} alt={item.alt} width={item.width} height={item.height} className={styles.iconImageDesign} key={index} />
 
 
 
@@ -123,7 +106,7 @@ With background in graphic design she graduated from School of Code as a full st
 
 <br />
 <br />
-When she's not coding or designing she loves to travel, explore and support her son in his geology and photography interests.
+When she&apos;s not coding or designing she loves to travel, explore and support her son in his geology and photography interests.
 <br />
 <br />
 

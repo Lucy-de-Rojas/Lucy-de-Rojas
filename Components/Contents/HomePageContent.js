@@ -11,28 +11,13 @@ export default function HomePageContent () {
 
     return (<LayoutContent>
 
-<h1>Welcome!</h1>
+<h1>Welcome to my website!</h1>
 
 
 
 <p>
-My name is Lucy de Rojas and I code for web, design for print & screens.
+I&apos;m thrilled to have you here and hope that you find everything you&apos;re looking for. My goal is to provide you with a great user experience and valuable information. If you have any questions or feedback, please don&apos;t hesitate to reach out to me. Thank you for visiting!
 
-<br />
-<br />
-
-
-powerpoint video/slideshow THE JOURNEY FROM DESIGN TO CODING
-
-
-
-{/* 
-Video content:
-
-
-
-
-*/}
 </p>
     </LayoutContent>);
 }

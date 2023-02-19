@@ -22,9 +22,11 @@ export default function Footer() {
     <div className={styles.container}>
 
 
+
+
+{/* GITHUB: */}
 <div className={styles.containerIcon}>
     <Link href="https://github.com/Lucy-de-Rojas"><a target="_blank">
-
 
 
             <Image
@@ -34,19 +36,12 @@ export default function Footer() {
             alt='git hub logo'
             />
 
-
-
-
-
-
-
-
             </a></Link>
             </div>
 
 
 
-
+{/* LINKED IN: */}
             <div className={styles.containerIcon}>
             <Link href="https://www.linkedin.com/in/lucyderojas/"><a target="_blank">
             <Image
@@ -62,22 +57,34 @@ export default function Footer() {
 
 
 
+{/* NPM: */}
+<div className={styles.containerIcon}>
+            <Link href="https://www.npmjs.com/~lucyderojas"><a target="_blank">
+            <Image
+            src='/Media/SVG/NpmLogo.svg'
+            width={105}
+            height={105}
+            alt='NPM logo'
+            />
+            </a></Link> </div>
 
 
 
 
-        {/* codewars: */}
+
+
+
+
+{/* CODEWARS:: */}
              <div className={styles.containerIcon}>
             <Link href="https://www.codewars.com/users/ldrojas"><a target="_blank">
             <Image
             src='/Media/codewarsLogo.svg'
             width={100}
             height={100}
-            alt='cadewars logo'
+            alt='codewars logo'
             />
-            </a></Link>
-
-             </div>
+            </a></Link> </div>
 
 
 
