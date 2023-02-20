@@ -47,12 +47,19 @@ successful finish.
 
 
 
-<br />
-<br />
+<br /><br />
 
+Having worked in both technological and artistic industries Lucy has gathered a blend of intertwining skills.
+Whilst working as a web developer she learned importance of problem-solving, collaboration and working independently. During projects involving video editing, visual effects and motion graphics she understood the value of time-management and adaptability. And in graphic and print design she understood the cost-effectiveness and clear communication.
+<br /><br />
+In technology sector her strongest qualities are pattern recognition, analytical thinking and strategical planning.
+In graphic design these are typography, video editing and visual layout.
 
+<br /><br />
 
+Lucy loves learning new skills and putting these to practice. She is looking ahead to new opportunities and experiences that her skills will bring her.
 
+<br /><br />
 
 <div className={styles.technologiesWrapper}>
 
