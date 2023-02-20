@@ -25,10 +25,27 @@ export default function Navigation() {
         // about page:
         if(pathname=='about') {
 
-            // let aboutPage = document.querySelector('.navigation_about__ebGkv');
+            let aboutPage = document.querySelector(".navigation_navigation__UdTUf :nth-child(1)");
 
-            // aboutPage.styles.backgroundColor = 'red';
+            aboutPage.style.backgroundColor = 'red';
+            aboutPage.style.color = 'white';
         }
+
+        if(pathname=='portfolio') {
+            let portfolioPage = document.querySelector(".navigation_navigation__UdTUf :nth-child(2)");
+
+            portfolioPage.style.backgroundColor = 'red';
+            portfolioPage.style.color = 'white';
+        }
+
+        if(pathname == 'contact') {
+
+            let contactPage = document.querySelector(".navigation_navigation__UdTUf :nth-child(3)");
+
+            contactPage.style.backgroundColor = 'red';
+            contactPage.style.color = 'white';
+        }
+
 
 
 
