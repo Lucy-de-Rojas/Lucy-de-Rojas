@@ -41,23 +41,13 @@ export default function AboutContent() {
 
 <h1>Lucy de Rojas</h1>
 
-<p>Lucy is an active, techie mum and wife who loves technology and art. With professional sporting
-past in athletics, her work style carries strong rule adhering, self-discipline and bringing projects to
-successful finish.
+<p>
 
-
-
+I’m an active, techie mum and wife who loves technology and art. With a professional sporting past in athletics, my work style carries strong rule adhering, self-discipline and bringing projects to successful finish.
 <br /><br />
 
-Having worked in both technological and artistic industries Lucy has gathered a blend of intertwining skills.
-Whilst working as a web developer she learned importance of problem-solving, collaboration and working independently. During projects involving video editing, visual effects and motion graphics she understood the value of time-management and adaptability. And in graphic and print design she understood the cost-effectiveness and clear communication.
-<br /><br />
-In technology sector her strongest qualities are pattern recognition, analytical thinking and strategical planning.
-In graphic design these are typography, video editing and visual layout.
+I constantly explore options to reduce expenses by setting up and maintaining my own servers. One of my areas of expertise is addressing clients’ online visibility and discoverability issues through the implementation of a well-crafted SEO strategy. To effectively manage a project, I prioritize tasks using an agile approach that begins with developing a minimum viable product. The success of this approach hinges on my ability to identify and focus on the most important features first. Continuous learning holds significant value in my life.
 
-<br /><br />
-
-Lucy loves learning new skills and putting these to practice. She is looking ahead to new opportunities and experiences that her skills will bring her.
 
 <br /><br />
 
