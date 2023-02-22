@@ -2,18 +2,20 @@
 
 
 
-<h1>
-Hi there 👋
-</h1>
+<h1>Lucy de Rojas</h1>
+
+<img src="./public/Media/NEW-logoRed.png" width="20%"/>
 
 
-<img src="./public/DonQuiDesigns-logo.jpg" width="20%"/>
+
 
 
 
 
 [Home Page](https://lucy-de-rojas.github.io/Lucy-de-Rojas/)
+<br />
 [Next Home Page](https://lucy-de-rojas.vercel.app/)
+<br />
 
 
 
@@ -39,6 +41,6 @@ Here are some ideas to get you started:
 -->
 
 </div>
-  
+
 
 
