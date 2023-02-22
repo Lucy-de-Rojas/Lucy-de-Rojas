@@ -4,7 +4,7 @@
 
 <h1>Lucy de Rojas</h1>
 
-<img src="./public/Media/NEW-logoRed.png" width="20%"/>
+<img src="./public/Media/READMEfiles/TopHEaderLogo.jpg" width="100%"/>
 
 
 
