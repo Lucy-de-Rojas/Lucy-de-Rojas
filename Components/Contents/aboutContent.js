@@ -103,7 +103,7 @@ I constantly explore options to reduce expenses by setting up and maintaining my
 
 <br />
 <br />
-When she&apos;s not coding or designing she loves to travel, explore and support her son in his geology and photography interests.
+When I&apos;m not coding or designing I love to travel, explore and support our son in his geology and photography interests.
 <br />
 <br />
 
