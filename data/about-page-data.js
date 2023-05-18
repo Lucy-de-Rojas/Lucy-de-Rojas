@@ -7,18 +7,30 @@ export let allIcons = [
         alt: 'Javascript Logo'
     },
     {
+        href: '/Media/SVG/Typescript-logo.svg',
+        with: 1240,
+        height: 698,
+        alt: 'typescript logo',
+    },
+    {
+        href: '/Media/SVG/React_logo_adobe_express.svg',
+        width: 5000,
+        height:1679 ,
+        alt: 'React logo'
+    },{
+        href: '/Media/SVG/Sass_Logo.svg',
+        width: 1280,
+        height: 960,
+        alt: 'sass logo',
+    },
+    {
         href: '/Media/SVG/python-logo_adobe_express.svg',
         width: 476,
         height: 132,
         alt: 'Python logo'
     },
 
-        {
-        href: '/Media/SVG/React_logo_adobe_express.svg',
-        width: 5000,
-        height:1679 ,
-        alt: 'React logo'
-    },
+
     {
         href: '/Media/SVG/Nextjs-logo_adobe_express.svg',
         width: 800,
