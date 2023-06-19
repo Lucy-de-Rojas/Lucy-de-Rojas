@@ -44,7 +44,7 @@ export const portfolioWebData = [
         width: 900,
         height: 933,
         alt: "screenshot Laceys website",
-        githubLink: "https://github.com/Lucy-de-Rojas/laceys",
+        githubLink: "https://github.com/Lucy-de-Rojas/Beyond-Beauty-By-Chanelle",
         liveSiteLink: 'https://beyond-beauty-by-chanelle.vercel.app/',
         id:"chanelle"
     },

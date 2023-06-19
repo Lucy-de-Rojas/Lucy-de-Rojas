@@ -52,8 +52,8 @@ export default function PortfolioWebContent() {
 
 
 {/* LINKS: */}
-<h2>Links:</h2>
-            <Link href={item.githubLink}><a target="_blank">Github</a></Link>
+<h2>{item.header} Links:</h2>
+            <Link href={item.githubLink}><a target="_blank"> Github</a></Link>
 
 
             <Link href={item.liveSiteLink}><a target="_blank">Live Site</a></Link>
@@ -62,7 +62,7 @@ export default function PortfolioWebContent() {
 
 {/* RECOMMENDATION: */}
 {item.recommendation && <div>
-    <h2>Recommendation</h2>
+    <h2>{item.header} Recommendation</h2>
     <p style={{
         fontStyle: 'italic',
 
