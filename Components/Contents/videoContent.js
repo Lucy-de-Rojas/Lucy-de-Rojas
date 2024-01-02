@@ -97,7 +97,7 @@ export default function VideoContent() {
 
 
 
-        <h1>Motion Graphics & Other Digital Content</h1>
+        <h1>Motion Graphics & <br/> Other Digital Content</h1>
 
 
 <h2>Online Advertising <br />(The Guardian)</h2>
@@ -128,23 +128,75 @@ export default function VideoContent() {
 
 <h2>Animated email footer</h2>
         <div className={styles.animatedGif}>
-
         <Image
             src="/Portfolio/animatedGifs/MySaving+October2017.gif"
             width={620}
             height={146}
             alt=""
-
-
-
             />
-
-
         </div>
 
 
 
 
+
+
+
+{/* christmas tree email: "/Portfolio/JPEGs/fullEmail.jpg"    600x910*/}
+
+<h2>Full Email</h2>
+        <div className={styles.animatedGif}>
+        <Image
+            src="/Portfolio/JPEGs/emailFooters/fullEmail.jpg"
+            width={600}
+            height={910}
+            alt=""
+            />
+        </div>
+
+
+
+
+{/* english heritage email: "/Portfolio/JPEGs/emailFooters/englishHeritage.png"     600x142*/}
+
+<h2>English Heritage Email</h2>
+        <div className={styles.animatedGif}>
+        <Image
+            src="/Portfolio/JPEGs/emailFooters/englishHeritage.png"
+            width={600}
+            height={142}
+            alt=""
+            />
+        </div>
+
+
+
+
+
+
+{/* historical palaces email: "/Portfolio/JPEGs/emailFooters/historicalPalaces.jpg"     600x185*/}
+
+<h2>Historical Palaces</h2>
+        <div className={styles.animatedGif}>
+        <Image
+            src="/Portfolio/JPEGs/emailFooters/historicalPalaces.jpg"
+            width={600}
+            height={185}
+            alt=""
+            />
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+{/* 🟥   end here */}
 
         </div></LayoutContent>);
 }
