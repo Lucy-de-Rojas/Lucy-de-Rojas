@@ -1,0 +1,81 @@
+
+.container {
+        text-align: center;
+        width: 100%;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+
+
+    .imageContainer {
+        width: 100%;
+
+
+    }
+
+
+    .animatedGif {
+        width: 75%;
+    }
+
+
+
+
+    .videoContainer {
+        background-color: red;
+        width: 100%;
+    }
+
+
+
+    .powerpointContainer {
+        width: 100%;
+        height: auto;
+    }
+
+
+
+
+    .pdf {
+        background-color: red;
+    }
+
+
+
+
+
+    .gallery {
+        width: 100%;
+    }
+
+
+
+    .pdf {
+        width: 100%;
+        height: 350px;
+    }
+
+
+
+
+
+
+    .quote {
+        font-style: italic;
+        font-weight: bolder;
+
+    }
+
+    .author {
+        font-weight: bolder;
+    }
+
+
+    .hrline {
+        width: 100%;
+        border: 2px dashed red;
+    }
