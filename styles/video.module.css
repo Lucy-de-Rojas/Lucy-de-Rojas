@@ -74,11 +74,31 @@
 
 
 
+
+
+
+
     .videoContainer {
         /* background-color: red; */
         width: 100%;
         margin-bottom: 70px;
         margin-top: 10px;
+    }
+
+
+
+    @media only screen and (max-width:600px) {
+
+        .videoContainer {
+            margin-bottom: 10px;
+
+        }
+
+
+        .animatedGif {
+            margin-bottom: 10px;
+        }
+
     }
 
 
