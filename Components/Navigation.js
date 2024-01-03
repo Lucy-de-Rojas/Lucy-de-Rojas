@@ -47,6 +47,16 @@ export default function Navigation() {
         }
 
 
+        // for video page:
+        if( pathname== 'videos') {
+            let portfolioPage = document.querySelector(".navigation_navigation__UdTUf :nth-child(2)");
+
+            portfolioPage.style.backgroundColor = 'red';
+            portfolioPage.style.color = 'white';
+
+        }
+
+
 
 
     },[]);
