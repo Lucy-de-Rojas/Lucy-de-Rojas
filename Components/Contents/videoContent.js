@@ -23,15 +23,17 @@ export default function VideoContent() {
         <div className={styles.container} id="top">
 
 
+
+            {/* mini navigation: */}
             <nav className={styles.miniNavigation}>
             <a href="#top">Top</a>
-            <a href="#videos">Videos</a>
+            <a href="#top">Videos</a>
             <a href="#otherDigital">Other Digital Content</a>
             </nav>
 
 
 
-        <h1 id="videos">Video Production</h1>
+        <h1>Video Production</h1>
 
 
 
@@ -141,7 +143,8 @@ export default function VideoContent() {
 
 
 
-        <h1 id="otherDigital">Motion Graphics & <br/> Other Digital Content</h1>
+        <div id="otherDigital"><br /><br /></div>
+        <h1>Motion Graphics & <br/> Other Digital Content</h1>
 
 
 
