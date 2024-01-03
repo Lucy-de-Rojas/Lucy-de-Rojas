@@ -87,21 +87,6 @@
 
 
 
-    @media only screen and (max-width:600px) {
-
-        .videoContainer {
-            margin-bottom: 10px;
-
-        }
-
-
-        .animatedGif {
-            margin-bottom: 10px;
-        }
-
-    }
-
-
     .paraLeft {
         padding: 10px 20px;
         margin: 0;
@@ -115,6 +100,24 @@
         font-weight: bolder;
     }
 
+
+
+
+
+
+    @media only screen and (max-width:600px) {
+
+        .videoContainer {
+            margin-bottom: 10px;
+
+        }
+
+
+        .animatedGif {
+            margin-bottom: 10px;
+        }
+
+    }
 
 
 
