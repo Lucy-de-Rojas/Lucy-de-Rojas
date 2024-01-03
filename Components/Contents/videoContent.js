@@ -1,15 +1,11 @@
 import Image from "next/image";
 
-import {PiArrowElbowRightDownFill} from "react-icons/pi";
 import styles from '../../styles/video.module.css';
 
 import LayoutContent from "./LayoutContent";
-import Lucy from "../SVGs/Lucy";
 
 
 
-import {allIcons} from '../../data/about-page-data';
-import {iconsDesign} from '../../data/about-page-data';
 
 
 
