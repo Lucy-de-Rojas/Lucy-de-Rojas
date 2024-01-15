@@ -126,7 +126,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* nike: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-clients/FIXED/Nike.jpg"
+    src="/Media/LOGOS-Clients/FIXED/Boden.jpg"
     width={375}
     height={197}
     // layout="responsive"
@@ -139,7 +139,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* nokia: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-clients/FIXED/NokiaLogo.jpg"
+    src="/Media/LOGOS-Clients/FIXED/Boden.jpg"
     width={800}
     height={282}
     // layout="responsive"
