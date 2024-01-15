@@ -38,11 +38,12 @@
 html,
 body {
   text-align: center;
-  font-size: 1rem;
+  font-size: 1.15rem;
   padding: 0;
   margin: 0;
   font-family: 'Josefine';
 }
+
 
 
 
@@ -77,7 +78,7 @@ p {
 
 
 
-
+/* for mobile screen: */
 @media only screen and (min-width: 1000px) {
   body {
     padding: 0 30%;
@@ -89,9 +90,9 @@ p {
 
 
 
+/* for mobile screen: */
 @media only screen and (min-width: 1200px) {
   body {
-    font-size: 2rem;
     padding: 0 30%;
   }
 

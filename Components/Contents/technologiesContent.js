@@ -43,10 +43,9 @@ export default function TechnologiesContent() {
 I’m an active, techie mum and wife who loves technology and art. With a professional sporting past in athletics, my work style carries strong rule adhering, self-discipline and bringing projects to successful finish.
 <br /><br />
 
-I constantly explore options to reduce expenses by setting up and maintaining my own servers. One of my areas of expertise is addressing clients’ online visibility and discoverability issues through the implementation of a well-crafted SEO strategy. To effectively manage a project, I prioritize tasks using an agile approach that begins with developing a minimum viable product. The success of this approach hinges on my ability to identify and focus on the most important features first. Continuous learning holds significant value in my life.
-
-
-<br /><br />
+Below, you'll find a list of my preferred technologies and tools.
+<br />
+<br />
 
 <div className={styles.technologiesWrapper}>
 
@@ -59,7 +58,7 @@ I constantly explore options to reduce expenses by setting up and maintaining my
     /> */}
 
 
-    <h2 className={styles.headerTechnologies}>Web techologies and tools:</h2>
+    <h2 className={styles.headerTechnologies}>Techologies and tools:</h2>
             {
 
               allIcons.map((item, index)=> {
