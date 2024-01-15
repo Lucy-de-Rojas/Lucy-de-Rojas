@@ -68,8 +68,8 @@ Up for a conversation about infusing some design enchantment into your project? 
 
 <Image
     src="/Media/LOGOS-clients/FIXED/PNGs/Homebase.png"
-    width={2560}
-    height={450}
+    width={1000}
+    height={144}
     // layout="responsive"
     alt="logo Homebase"
     // className={styles.image}
@@ -83,8 +83,8 @@ Up for a conversation about infusing some design enchantment into your project? 
 <div className={styles.imageWrapper}>
 <Image
     src="/Media/LOGOS-clients/FIXED/PNGs/ReadersDigest.png"
-    width={2400}
-    height={894}
+    width={1000}
+    height={349}
     // layout="responsive"
     alt="logo Readers Digest"
     // className={styles.image}
@@ -97,8 +97,8 @@ Up for a conversation about infusing some design enchantment into your project? 
 <div className={styles.imageWrapper}>
 <Image
     src="/Media/LOGOS-clients/FIXED/PNGs/TKMaxx.png"
-    width={2560}
-    height={571}
+    width={1000}
+    height={223}
     // layout="responsive"
     alt="logo TK Maxx"
     // className={styles.image}
@@ -112,8 +112,8 @@ Up for a conversation about infusing some design enchantment into your project? 
 <div className={styles.imageWrapper}>
 <Image
     src="/Media/LOGOS-clients/FIXED/PNGs/Bosch.png"
-    width={736}
-    height={202}
+    width={707}
+    height={175}
     // layout="responsive"
     alt="logo Bosch"
     // className={styles.image}
@@ -140,8 +140,8 @@ Up for a conversation about infusing some design enchantment into your project? 
 <div className={styles.imageWrapper}>
 <Image
     src="/Media/LOGOS-Clients/FIXED/PNGs/NokiaLogo.png"
-    width={800}
-    height={282}
+    width={1000}
+    height={353}
     // layout="responsive"
     alt="logo Nokia"
     // className={styles.image}
@@ -155,8 +155,8 @@ Up for a conversation about infusing some design enchantment into your project? 
 <div className={styles.imageWrapper}>
 <Image
     src="/Media/LOGOS-Clients/FIXED/PNGs/Boden.png"
-    width={400}
-    height={200}
+    width={334}
+    height={161}
     // layout="responsive"
     alt="logo Boden"
     // className={styles.image}
