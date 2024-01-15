@@ -40,7 +40,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 
 {/* to remove after testing:  🟥🟥🟥*/}
 <Image
-        src="/Media/LOGOS-clients/FIXED/PNGs/TKMaxx.png"
+        src="/Media/LOGOS-Clients/FIXED/PNGs/TKMaxx.png"
         width={707}
         height={175}
         alt="tk maxx logo"
