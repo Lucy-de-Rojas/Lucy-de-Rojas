@@ -40,7 +40,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 
 {/* to remove after testing:  🟥🟥🟥*/}
 <Image
-        src="/Media/LOGOS-Clients/FIXED/Boden.jpg"
+        src="/Media/LOGOS-Clients/FIXED/PNGs/Bosch.png"
         width={2244}
         height={1654}
         alt="animations design portfolio lucy de rojas"
@@ -50,11 +50,11 @@ Up for a conversation about infusing some design enchantment into your project? 
 
 {/* remove after testing 🟥🟥🟥 */}
 <Image
-    src="/Media/LOGOS-clients/FIXED/Homebase.jpg"
-    width={2560}
-    height={450}
+    src="/Media/LOGOS-clients/FIXED/PNGs/Bosch.png"
+    width={707}
+    height={175}
     // layout="responsive"
-    alt="logo Homebase"
+    alt="logo Bosch"
     // className={styles.image}
     // quality="100"
 />
