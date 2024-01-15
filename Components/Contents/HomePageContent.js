@@ -38,7 +38,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 
 
 
-{/* to remove after testing: */}
+{/* to remove after testing:  🟥🟥🟥*/}
 <Image
         src="/Media/LOGOS-Clients/FIXED/Boden.jpg"
         width={2244}
@@ -48,7 +48,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 
     />
 
-{/* remove after testing */}
+{/* remove after testing 🟥🟥🟥 */}
 <Image
     src="/Media/LOGOS-clients/FIXED/Homebase.jpg"
     width={2560}
