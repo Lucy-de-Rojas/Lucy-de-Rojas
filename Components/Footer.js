@@ -23,6 +23,20 @@ export default function Footer() {
 
 
 
+{/* LINKED IN: */}
+<div className={styles.containerIcon}>
+            <Link href="https://www.linkedin.com/in/lucyderojas/"><a target="_blank">
+            <Image
+            src='/Media/SVG/LinkedInRED_adobe_express.svg'
+            width={100}
+            height={100}
+            alt='git hub logo'
+            />
+            LinkedIn
+            </a>
+            </Link></div>
+
+
 
 {/* GITHUB: */}
 <div className={styles.containerIcon}>
@@ -35,24 +49,11 @@ export default function Footer() {
             height={100}
             alt='git hub logo'
             />
+            Github
 
             </a></Link>
             </div>
 
-
-
-{/* LINKED IN: */}
-            <div className={styles.containerIcon}>
-            <Link href="https://www.linkedin.com/in/lucyderojas/"><a target="_blank">
-            <Image
-            src='/Media/SVG/LinkedInRED_adobe_express.svg'
-            width={100}
-            height={100}
-            alt='git hub logo'
-            />
-            </a></Link>
-
-             </div>
 
 
 
@@ -66,6 +67,7 @@ export default function Footer() {
             height={105}
             alt='NPM logo'
             />
+            NPM
             </a></Link> </div>
 
 
@@ -83,7 +85,7 @@ export default function Footer() {
             width={100}
             height={100}
             alt='codewars logo'
-            />
+            />Codewars
             </a></Link> </div>
 
 

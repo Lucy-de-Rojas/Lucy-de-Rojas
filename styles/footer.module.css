@@ -18,6 +18,7 @@
 
     display: flex;
     justify-content: center;
+    margin: 50px;
 
 }
 
@@ -29,4 +30,7 @@
 .containerIcon {
     width: 13%;
     margin: 0 5px;
+    color: red;
+    font-size: 0.7rem;
+    font-weight: bolder;
 }

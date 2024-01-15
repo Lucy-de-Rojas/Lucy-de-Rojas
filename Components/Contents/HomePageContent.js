@@ -41,7 +41,7 @@ Up for a conversation about infusing some design enchantment into your project? 
     width={2560}
     height={450}
     layout="responsive"
-    alt=""
+    alt="logo Homebase"
     className={styles.image}
     quality="100"
 /></div>
@@ -56,7 +56,7 @@ Up for a conversation about infusing some design enchantment into your project? 
     width={2400}
     height={894}
     layout="responsive"
-    alt=""
+    alt="logo Readers Digest"
     className={styles.image}
     quality="100"
 /></div>
@@ -70,7 +70,7 @@ Up for a conversation about infusing some design enchantment into your project? 
     width={2560}
     height={571}
     layout="responsive"
-    alt=""
+    alt="logo TK Maxx"
     className={styles.image}
     quality="100"
 /></div>
@@ -85,7 +85,7 @@ Up for a conversation about infusing some design enchantment into your project? 
     width={736}
     height={202}
     layout="responsive"
-    alt=""
+    alt="logo Bosch"
     className={styles.image}
     quality="100"
 /></div>
@@ -100,7 +100,7 @@ Up for a conversation about infusing some design enchantment into your project? 
     width={375}
     height={197}
     layout="responsive"
-    alt=""
+    alt="logo Nike"
     className={styles.image}
     quality="100"
 /></div>
@@ -113,7 +113,7 @@ Up for a conversation about infusing some design enchantment into your project? 
     width={800}
     height={282}
     layout="responsive"
-    alt=""
+    alt="logo Nokia"
     className={styles.image}
     quality="100"
 /></div>
@@ -128,7 +128,7 @@ Up for a conversation about infusing some design enchantment into your project? 
     width={400}
     height={200}
     layout="responsive"
-    alt=""
+    alt="logo Boden"
     className={styles.image}
     quality="100"
 /></div>
