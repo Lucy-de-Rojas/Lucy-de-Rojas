@@ -145,13 +145,13 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* Boden: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-clients/Boden.png"
+    src="/Media/LOGOS-Clients/FIXED/Boden.jpg"
     width={400}
     height={200}
-    layout="responsive"
+    // layout="responsive"
     alt="logo Boden"
-    className={styles.image}
-    quality="100"
+    // className={styles.image}
+    // quality="100"
 /></div>
 
 
