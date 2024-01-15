@@ -30,12 +30,19 @@ Up for a conversation about infusing some design enchantment into your project? 
 
 
 
+
 {/* add images group wrapper: */}
 <div className={styles.imagesGROUPWrapper}>
 
 
+
 {/* homebase: */}
 <div className={styles.imageWrapper}>
+
+<img src="/Media/LOGOS-clients/FIXED/Homebase.jpg"/>
+
+
+
 <Image
     src="/Media/LOGOS-clients/FIXED/Homebase.jpg"
     width={2560}

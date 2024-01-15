@@ -29,6 +29,9 @@ export default function PortfolioContent() {
 {/* BEST OF BOTH:   */}
 <div className={styles.imageWrapper}>
 
+
+
+
         <Image
             src="/Media/Photos/BestOfBoth.jpg"
             width={900}
