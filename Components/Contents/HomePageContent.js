@@ -41,8 +41,8 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* to remove after testing:  🟥🟥🟥*/}
 <Image
         src="/Media/LOGOS-Clients/FIXED/PNGs/Bosch.png"
-        width={2244}
-        height={1654}
+        width={707}
+        height={175}
         alt="animations design portfolio lucy de rojas"
 
 
@@ -53,10 +53,7 @@ Up for a conversation about infusing some design enchantment into your project? 
     src="/Media/LOGOS-clients/FIXED/PNGs/Bosch.png"
     width={707}
     height={175}
-    // layout="responsive"
     alt="logo Bosch"
-    // className={styles.image}
-    // quality="100"
 />
 
 
