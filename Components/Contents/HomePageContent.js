@@ -44,8 +44,6 @@ Up for a conversation about infusing some design enchantment into your project? 
         width={707}
         height={175}
         alt="animations design portfolio lucy de rojas"
-
-
     />
 
 {/* remove after testing 🟥🟥🟥 */}
@@ -122,14 +120,13 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* bosch: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-clients/FIXED/PNGs/Bosch.png"
-    width={707}
-    height={175}
-    // layout="responsive"
-    alt="logo Bosch"
-    // className={styles.image}
-    // quality="100"
-/></div>
+        src="/Media/LOGOS-Clients/FIXED/PNGs/Bosch.png"
+        width={707}
+        height={175}
+        alt="animations design portfolio lucy de rojas"
+    />
+
+</div>
 
 
 
