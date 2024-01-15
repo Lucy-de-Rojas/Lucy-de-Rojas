@@ -48,7 +48,16 @@ Up for a conversation about infusing some design enchantment into your project? 
 
     />
 
-
+{/* remove after testing */}
+<Image
+    src="/Media/LOGOS-clients/FIXED/Homebase.jpg"
+    width={2560}
+    height={450}
+    // layout="responsive"
+    alt="logo Homebase"
+    className={styles.image}
+    quality="100"
+/>
 
 
 
@@ -61,7 +70,7 @@ Up for a conversation about infusing some design enchantment into your project? 
     src="/Media/LOGOS-clients/FIXED/Homebase.jpg"
     width={2560}
     height={450}
-    layout="responsive"
+    // layout="responsive"
     alt="logo Homebase"
     className={styles.image}
     quality="100"
@@ -76,7 +85,7 @@ Up for a conversation about infusing some design enchantment into your project? 
     src="/Media/LOGOS-clients/FIXED/ReadersDigest.jpg"
     width={2400}
     height={894}
-    layout="responsive"
+    // layout="responsive"
     alt="logo Readers Digest"
     className={styles.image}
     quality="100"
@@ -90,7 +99,7 @@ Up for a conversation about infusing some design enchantment into your project? 
     src="/Media/LOGOS-clients/FIXED/TKMaxx.jpg"
     width={2560}
     height={571}
-    layout="responsive"
+    // layout="responsive"
     alt="logo TK Maxx"
     className={styles.image}
     quality="100"
@@ -105,7 +114,7 @@ Up for a conversation about infusing some design enchantment into your project? 
     src="/Media/LOGOS-clients/FIXED/Bosch.jpg"
     width={736}
     height={202}
-    layout="responsive"
+    // layout="responsive"
     alt="logo Bosch"
     className={styles.image}
     quality="100"
@@ -120,7 +129,7 @@ Up for a conversation about infusing some design enchantment into your project? 
     src="/Media/LOGOS-clients/FIXED/Nike.jpg"
     width={375}
     height={197}
-    layout="responsive"
+    // layout="responsive"
     alt="logo Nike"
     className={styles.image}
     quality="100"
@@ -133,7 +142,7 @@ Up for a conversation about infusing some design enchantment into your project? 
     src="/Media/LOGOS-clients/FIXED/NokiaLogo.jpg"
     width={800}
     height={282}
-    layout="responsive"
+    // layout="responsive"
     alt="logo Nokia"
     className={styles.image}
     quality="100"
@@ -150,8 +159,8 @@ Up for a conversation about infusing some design enchantment into your project? 
     height={200}
     // layout="responsive"
     alt="logo Boden"
-    // className={styles.image}
-    // quality="100"
+    className={styles.image}
+    quality="100"
 /></div>
 
 
