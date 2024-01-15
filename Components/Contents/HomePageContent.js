@@ -67,7 +67,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 <div className={styles.imageWrapper}>
 
 <Image
-    src="/Media/LOGOS-clients/FIXED/Homebase.jpg"
+    src="/Media/LOGOS-clients/FIXED/PNGs/Homebase.png"
     width={2560}
     height={450}
     // layout="responsive"
@@ -82,7 +82,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* readers digest: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-clients/FIXED/ReadersDigest.jpg"
+    src="/Media/LOGOS-clients/FIXED/PNGs/ReadersDigest.png"
     width={2400}
     height={894}
     // layout="responsive"
@@ -96,7 +96,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* tkmaxx: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-clients/FIXED/TKMaxx.jpg"
+    src="/Media/LOGOS-clients/FIXED/PNGs/TKMaxx.png"
     width={2560}
     height={571}
     // layout="responsive"
@@ -111,7 +111,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* bosch: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-clients/FIXED/Bosch.jpg"
+    src="/Media/LOGOS-clients/FIXED/PNGs/Bosch.png"
     width={736}
     height={202}
     // layout="responsive"
@@ -126,7 +126,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* nike: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-Clients/FIXED/Nike.jpg"
+    src="/Media/LOGOS-Clients/FIXED/PNGs/Nike.png"
     width={375}
     height={197}
     // layout="responsive"
@@ -139,7 +139,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* nokia: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-Clients/FIXED/NokiaLogo.jpg"
+    src="/Media/LOGOS-Clients/FIXED/PNGs/NokiaLogo.png"
     width={800}
     height={282}
     // layout="responsive"
@@ -154,7 +154,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* Boden: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-Clients/FIXED/Boden.jpg"
+    src="/Media/LOGOS-Clients/FIXED/PNGs/Boden.png"
     width={400}
     height={200}
     // layout="responsive"
