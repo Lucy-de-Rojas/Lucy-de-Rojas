@@ -36,6 +36,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 
 
 
+{/* to remove after testing: */}
 <Image
         src="/Portfolio/animatedGifs/TrySomethingNew.gif"
         width={2244}
@@ -44,6 +45,26 @@ Up for a conversation about infusing some design enchantment into your project? 
 
 
     />
+
+
+
+
+
+
+
+{/* to remove after testing: */}
+<Image
+        src="/Media/Photos/BestOfBoth.jpg"
+        width={2244}
+        height={1654}
+        alt="animations design portfolio lucy de rojas"
+
+
+    />
+
+
+
+
 
 
 
