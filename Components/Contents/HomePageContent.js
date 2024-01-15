@@ -55,8 +55,8 @@ Up for a conversation about infusing some design enchantment into your project? 
     height={450}
     // layout="responsive"
     alt="logo Homebase"
-    className={styles.image}
-    quality="100"
+    // className={styles.image}
+    // quality="100"
 />
 
 
