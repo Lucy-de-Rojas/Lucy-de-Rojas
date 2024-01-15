@@ -36,12 +36,19 @@ Up for a conversation about infusing some design enchantment into your project? 
 
 
 
+<Image
+        src="/Portfolio/animatedGifs/TrySomethingNew.gif"
+        width={2244}
+        height={1654}
+        alt="animations design portfolio lucy de rojas"
+
+
+    />
+
+
+
 {/* homebase: */}
 <div className={styles.imageWrapper}>
-
-<img src="/Media/LOGOS-clients/FIXED/Homebase.jpg"/>
-
-
 
 <Image
     src="/Media/LOGOS-clients/FIXED/Homebase.jpg"
