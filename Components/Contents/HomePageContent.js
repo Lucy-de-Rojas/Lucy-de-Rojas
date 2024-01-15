@@ -37,7 +37,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* homebase: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-clients/Homebase.png"
+    src="/Media/LOGOS-clients/FIXED/Homebase.jpg"
     width={2560}
     height={450}
     layout="responsive"
@@ -52,7 +52,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* readers digest: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-clients/ReadersDigest.png"
+    src="/Media/LOGOS-clients/FIXED/ReadersDigest.jpg"
     width={2400}
     height={894}
     layout="responsive"
@@ -66,7 +66,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* tkmaxx: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-clients/TKMaxx.png"
+    src="/Media/LOGOS-clients/FIXED/TKMaxx.jpg"
     width={2560}
     height={571}
     layout="responsive"
@@ -81,7 +81,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* bosch: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-clients/Bosch.jpg"
+    src="/Media/LOGOS-clients/FIXED/Bosch.jpg"
     width={736}
     height={202}
     layout="responsive"
@@ -96,7 +96,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* nike: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-clients/Nike.jpg"
+    src="/Media/LOGOS-clients/FIXED/Nike.jpg"
     width={375}
     height={197}
     layout="responsive"
@@ -109,7 +109,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* nokia: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-clients/NokiaLogo.svg"
+    src="/Media/LOGOS-clients/FIXED/NokiaLogo.jpg"
     width={800}
     height={282}
     layout="responsive"
