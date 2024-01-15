@@ -57,7 +57,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 <div className={styles.imageWrapper}>
 
 <Image
-    src="/Media/LOGOS-clients/FIXED/PNGs/Homebase.png"
+    src="/Media/LOGOS-Clients/FIXED/PNGs/Homebase.png"
     width={1000}
     height={144}
     // layout="responsive"
@@ -72,7 +72,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* readers digest: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-clients/FIXED/PNGs/ReadersDigest.png"
+    src="/Media/LOGOS-Clients/FIXED/PNGs/ReadersDigest.png"
     width={1000}
     height={349}
     // layout="responsive"
@@ -86,7 +86,7 @@ Up for a conversation about infusing some design enchantment into your project? 
 {/* tkmaxx: */}
 <div className={styles.imageWrapper}>
 <Image
-    src="/Media/LOGOS-clients/FIXED/PNGs/TKMaxx.png"
+    src="/Media/LOGOS-Clients/FIXED/PNGs/TKMaxx.png"
     width={1000}
     height={223}
     // layout="responsive"
