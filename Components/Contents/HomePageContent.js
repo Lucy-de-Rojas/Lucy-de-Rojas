@@ -58,6 +58,20 @@ Up for a conversation about infusing some design enchantment into your project? 
 
 
 
+{/* remove after testing 🟥🟥🟥 */}
+<Image
+    src={"/Media/LOGOS-clients/FIXED/PNGs/Bosch.png"}
+    width={707}
+    height={175}
+    alt="logo Bosch"
+/>
+
+
+
+
+
+
+
 
 
 {/* homebase: */}
