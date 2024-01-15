@@ -57,6 +57,15 @@ export default function Navigation() {
         }
 
 
+        // for technologies page (highlights About navigation tab):
+        if(pathname=="technologies") {
+            let aboutPage = document.querySelector(".navigation_navigation__UdTUf :nth-child(1)");
+
+            aboutPage.style.backgroundColor = 'red';
+            aboutPage.style.color = 'white';
+        }
+
+
 
 
     },[]);

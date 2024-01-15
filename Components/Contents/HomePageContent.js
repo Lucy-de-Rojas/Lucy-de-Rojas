@@ -2,6 +2,9 @@
 import LayoutContent from "./LayoutContent";
 import Image from "next/image";
 
+import styles from '/styles/Home.module.css';
+
+
 
 export default function HomePageContent () {
 
@@ -14,25 +17,128 @@ export default function HomePageContent () {
 
 
 <p>
-I&apos;m thrilled to have you here and hope that you find everything you&apos;re looking for. My goal is to provide you with a great user experience and valuable information. If you have any questions or feedback, please don&apos;t hesitate to reach out to me. Thank you for visiting!
+
+Pleased to have you visiting my pages. I'm a seasoned digital designer with a humble 20 years of experience tucked under my creative belt. I take immense pleasure in collaborating with a diverse array of clients, ranging from the corporate industry titans to the local gems.
+<br/><br/>
+Over the years, my creative journey has entwined with household names such as Bosch, Nokia, Tk Maxx, Readers Digest, Boden, and Homebase. Working with these esteemed names has not only honed my skills but has also fueled my passion for creating designs that resonate with diverse audiences.
+
+<br/><br/>
+Up for a conversation about infusing some design enchantment into your project? How about a friendly chat over a cuppa to explore how I can breathe life into your ideas? Feel free to reach out, and let's dive into this creative journey together. I'm eager to craft something exceptional with you! Additionally, I'm here to contribute to the growth of your business through my skills and extensive experience.
 
 </p>
 
 
-<p>
-    Some of the content on these pages has been helped with ChatGPT as part of experiment. Yes, machines can sometimes write better content than us humans. Together we can create some awesome stuff.
-</p>
 
 
+{/* add images group wrapper: */}
+<div className={styles.imagesGROUPWrapper}>
+
+
+{/* homebase: */}
+<div className={styles.imageWrapper}>
 <Image
-    src="/Media/Photos/chatAndArnold.jpg"
-    width={900}
-    height={416}
-    alt=""
+    src="/Media/LOGOS-clients/Homebase.png"
+    width={2560}
+    height={450}
     layout="responsive"
+    alt=""
+    className={styles.image}
+    quality="100"
+/></div>
 
 
-/>
+
+
+{/* readers digest: */}
+<div className={styles.imageWrapper}>
+<Image
+    src="/Media/LOGOS-clients/ReadersDigest.png"
+    width={2400}
+    height={894}
+    layout="responsive"
+    alt=""
+    className={styles.image}
+    quality="100"
+/></div>
+
+
+
+{/* tkmaxx: */}
+<div className={styles.imageWrapper}>
+<Image
+    src="/Media/LOGOS-clients/TKMaxx.png"
+    width={2560}
+    height={571}
+    layout="responsive"
+    alt=""
+    className={styles.image}
+    quality="100"
+/></div>
+
+
+
+
+{/* bosch: */}
+<div className={styles.imageWrapper}>
+<Image
+    src="/Media/LOGOS-clients/Bosch.jpg"
+    width={736}
+    height={202}
+    layout="responsive"
+    alt=""
+    className={styles.image}
+    quality="100"
+/></div>
+
+
+
+
+{/* nike: */}
+<div className={styles.imageWrapper}>
+<Image
+    src="/Media/LOGOS-clients/Nike.jpg"
+    width={375}
+    height={197}
+    layout="responsive"
+    alt=""
+    className={styles.image}
+    quality="100"
+/></div>
+
+
+{/* nokia: */}
+<div className={styles.imageWrapper}>
+<Image
+    src="/Media/LOGOS-clients/NokiaLogo.svg"
+    width={800}
+    height={282}
+    layout="responsive"
+    alt=""
+    className={styles.image}
+    quality="100"
+/></div>
+
+
+
+
+{/* Boden: */}
+<div className={styles.imageWrapper}>
+<Image
+    src="/Media/LOGOS-clients/Boden.png"
+    width={400}
+    height={200}
+    layout="responsive"
+    alt=""
+    className={styles.image}
+    quality="100"
+/></div>
+
+
+
+
+</div> {/* end of  technologiesWrapper */}
+
+
 
 
 

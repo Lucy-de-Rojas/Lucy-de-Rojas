@@ -13,7 +13,7 @@
         width: 25%;
     }
 
- 
+
   }
 
 
@@ -24,7 +24,7 @@
 
     border-radius: 50%;
     margin: 0  auto;
-    background-color: red;
+    /* background-color: red; */
 
 }
 
@@ -65,7 +65,7 @@
     width: 17%;
     height: 100%;
     margin: 10px 50px;
-    
+
   }
 
 
@@ -79,7 +79,7 @@
     }
 
   }
-  
+
 
 
 
@@ -91,7 +91,7 @@
 }
 
 
-@media only screen and (max-width: 600px) { 
+@media only screen and (max-width: 600px) {
   .iconImageDesign {
     width: 20%;
     margin:  10px;
@@ -114,8 +114,8 @@
         width: 35%;
     }
 
-   
- 
+
+
   }
 
 
@@ -132,10 +132,10 @@
 
 
 
-  
-  
-  
-  
+
+
+
+
   .headerTechnologies {
     margin: 10px 0 35px 0;
     /* background-color: red; */
