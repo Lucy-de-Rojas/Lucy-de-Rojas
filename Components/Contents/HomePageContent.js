@@ -20,7 +20,7 @@ export default function HomePageContent () {
 
 Pleased to have you visiting my pages. I'm a seasoned digital designer with a humble 20 years of experience tucked under my creative belt. I take immense pleasure in collaborating with a diverse array of clients, ranging from the corporate industry titans to the local gems.
 <br/><br/>
-Over the years, my creative journey has entwined with household names such as Bosch, Nokia, Tk Maxx, Readers Digest, Boden, and Homebase. Working with these esteemed names has not only honed my skills but has also fueled my passion for creating designs that resonate with diverse audiences.
+Over the years, my creative journey has entwined with household names such as Bosch, Nokia, TK Maxx, Readers Digest, NHS, Boden, and Homebase. Working with these esteemed names has not only honed my skills but has also fueled my passion for creating designs that resonate with diverse audiences.
 
 <br/><br/>
 Up for a conversation about infusing some design enchantment into your project? How about a friendly chat over a cuppa to explore how I can breathe life into your ideas? Feel free to reach out, and let's dive into this creative journey together. I'm eager to craft something exceptional with you! Additionally, I'm here to contribute to the growth of your business through my skills and extensive experience.
@@ -33,6 +33,25 @@ Up for a conversation about infusing some design enchantment into your project? 
 
 {/* add images group wrapper: */}
 <div className={styles.imagesGROUPWrapper}>
+
+
+
+
+
+{/* NHS: */}
+
+{/* homebase: */}
+<div className={styles.imageWrapper}>
+
+<Image
+    src="/Media/LOGOS-Clients/FIXED/PNGs/NHS.png"
+    width={1000}
+    height={405}
+    layout="responsive"
+    alt="logo NHS England"
+    className={styles.image}
+    quality="100"
+/></div>
 
 
 
@@ -113,18 +132,6 @@ Up for a conversation about infusing some design enchantment into your project? 
 /></div>
 
 
-{/* nokia: */}
-<div className={styles.imageWrapper}>
-<Image
-    src="/Media/LOGOS-Clients/FIXED/PNGs/NokiaLogo.png"
-    width={1000}
-    height={353}
-    // layout="responsive"
-    alt="logo Nokia"
-    // className={styles.image}
-    // quality="100"
-/></div>
-
 
 
 
@@ -140,6 +147,18 @@ Up for a conversation about infusing some design enchantment into your project? 
     // quality="100"
 /></div>
 
+
+{/* nokia: */}
+<div className={styles.imageWrapper}>
+<Image
+    src="/Media/LOGOS-Clients/FIXED/PNGs/NokiaLogo.png"
+    width={1000}
+    height={353}
+    // layout="responsive"
+    alt="logo Nokia"
+    // className={styles.image}
+    // quality="100"
+/></div>
 
 
 
