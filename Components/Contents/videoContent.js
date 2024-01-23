@@ -34,7 +34,7 @@ export default function VideoContent() {
 
 
 
-        <h2>Centenary Celebration Video </h2>
+        <h2 id="centenaryVideo">Centenary Celebration Video </h2>
 
         <p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> April 2017</p>
         <p className={styles.paraLeft}><span className={styles.spanBold}>Team size: </span>5</p>
@@ -46,7 +46,7 @@ export default function VideoContent() {
         <p className={styles.paraLeft}><span className={styles.spanBold}>Delivery method: </span>Projected on cinema size screen during AGM Conference; published in social media (Twitter, Facebook and Instagram) and on company's website.</p>
 
 
-        <div className={styles.videoContainer} id="centenaryVideo">
+        <div className={styles.videoContainer} >
 <video
         src="/Portfolio/Videos/CSSCStarWarsCentenaryIntroduction.mp4"
         width="100%"
@@ -85,7 +85,7 @@ export default function VideoContent() {
 
 
 
-        <h2>Lewis Football Club</h2>
+        <h2 id="LewisCup">Lewis Football Club</h2>
 
         <p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> June 2018</p>
         <p className={styles.paraLeft}><span className={styles.spanBold}>Team size: </span>8</p>
@@ -97,7 +97,7 @@ export default function VideoContent() {
         <p className={styles.paraLeft}><span className={styles.spanBold}>Delivery method: </span>Published in social media (Twitter, Facebook and Instagram), on company's website.</p>
 
 
-        <div className={styles.videoContainer} id="LewisCup">
+        <div className={styles.videoContainer}>
 <video
         src="/Portfolio/Videos/LewisCupFootball.mp4"
         width="100%"
@@ -113,7 +113,7 @@ export default function VideoContent() {
 
 
 
-        <h2>Thank you Volunteers</h2>
+        <h2 id="volunteers">Thank you Volunteers</h2>
 
         <p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> September 2018</p>
         <p className={styles.paraLeft}><span className={styles.spanBold}>Team size: </span>4</p>
@@ -128,7 +128,7 @@ export default function VideoContent() {
 
 
 
-        <div className={styles.videoContainer} id="volunteers">
+        <div className={styles.videoContainer}>
 <video
         src="/Portfolio/Videos/ThankYouVolunteers.mp4"
         width="100%"
