@@ -237,7 +237,7 @@ export default function VideoContent() {
 
 {/* taste card: */}
 
-<h2>Taste Card email footer</h2>
+<h2 id="emailTasteCard">Taste Card email footer</h2>
 
 <p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> January 2018</p>
         <p className={styles.paraLeft}><span className={styles.spanBold}>Team size: </span>3</p>
