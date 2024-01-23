@@ -146,8 +146,8 @@ export default function VideoContent() {
 
 
 
-
-        <h2>Online Advertising <br />(The Guardian)</h2>
+{/* guardian ad: */}
+        <h2 id="GuardianAd">Online Advertising <br />(The Guardian)</h2>
 
         <p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> February 2018</p>
         <p className={styles.paraLeft}><span className={styles.spanBold}>Team size: </span>4</p>
@@ -178,6 +178,106 @@ export default function VideoContent() {
 
 
 
+
+{/* english heritage email: "/Portfolio/JPEGs/emailFooters/englishHeritage.png"     600x142*/}
+<h2 id="emailEnglishHeritage">English Heritage Email</h2>
+
+<p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> March 2017</p>
+<p className={styles.paraLeft}><span className={styles.spanBold}>Team size: </span>5</p>
+<p className={styles.paraLeft}> <span className={styles.spanBold}>Tools used:</span> Photoshop, InDesign and Illustrator.</p>
+<p className={styles.paraLeft}><span className={styles.spanBold}>Description:</span> English Heritage graphics email.</p>
+<p className={styles.paraLeft}><span className={styles.spanBold}>Contribution:</span> Ideation, visual effects, final post production for email media.</p>
+
+
+<p className={styles.paraLeft}><span className={styles.spanBold}>Delivery method: </span>Sent as a part of emails.</p>
+
+
+        <div className={styles.animatedGif}>
+        <Image
+            src="/Portfolio/JPEGs/emailFooters/englishHeritage.png"
+            width={600}
+            height={142}
+            alt="English Heritage email footer"
+            />
+        </div>
+
+
+
+
+
+
+{/* historical palaces email: "/Portfolio/JPEGs/emailFooters/historicalPalaces.jpg"     600x185*/}
+<h2 id="emailHistoricalPalaces">Historical Palaces</h2>
+
+<p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> May 2018</p>
+<p className={styles.paraLeft}><span className={styles.spanBold}>Team size: </span>6</p>
+<p className={styles.paraLeft}> <span className={styles.spanBold}>Tools used:</span> Photoshop, InDesign and Illustrator.</p>
+<p className={styles.paraLeft}><span className={styles.spanBold}>Description:</span> Historical Palaces graphics email.</p>
+<p className={styles.paraLeft}><span className={styles.spanBold}>Contribution:</span> Ideation, visual effects, final post production for email media.</p>
+
+
+<p className={styles.paraLeft}><span className={styles.spanBold}>Delivery method: </span>Sent as a part of emails.</p>
+
+
+        <div className={styles.animatedGif}>
+        <Image
+            src="/Portfolio/JPEGs/emailFooters/historicalPalaces.jpg"
+            width={600}
+            height={185}
+            alt="Historical palaces email footer"
+            />
+        </div>
+
+
+
+
+
+
+
+
+{/* taste card: */}
+
+<h2>Taste Card email footer</h2>
+
+<p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> January 2018</p>
+        <p className={styles.paraLeft}><span className={styles.spanBold}>Team size: </span>3</p>
+        <p className={styles.paraLeft}> <span className={styles.spanBold}>Tools used:</span> Premier Pro, Photoshop, InDesign and Illustrator.</p>
+        <p className={styles.paraLeft}><span className={styles.spanBold}>Description:</span> Animated visual for email.</p>
+        <p className={styles.paraLeft}><span className={styles.spanBold}>Contribution:</span> Ideation, visual effects, motion graphics, final post production for email media.</p>
+
+
+        <p className={styles.paraLeft}><span className={styles.spanBold}>Delivery method: </span>Sent as a part of emails.</p>
+
+
+
+
+        <div className={styles.animatedGif}>
+        <Image
+            src="/Portfolio/JPEGs/emailFooters/tasteCard.png"
+            width={600}
+            height={173}
+            alt="Taste Card Logo"
+            />
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{/* animated email footer: */}
 <h2>Animated email footer</h2>
 
 <p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> January 2018</p>
@@ -198,7 +298,7 @@ export default function VideoContent() {
             src="/Portfolio/animatedGifs/MySaving+October2017.gif"
             width={620}
             height={146}
-            alt=""
+            alt="My Saving deals email footer"
             />
         </div>
 
@@ -225,62 +325,9 @@ export default function VideoContent() {
             src="/Portfolio/JPEGs/emailFooters/fullEmail.jpg"
             width={600}
             height={910}
-            alt=""
+            alt="email full graphic design"
             />
         </div>
-
-
-
-
-{/* english heritage email: "/Portfolio/JPEGs/emailFooters/englishHeritage.png"     600x142*/}
-<h2>English Heritage Email</h2>
-
-<p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> March 2017</p>
-<p className={styles.paraLeft}><span className={styles.spanBold}>Team size: </span>5</p>
-<p className={styles.paraLeft}> <span className={styles.spanBold}>Tools used:</span> Photoshop, InDesign and Illustrator.</p>
-<p className={styles.paraLeft}><span className={styles.spanBold}>Description:</span> English Heritage graphics email.</p>
-<p className={styles.paraLeft}><span className={styles.spanBold}>Contribution:</span> Ideation, visual effects, final post production for email media.</p>
-
-
-<p className={styles.paraLeft}><span className={styles.spanBold}>Delivery method: </span>Sent as a part of emails.</p>
-
-
-        <div className={styles.animatedGif}>
-        <Image
-            src="/Portfolio/JPEGs/emailFooters/englishHeritage.png"
-            width={600}
-            height={142}
-            alt=""
-            />
-        </div>
-
-
-
-
-
-
-{/* historical palaces email: "/Portfolio/JPEGs/emailFooters/historicalPalaces.jpg"     600x185*/}
-<h2>Historical Palaces</h2>
-
-<p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> May 2018</p>
-<p className={styles.paraLeft}><span className={styles.spanBold}>Team size: </span>6</p>
-<p className={styles.paraLeft}> <span className={styles.spanBold}>Tools used:</span> Photoshop, InDesign and Illustrator.</p>
-<p className={styles.paraLeft}><span className={styles.spanBold}>Description:</span> Historical Palaces graphics email.</p>
-<p className={styles.paraLeft}><span className={styles.spanBold}>Contribution:</span> Ideation, visual effects, final post production for email media.</p>
-
-
-<p className={styles.paraLeft}><span className={styles.spanBold}>Delivery method: </span>Sent as a part of emails.</p>
-
-
-        <div className={styles.animatedGif}>
-        <Image
-            src="/Portfolio/JPEGs/emailFooters/historicalPalaces.jpg"
-            width={600}
-            height={185}
-            alt=""
-            />
-        </div>
-
 
 
 
