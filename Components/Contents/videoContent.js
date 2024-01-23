@@ -46,7 +46,7 @@ export default function VideoContent() {
         <p className={styles.paraLeft}><span className={styles.spanBold}>Delivery method: </span>Projected on cinema size screen during AGM Conference; published in social media (Twitter, Facebook and Instagram) and on company's website.</p>
 
 
-        <div className={styles.videoContainer}>
+        <div className={styles.videoContainer} id="centenaryVideo">
 <video
         src="/Portfolio/Videos/CSSCStarWarsCentenaryIntroduction.mp4"
         width="100%"
@@ -97,7 +97,7 @@ export default function VideoContent() {
         <p className={styles.paraLeft}><span className={styles.spanBold}>Delivery method: </span>Published in social media (Twitter, Facebook and Instagram), on company's website.</p>
 
 
-        <div className={styles.videoContainer}>
+        <div className={styles.videoContainer} id="LewisCup">
 <video
         src="/Portfolio/Videos/LewisCupFootball.mp4"
         width="100%"
@@ -128,7 +128,7 @@ export default function VideoContent() {
 
 
 
-        <div className={styles.videoContainer}>
+        <div className={styles.videoContainer} id="volunteers">
 <video
         src="/Portfolio/Videos/ThankYouVolunteers.mp4"
         width="100%"
