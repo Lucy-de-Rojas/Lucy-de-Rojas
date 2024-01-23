@@ -239,13 +239,11 @@ export default function VideoContent() {
 
 <h2 id="emailTasteCard">Taste Card email footer</h2>
 
-<p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> January 2018</p>
+<p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> March 2017</p>
         <p className={styles.paraLeft}><span className={styles.spanBold}>Team size: </span>3</p>
-        <p className={styles.paraLeft}> <span className={styles.spanBold}>Tools used:</span> Premier Pro, Photoshop, InDesign and Illustrator.</p>
+        <p className={styles.paraLeft}> <span className={styles.spanBold}>Tools used:</span> Photoshop and InDesign.</p>
         <p className={styles.paraLeft}><span className={styles.spanBold}>Description:</span> Animated visual for email.</p>
         <p className={styles.paraLeft}><span className={styles.spanBold}>Contribution:</span> Ideation, visual effects, motion graphics, final post production for email media.</p>
-
-
         <p className={styles.paraLeft}><span className={styles.spanBold}>Delivery method: </span>Sent as a part of emails.</p>
 
 
