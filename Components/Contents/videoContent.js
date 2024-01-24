@@ -147,7 +147,7 @@ export default function VideoContent() {
 
 
 {/* guardian ad: */}
-        <h2 id="GuardianAd">Online Advertising <br />(The Guardian)</h2>
+        <h2 id="GuardianAdd">Online Advertising <br />(The Guardian)</h2>
 
         <p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> February 2018</p>
         <p className={styles.paraLeft}><span className={styles.spanBold}>Team size: </span>4</p>
@@ -207,7 +207,7 @@ export default function VideoContent() {
 
 
 {/* historical palaces email: "/Portfolio/JPEGs/emailFooters/historicalPalaces.jpg"     600x185*/}
-<h2 id="emailHistoricalPalaces">Historical Palaces</h2>
+<h2 id="emailHistoricPalaces">Historical Palaces</h2>
 
 <p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> May 2018</p>
 <p className={styles.paraLeft}><span className={styles.spanBold}>Team size: </span>6</p>
@@ -276,7 +276,7 @@ export default function VideoContent() {
 
 
 {/* animated email footer: */}
-<h2>Animated email footer</h2>
+<h2 id="emailSavings">Animated email footer</h2>
 
 <p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> January 2018</p>
         <p className={styles.paraLeft}><span className={styles.spanBold}>Team size: </span>3</p>
@@ -307,7 +307,7 @@ export default function VideoContent() {
 
 
 {/* christmas tree email: "/Portfolio/JPEGs/fullEmail.jpg"    600x910*/}
-<h2>Full Graphics Email</h2>
+<h2 id="emailFullDesign">Full Graphics Email</h2>
 <p className={styles.paraLeft} ><span className={styles.spanBold}>  Year:</span> December 2017</p>
 <p className={styles.paraLeft}><span className={styles.spanBold}>Team size: </span>4</p>
 <p className={styles.paraLeft}> <span className={styles.spanBold}>Tools used:</span> Photoshop, InDesign and Illustrator.</p>
