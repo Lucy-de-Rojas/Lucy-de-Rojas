@@ -30,32 +30,6 @@ export default function PortfolioGraphicDesignContent() {
 
 
 
-<h2>Print design:
-    <br />
-    <span className={styles.quote}>
-     Membership Benefits booklet:
-     </span></h2>
-
-
-
-<p>24 page booklet in high gloss finish. Design work included intial document setup,
-    flatplan management and printing arrangements.
-    Software used: Indesign, Photoshop and Illustrator. <br />
-     <span className={styles.author}> Have a flip through and see if can spot the
-    "infamous" pizza chart?
-    </span>
-
-
-     </p>
-
-     <Booklet />
-{/*
-<iframe
-    src="//www.slideshare.net/slideshow/embed_code/key/x3MTog1XpcJ1L1"
-    className={styles.pdf}
-
-    /> */}
-
 
 
 
@@ -179,6 +153,25 @@ Test sample made is stainless steel. Final print in silver not produced due to l
 
 
 
+<h2>Print design:
+    <br />
+    <span className={styles.quote}>
+     Membership Benefits booklet:
+     </span></h2>
+
+
+
+<p>24 page booklet in high gloss finish. Design work included intial document setup,
+    flatplan management and printing arrangements.
+    Software used: Indesign, Photoshop and Illustrator. <br />
+     <span className={styles.author}> Have a flip through and see if can spot the
+    "infamous" pizza chart?
+    </span>
+
+
+     </p>
+
+     <Booklet />
 
 
 
