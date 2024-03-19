@@ -62,13 +62,11 @@ export default function PortfolioGraphicDesignContent() {
 
 
 
-
-<h2>Animations: <br /> <span className={styles.quote}> Online Ad for The Guardian</span></h2>
-<p>From drafting ideas to submitting finished work based on
-    specifications provided by The Guardian.
+{/* ScannAppeal logo Animation */}
+<h2>Animations: <br /> <span className={styles.quote}> NHS - Scannappeal logo animation</span></h2>
+<p>From drafting ideas to use in video content for online platforms.
     <br />
-    <span className={styles.quote}>&quot;Why not try new things and
-    discover yourself every single day?&quot; </span> <span className={styles.author}>Bhavya Choudhary </span>
+
 
 
 
@@ -79,10 +77,10 @@ export default function PortfolioGraphicDesignContent() {
 
 <div className={styles.animatedGif}>
     <Image
-        src="/Portfolio/animatedGifs/TrySomethingNew.gif"
-        width={2244}
-        height={1654}
-        alt="animations design portfolio lucy de rojas"
+        src="/Media/ScannAppeal/LogoIntro.gif"
+        width={1920}
+        height={1080}
+        alt="ScannAppeal logo Animation"
 
 
     />
@@ -99,26 +97,24 @@ export default function PortfolioGraphicDesignContent() {
 
 
 
-
+{/* Video - Xmas Carols Scannappeal: */}
 <h2 id="video">Video Production<br /> & Visual Effects: <br />
 <span className={styles.quote}>
-Star Wars Theme Centenary Celebrations Introduction
+NHS Scannappeal Xmas Carols 2023
 </span>
 
 
 </h2>
-    <p>Projected on cinema size screen during AGM. Video introduces Centenary
-        celebrations of CSSC. It starts with the 3D animation of Planet CSSC, followed by
-        Star Wars yellow text describing how CSSC was founded in 1921, accompanied by the
-        characteristic music.
-        <br />
-        <span className={styles.author}> Press play to see where the Force will take you!
-        </span>
+    <p>
+
+        Video editing, visual effects and motion graphics (introduction and closing section). This lovely little gem is highlighting efforts of Scannappeal volunteers to raise funds for much needed hospital equipment in Buckinghamshire.
+
+
     </p>
 
 <div className={styles.videoContainer}>
       <video
-        src="/Portfolio/Videos/CSSCStarWarsCentenaryIntroduction.mp4"
+        src="/Media/ScannAppeal/ScannAppealChristmasCarols.mp4"
         width="100%"
         height="auto"
         controls
@@ -135,32 +131,23 @@ Star Wars Theme Centenary Celebrations Introduction
 
 
 
-
+{/* powerpoint presentation with NESS: */}
 <h2>Powerpoint presentations: <br />
 <span className={styles.quote}>
-About CSSC
+NESS Eco Products
 </span>
 </h2>
-    <p>Presentation used for sales pitches. It has 27 animated slides.
+    <p>Presentation used for online meeting with potential distributors. It contains 15 slides.
     <br />
-       <span className={styles.author}>
-         Why not try clicking on the slides to see the power of Powerpoint?
-                </span>
           </p>
 
 
 
-                <PowerPoint />
-
-
-          {/* working powerpint link:   ✅*/}
-{/*
-    <iframe className={styles.pdf} src="https://onedrive.live.com/embed?resid=EC6BF2592866F3BD%21133&amp;authkey=%21AB0z1gC--kIE3K4&amp;em=2&amp;wdAr=1.7777777777777777&amp;Embed=1&amp;wdEaa=1">This is an embedded <a href="https://office.com">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps">Office</a>.</iframe> */}
+          <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbHQLPVrJuHWZY_8liKO2qj28VBJ-u8LriftaVY3IJ6NM_gESfK8BXQH1CAMhMHTngcqU-mlYUUkrB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" />
 
 
 
 
-    {/* <iframe src="https://onedrive.live.com/embed?resid=EC6BF2592866F3BD%21133&amp;authkey=%21AB0z1gC--kIE3K4&amp;em=2&amp;wdAr=1.7777777777777777&amp;Embed=1&amp;wdEaa=1" width="100%" height="300px" frameBorder="1">This is an embedded <a href="https://office.com">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps">Office</a>.</iframe> */}
 
 
 
