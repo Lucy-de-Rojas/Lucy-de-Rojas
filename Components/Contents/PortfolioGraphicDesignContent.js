@@ -15,6 +15,9 @@ import PowerPoint from "../SlideShows/PowerPoint";
 export default function PortfolioGraphicDesignContent() {
 
 
+console.clear()
+
+
 
 
 
@@ -116,9 +119,11 @@ NESS Eco Products
           </p>
 
 
+<div className={styles.iframeContainer}>
 
-          <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbHQLPVrJuHWZY_8liKO2qj28VBJ-u8LriftaVY3IJ6NM_gESfK8BXQH1CAMhMHTngcqU-mlYUUkrB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" />
+          <iframe className={styles.iframe} src="https://docs.google.com/presentation/d/e/2PACX-1vQbHQLPVrJuHWZY_8liKO2qj28VBJ-u8LriftaVY3IJ6NM_gESfK8BXQH1CAMhMHTngcqU-mlYUUkrB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" />
 
+</div>  {/* end of iframe container */}
 
 
 
