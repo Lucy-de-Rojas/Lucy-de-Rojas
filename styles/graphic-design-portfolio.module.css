@@ -87,8 +87,19 @@
     position: relative;
     overflow: hidden;
     width: 100%;
-    padding-top: 56.25%;
+    padding-top: 64%;
 }
+
+/* for pc screen: */
+@media only screen and (min-width: 1000px) {
+     .iframeContainer {
+        padding-top: 61%;
+     }
+
+}
+
+
+
 .iframe {
     position: absolute;
     top: 0;
