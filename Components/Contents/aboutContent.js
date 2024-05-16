@@ -24,7 +24,7 @@ export default function AboutContent() {
 
         <Image
 
-        src= "/Media/Photos/LucyDeRojas2.png"
+        src= "/Media/Photos/Lucy de Rojas.png"
         width={500}
         height={500}
         layout="responsive"
