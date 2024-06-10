@@ -32,6 +32,28 @@ console.clear()
 
 
 
+{/* Video - StarWars video: */}
+<h2 id="StarWars">Video Production<br /> & Visual Effects:<br /></h2>
+    <p>
+    <b><i>Star Wars themed introduction to centenary celebration</i></b>
+<br />
+
+Video created to celebrate upcoming centenary celebration, projected on cinema size screen during opening session of AGM in NEC Birmingham. Also used on social platforms and on website.
+
+    </p>
+
+<div className={styles.videoContainer}>
+      <video
+        src="/Portfolio/Videos/CSSCStarWarsCentenaryIntroduction.mp4"
+        width="100%"
+        height="auto"
+        controls
+
+        />
+</div>
+
+
+
 
 
 
