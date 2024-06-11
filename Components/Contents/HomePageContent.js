@@ -12,7 +12,7 @@ export default function HomePageContent () {
 
     return (<LayoutContent>
 
-<h1>Welcome to my website!</h1>
+<h1>Welcome!</h1>
 
 
 
@@ -23,7 +23,9 @@ Pleased to have you visiting my pages. I'm a seasoned digital creator with a hum
 Over the years, my creative journey has entwined with household names such as Bosch, Nokia, Nike, TK Maxx, Readers Digest, NHS, Boden, and Homebase. Working with these esteemed names has not only honed my skills but has also fueled my passion for creating designs that resonate with diverse audiences.
 
 <br/><br/>
-Up for a conversation about infusing some design enchantment into your project? How about a friendly chat over a cuppa to explore how I can breathe life into your ideas? Feel free to reach out, and let's dive into this creative journey together. I'm eager to craft something exceptional with you! Additionally, I'm here to contribute to the growth of your business through my skills and extensive experience.
+Up for a conversation about infusing some design enchantment into your project?
+How about a friendly chat over a cuppa to explore how I can breathe life into your ideas?
+<br /><br />Feel free to reach out, and let's dive into this creative journey together. I'm eager to craft something exceptional with you! Additionally, I'm here to contribute to the growth of your business through my skills and extensive experience.
 
 </p>
 
