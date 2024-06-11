@@ -39,29 +39,33 @@ export default function AboutContent() {
 
 
 
-<h1>Lucy de Rojas</h1>
 
 <p>
-
-I’m an active, techie mum and wife who loves technology and art. With a professional sporting past in athletics, my work style carries strong rule adhering, self-discipline and bringing projects to successful finish.
-<br /><br />
-
-Exploring into the <b>intricacies of branding</b>, my understanding extends beyond the surface of visuals to grasp its holistic impact on business growth. Employing a strategic approach, I align branding seamlessly with business objectives, cultivating a unified and impactful market presence.
-<br /><br />
-
-Shifting focus to <b>business models</b>, my forte lies in unraveling their intricacies, spanning revenue streams, cost structures, and value propositions. This expertise empowers me to scrutinize and enhance models for optimal efficiency, making vital contributions to sustainable growth and profitability.
-<br /><br />
-
-Setting me apart is an unwavering commitment to <b>continuous learning</b>. In tune with the dynamic business landscape, I remain abreast of trends, technologies, and strategies. This dedication underscores a growth mindset and showcases adaptability, vital assets in navigating a competitive environment.
-
+<h3>Who am I?</h3>
+My name is Lucy and I’m an active, techie mum and wife who loves technology and art. With a professional sporting past in athletics, my work style carries strong rule adhering, self-discipline and bringing projects to successful finish.
 <br /><br />
 
 
-<hr className={styles.hr} />
+<h3>Intricacies of Branding</h3>
+Exploring into the intricacies of branding, my understanding extends beyond the surface of visuals to grasp its holistic impact on business growth. Employing a strategic approach, I align branding seamlessly with business objectives, cultivating a unified and impactful market presence.
+<br /><br />
 
 
+<h3>Business Models</h3>
+Shifting focus to business models, my forte lies in unraveling their intricacies, spanning revenue streams, cost structures, and value propositions. This expertise empowers me to scrutinize and enhance models for optimal efficiency, making vital contributions to sustainable growth and profitability.
+<br /><br />
 
-When I&apos;m not engaged in the digital sphere, <b>I love to</b> travel, explore and support our son in his geology and photography interests.
+<h3>Continuous Learning</h3>
+Setting me apart is an unwavering commitment to continuous learning. In tune with the dynamic business landscape, I remain abreast of trends, technologies, and strategies. This dedication underscores a growth mindset and showcases adaptability, vital assets in navigating a competitive environment.
+
+<br /><br />
+
+
+{/* <hr className={styles.hr} /> */}
+
+
+<h3>Outside the Office</h3>
+When I&apos;m not engaged in the digital sphere, I love to travel, explore and support our son in his sports interests.
 <br />
 
 </p>

@@ -73,7 +73,10 @@ export default function TopHeader() {
 
 
 
-<h2 className={styles.para}>Lucy de Rojas <br /> Web Development <br /><span className={styles.redText}> &amp; </span> Graphic Design </h2>
+<h2 className={styles.para}>
+    Digital Marketing
+    <br /><span className={styles.redText}> &amp; </span>
+    Web Development </h2>
 
 
     </div>);

@@ -1,55 +1,49 @@
 
 
-.link {
-
-    /* position: relative; */
-    background-color: red;
-    width: 20%;
-    text-align: center;
-
-
-    margin:0  0 0 50px;
-
-    padding: 30px 20px;
-    border-radius: 10px; 
-    color: white;
-    font-weight: 900;
-    animation: contact 4s linear infinite alternate;
-    animation-fill-mode: both;
-
-
-
-
-    transition: width 1s;
-    transition-timing-function: ease-in-out;
-
-}
-
-
-@keyframes contact {
-    from {
-        background-color: red;
-        
-        
-    }
-    to {
-        background-color: rgb(90, 5, 5) ;
-
-    }
-}
-
-
-
-.link:hover {
-    animation-play-state: paused;
-    background-color: red;
-
-    width: 40%;
-}
-
-
-
 .contactWrapper {
     display: flex;
+    flex-direction: column;
+}
 
+
+
+.contactWrapper > *:nth-child(n+2) {
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(238, 166, 166);
+    margin: 10px 0;
+    border-radius: 15px;
+    text-shadow: 0px 0px 1.5px rgb(102, 102, 102);
+
+    background-image: linear-gradient(15deg,rgb(250, 225, 225) 85% , rgb(240, 102, 102) 100%);
+
+
+
+
+
+}
+
+
+
+
+
+
+.contactWrapper > *:active {
+    background-color: green;
+
+
+}
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 800px) {
+
+    .contactWrapper > *:nth-child(2), .contactWrapper > *:nth-child(3) {
+        display: none;
+    }
 }

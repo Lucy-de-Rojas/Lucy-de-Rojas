@@ -18,7 +18,7 @@ export default function HomePageContent () {
 
 <p>
 
-Pleased to have you visiting my pages. I'm a seasoned art director with a humble 20 years of experience tucked under my creative belt. I take immense pleasure in collaborating with a diverse array of clients, ranging from the corporate industry titans to the local gems.
+Pleased to have you visiting my pages. I'm a seasoned digital creator with a humble 20 years of experience tucked under my creative belt. I take immense pleasure in collaborating with a diverse array of clients, ranging from the corporate industry titans to the local gems.
 <br/><br/>
 Over the years, my creative journey has entwined with household names such as Bosch, Nokia, Nike, TK Maxx, Readers Digest, NHS, Boden, and Homebase. Working with these esteemed names has not only honed my skills but has also fueled my passion for creating designs that resonate with diverse audiences.
 
