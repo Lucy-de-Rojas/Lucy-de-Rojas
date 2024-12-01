@@ -63,6 +63,7 @@ width={500}
 height={500}
 alt=""
 layout="responsive"
+unoptimized
 className={imageStyling} />
 
 
@@ -76,6 +77,7 @@ width={500}
 height={500}
 alt=""
 layout="responsive"
+unoptimized
 className={imageStyling}
  />
 
@@ -89,6 +91,7 @@ width={500}
 height={500}
 alt=""
 layout="responsive"
+unoptimized
 className={imageStyling}
  />
 
@@ -101,6 +104,7 @@ className={imageStyling}
  height={500}
  alt=""
  layout="responsive"
+ unoptimized
  className={imageStyling}
   />
 
@@ -113,6 +117,7 @@ width={500}
 height={500}
 alt=""
 layout="responsive"
+unoptimized
 className={imageStyling}
  />
 
