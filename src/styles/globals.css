@@ -2,20 +2,129 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+
+@font-face {
+        font-family: "Abraka";
+        src: url("../../public/Fonts/Abrakadaboom.otf");
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+
+@font-face {
+        font-family: "Ango";
+        src: url("../../public/Fonts/Ango-Italica.ttf");
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+
+
+
+@font-face {
+        font-family: "Aston";
+        src: url(".../../../../public/Fonts/Astonpoliz.otf");
 }
+
+
+
+@font-face {
+        font-family: "Baloo";
+        src: url("../../public/Fonts/Baloo2-Bold.ttf");
+}
+
+
+@font-face {
+        font-family: "Baz";
+        src: url("../../public/Fonts/baz-Light.otf");
+}
+
+
+
+@font-face {
+        font-family: "Glimp";
+        src: url("../../public/Fonts/GlimpR-CondensedThin.ttf");
+}
+
+
+@font-face {
+        font-family: "Gomarice";
+        src: url("../../public/Fonts/gomarice_tofo_steak.ttf");
+}
+
+
+@font-face {
+        font-family: "Mukta";
+        src: url("../../public/Fonts/Mukta-Regular.ttf");
+}
+
+@font-face {
+        font-family: "MuktaMalar";
+        src: url("../../public/Fonts/MuktaMalar-Regular.ttf");
+}
+
+
+@font-face {
+        font-family: "MuktaVaani";
+        src: url("../../public/Fonts/MuktaVaani-Regular.ttf");
+}
+
+@font-face {
+        font-family: "Rint";
+        src: url("../../public/Fonts/RintBasic-Regular.ttf");
+}
+
+@font-face {
+        font-family: "Sovranix";
+        src: url("../../public/Fonts/Sovranix-Medium.otf");
+}
+
+
+@font-face {
+        font-family: "ZTRavinsfen";
+        src: url("../../public/Fonts/ZTRavigsfen-Regular.otf");
+}
+
+
+
+* {
+        box-sizing: border-box;
+}
+
+
+
+h1 {
+        font-size: 3rem;
+        font-family: "Aston";
+        text-align: center;
+}
+
+
+
+
+
+
+#red {
+        transform: rotate(-15deg);
+        transform-origin: center;
+}
+
+
+
+
+
+
+
+#menu {
+        /* background-color: red; */
+        /* transition: all 1000ms; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
