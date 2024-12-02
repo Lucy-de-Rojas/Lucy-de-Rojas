@@ -17,6 +17,8 @@ export default function MenuBurger () {
                 console.clear();
         console.log("Clicked!");
 
+	let menu = document.getElementById("menu");
+
 
 
 
@@ -55,11 +57,13 @@ export default function MenuBurger () {
 
 
 
-		anime({
-			targets: "#menu",
-			left:0,
-			duration: 4500,
-		});
+		// anime({
+		// 	targets: "#menu",
+		// 	left:0,
+		// 	duration: 4500,
+		// });
+
+		menu.style.left = "0";
         }
         else {
 		setOpen(!open);
@@ -95,11 +99,14 @@ export default function MenuBurger () {
 		});
 
 
-		anime({
-			targets: "#menu",
-			left: "-110%",
-			duration: 4500,
-		});
+		menu.style.left = "-110%";
+
+
+		// anime({
+		// 	targets: "#menu",
+		// 	left: "-110%",
+		// 	duration: 4500,
+		// });
         }
 
 
