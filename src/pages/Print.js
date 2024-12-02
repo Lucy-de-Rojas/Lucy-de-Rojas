@@ -50,6 +50,39 @@ Thank you for taking the time to explore my work—let’s create something extr
 <div className={imagesALLWrapper}>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div className={imagesWrapper}>
 <div>
 
@@ -78,6 +111,47 @@ layout="responsive"
 " target="_blank">See full publication</Link>
 
 </div>
+
+
+
+
+
+
+
+
+{/* stage design: */}
+<div className={imagesWrapper}>
+<div>
+
+<b>Stage Design</b>
+
+<Image
+src="/Media/Images/Portfolio/Print Design/Stage Design/SimonAndAndy.jpg"
+width={500}
+height={500}
+alt=""
+layout="responsive"
+className="my-5 rounded-2xl"
+/>
+
+
+
+<Image
+src="/Media/Images/Portfolio/Print Design/Stage Design/overview.jpg"
+width={500}
+height={500}
+alt=""
+layout="responsive"
+className="my-5 rounded-2xl"
+
+/>
+</div>
+</div>
+
+
+
+
+
 
 
 
@@ -350,7 +424,6 @@ layout="responsive"
 
 
 <div className={imagesWrapper}>
-
 <div>
 <Image
 src="/Media/Images/Portfolio/Print Design/Booklets/WhatsOnInLindon2016/WhatsOnInLondon2016---.jpg"
@@ -360,6 +433,11 @@ alt=""
 layout="responsive"
 />
 </div>
+
+
+
+
+
 
 
 

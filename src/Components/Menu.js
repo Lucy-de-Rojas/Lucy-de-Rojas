@@ -24,9 +24,9 @@ return (<div className="flex flex-col items-center w-full bg-white text-slate-80
 
 <Link href="/About" className={pinkButton}>About </Link>
 
+<Link href="/Digital" className={greenButton}>  Digital Design  </Link>
 <Link href="/Video" className={greenButton}>  Video Editing & Motion Graphics </Link>
 
-<Link href="/Digital" className={greenButton}>  Digital Design  </Link>
 
 <Link href="/UI" className={greenButton}>  UI / UX Design </Link>
 
