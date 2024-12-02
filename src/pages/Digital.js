@@ -99,7 +99,7 @@ className={imageStyling}
 
 
  <Image
- src="/Media/Images/Portfolio/Digital Design/AnimatedGifs/MySavings+-October-2017.gif"
+ src="/Media/Images/Portfolio/Digital Design/AnimatedGifs/MySavingsOctober-2017.gif"
  width={500}
  height={500}
  alt=""
