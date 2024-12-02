@@ -13,7 +13,7 @@ export default function Menu () {
 
 
 
-return (<div className="flex flex-col items-center w-full bg-white text-slate-800 font-bold fixed left-[-100%] top-[130px] z-20" id="menu">
+return (<div className="flex flex-col items-center w-full bg-white text-slate-800 font-bold absolute left-[-100%] top-[130px] z-20" id="menu">
 
 
 
