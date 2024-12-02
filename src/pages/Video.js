@@ -156,7 +156,7 @@ Website, social media.
 
 Work included:<br />
 </b>
-Video editing, Music sourcing (provided by Benji Rojas).<br />
+Video editing, music sourcing<br /> (provided by Benji Rojas).<br />
 <b>
 
 Usage:<br />
@@ -354,7 +354,7 @@ Naphill Tennis Club - Invite To Open Day<br /> </b>
 Work included:<br />
 
 </b>
-Video editing, motion graphics, visual effects, music sourcing, voice over (provided by Benji Rojas).<br />
+Video editing, motion graphics, visual effects, music sourcing, voice over<br /> (provided by Benji Rojas).<br />
 <b>
 Usage:<br />
 
