@@ -47,6 +47,41 @@ Dive in and explore how I transform ideas into motion!
 
 
 
+
+
+<div className={videoItemWrapper}>
+        <p className={paragraphSpacing}>
+        <b className={paraTitle}> Lucy de Rojas - Video Reel</b><br />
+        (2024) <br />
+        <b>Short video with samples of work.</b> <br />
+ </p>
+
+
+<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/VideoEditAndMotionGraphicsREEL.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div className={videoItemWrapper}>
         <p className={paragraphSpacing}>
         <b className={paraTitle}> ScannAppeal</b><br />
@@ -55,7 +90,6 @@ Dive in and explore how I transform ideas into motion!
 Video editing, motion graphics, visual effects. <br />
 <b>Usage:</b> <br />
 Website, social media. </p>
-
 
 
 <video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/ScannAppeal Christmas Carols 2023.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
@@ -122,7 +156,7 @@ Website, social media.
 
 Work included:<br />
 </b>
-Video editing, Music sourcing (provided by our son).<br />
+Video editing, Music sourcing (provided by Benji Rojas).<br />
 <b>
 
 Usage:<br />
@@ -320,7 +354,7 @@ Naphill Tennis Club - Invite To Open Day<br /> </b>
 Work included:<br />
 
 </b>
-Video editing, motion graphics, visual effects, music sourcing, voice over (provided by our son).<br />
+Video editing, motion graphics, visual effects, music sourcing, voice over (provided by Benji Rojas).<br />
 <b>
 Usage:<br />
 
