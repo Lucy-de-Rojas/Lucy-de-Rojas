@@ -3,3 +3,5 @@ seo url, h1, title
 alt tags
 responsiveness on desktop side
 digital design page - change green looking buttons
+look into changing typefaces
+chnage order of buttons in menu - video first
