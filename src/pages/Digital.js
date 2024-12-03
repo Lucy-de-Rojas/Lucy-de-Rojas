@@ -55,7 +55,7 @@ Explore my work to see how creativity meets strategy in projects that drive resu
 src="/Media/Images/Portfolio/Digital Design/AnimatedGifs/ScannAppealLogo.gif"
 width={500}
 height={500}
-alt=""
+alt="image of animated scann appeal logo"
 layout="responsive"
 className={imageStyling}
  />
@@ -67,7 +67,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/AnimatedGifs/F1TrySomething.gif"
 width={500}
 height={500}
-alt=""
+alt="animated advert for the Guardian website"
 layout="responsive"
 unoptimized
 className={imageStyling} />
@@ -81,7 +81,7 @@ className={imageStyling} />
 src="/Media/Images/Portfolio/Digital Design/AnimatedGifs/Generic-e-footer-January-2018-3-forNewsletters.gif"
 width={500}
 height={500}
-alt=""
+alt="animated email footer"
 layout="responsive"
 unoptimized
 className={imageStyling}
@@ -95,7 +95,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/AnimatedGifs/MySavings.gif"
 width={500}
 height={500}
-alt=""
+alt="animated email footer"
 layout="responsive"
 unoptimized
 className={imageStyling}
@@ -108,7 +108,7 @@ className={imageStyling}
  src="/Media/Images/Portfolio/Digital Design/AnimatedGifs/MySavingsOctober-2017.gif"
  width={500}
  height={500}
- alt=""
+ alt="animated online advert"
  layout="responsive"
  unoptimized
  className={imageStyling}
@@ -121,7 +121,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/AnimatedGifs/CSSC-Online-March-2017.gif"
 width={500}
 height={500}
-alt=""
+alt="animated online advert"
 layout="responsive"
 unoptimized
 className={imageStyling}
@@ -140,7 +140,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/Email-Signature-Image-CSSC-Awards-2016.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of email footer announcing volunteering awards"
 layout="responsive"
 className={imageStyling}
  />
@@ -151,7 +151,7 @@ className={imageStyling}
  src="/Media/Images/Portfolio/Digital Design/englishHeritage.png"
  width={500}
  height={500}
- alt=""
+ alt="image of online advert for English Heritage"
  layout="responsive"
  className={imageStyling}
   />
@@ -161,7 +161,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/Facebook-Banner-My-Savings-Plus-launch-2016.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of email footer"
 layout="responsive"
 className={imageStyling}
  />
@@ -175,7 +175,7 @@ className={imageStyling}
  src="/Media/Images/Portfolio/Digital Design/fullEmail.jpg"
  width={500}
  height={500}
- alt=""
+ alt="image of fully designed email for Christmas"
  layout="responsive"
  className={imageStyling}
   />
@@ -186,7 +186,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/gamesInvite2017.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of CSSC Games invite"
 layout="responsive"
 className={imageStyling}
  />
@@ -198,7 +198,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/historicalPalaces.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of Historical Places advert"
 layout="responsive"
 className={imageStyling}
  />
@@ -209,7 +209,7 @@ className={imageStyling}
  src="/Media/Images/Portfolio/Digital Design/memberGetMember.png"
  width={500}
  height={500}
- alt=""
+ alt="image of email footer inviting members to get members"
  layout="responsive"
  className={imageStyling}
   />
@@ -221,7 +221,7 @@ className={imageStyling}
   src="/Media/Images/Portfolio/Digital Design/memberGetMember2.png"
   width={500}
   height={500}
-  alt=""
+  alt="image of email footer inviting members to get new members"
   layout="responsive"
   className={imageStyling}
    />
@@ -231,7 +231,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/memberGetMember3.png"
 width={500}
 height={500}
-alt=""
+alt="image of online advert encouraging members to get new members"
 layout="responsive"
 className={imageStyling}
  />
@@ -242,7 +242,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/meritAward2017.png"
 width={500}
 height={500}
-alt=""
+alt="image announcing upcoming merit awards"
 layout="responsive"
 className={imageStyling}
  />
@@ -253,7 +253,7 @@ className={imageStyling}
  src="/Media/Images/Portfolio/Digital Design/meritAwards2016.jpg"
  width={500}
  height={500}
- alt=""
+ alt="image of online advert announcing upcoming merit awards"
  layout="responsive"
  className={imageStyling}
   />
@@ -265,7 +265,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/merlinSavings.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of advert on Merlin deals"
 layout="responsive"
 className={imageStyling}
  />
@@ -275,7 +275,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/MyActive.png"
 width={500}
 height={500}
-alt=""
+alt="image of advet talking about My Active scheme"
 layout="responsive"
 className={imageStyling}
  />
@@ -288,7 +288,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/onlineShop.png"
 width={500}
 height={500}
-alt=""
+alt="image of advert for online shop"
 layout="responsive"
 className={imageStyling}
  />
@@ -297,7 +297,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/onlineShopXmas.png"
 width={500}
 height={500}
-alt=""
+alt="image of advert for online Christmas shop"
 layout="responsive"
 className={imageStyling}
  />
@@ -308,7 +308,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/onlineShopXmas2.png"
 width={500}
 height={500}
-alt=""
+alt="image of email footer on Christmas online shop"
 layout="responsive"
 className={imageStyling}
  />
@@ -318,7 +318,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/Sarahs-email-images-January-2016.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of email footer"
 layout="responsive"
 className={imageStyling}
  />
@@ -329,7 +329,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/Sarahs-email-images-January-20162.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of email footer"
 layout="responsive"
 className={imageStyling}
  />
@@ -338,7 +338,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/Sarahs-email-images-January-20163.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of online advert"
 layout="responsive"
 className={imageStyling}
  />
@@ -353,7 +353,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/SeasonGreetings.png"
 width={500}
 height={500}
-alt=""
+alt="image of advert on Seasons Greetings"
 layout="responsive"
 className={imageStyling}
  />
@@ -365,7 +365,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/SwitchAndSave.jpg"
 width={500}
 height={500}
-alt=""
+alt="image on energy savings deals"
 layout="responsive"
 className={imageStyling}
  />
@@ -377,7 +377,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/tasteCard.png"
 width={500}
 height={500}
-alt=""
+alt="image of advert on Taste card"
 layout="responsive"
 className={imageStyling}
  />
@@ -392,7 +392,7 @@ className={imageStyling}
 src="/Media/Images/Portfolio/Digital Design/volunteerWeek.png"
 width={500}
 height={500}
-alt=""
+alt="image celebrating Volunteer Week"
 layout="responsive"
 className={imageStyling}
  />
