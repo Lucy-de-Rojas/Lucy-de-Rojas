@@ -26,7 +26,7 @@ export default function Print () {
 return (<Layout>
         <BackToTopButton />
         <Head>
-                <title>Lucy de Rojas - Print Design</title>
+                <title>Expert Print Design | Creative Solutions for Your Business Needs | High Wycombe, Buckinghamshire (Bucks)</title>
         </Head>
 
 <h1>Print Design</h1>
@@ -123,7 +123,8 @@ layout="responsive"
 <div className={imagesWrapper}>
 <div>
 
-<b>Stage Design</b>
+<b>Stage Design CSSC</b>
+<p>NEC Birmningham 2018</p>
 
 <Image
 src="/Media/Images/Portfolio/Print Design/Stage Design/SimonAndAndy.jpg"

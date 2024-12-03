@@ -23,6 +23,13 @@ export default function Video () {
 
 return (<Layout>
         <BackToTopButton />
+<Head><title>
+Creative Video Editing | High-Quality Motion Content Creation | High Wycombe | Buckinghamshire | Bucks
+
+
+        </title></Head>
+
+
 <h1>Video Editing & <br />Motion Graphics</h1>
 
 <main className="px-14">

@@ -1,5 +1,5 @@
 import Layout from "@/Components/Layout"
-
+import Head from "next/head";
 
 
 
@@ -38,6 +38,14 @@ export default function Contact () {
 
 
 return (<Layout>
+
+<Head><title>
+Contact Lucy de Rojas | Multimedia Designer Available for Projects
+
+        </title></Head>
+
+
+
 <main className="flex flex-col items-center w-full">
 <h1>Contact</h1>
 

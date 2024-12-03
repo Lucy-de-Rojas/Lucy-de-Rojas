@@ -19,6 +19,12 @@ export default function About () {
 
 
 return (<Layout>
+        <Head><title>
+        Creative Designer with Expertise in UI, Digital, Video & Print
+
+
+
+                </title></Head>
 <main className="px-14">
 
 
