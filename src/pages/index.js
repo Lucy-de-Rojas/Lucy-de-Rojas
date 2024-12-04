@@ -7,8 +7,6 @@ import Head from "next/head";
 
 export default function Home() {
 
-  console.clear();
-  console.log("hello home page")
 
 
 
@@ -25,7 +23,7 @@ export default function Home() {
 
 
 
-    <p className="w-full md:w-3/4 xl:w-1/2">My name is Lucy de Rojas and I’m UI, UX, digital & graphic designer.
+    <p className="w-full md:w-3/4 xl:w-1/3">My name is Lucy de Rojas and I’m UI, UX, digital & graphic designer.
 
 
 

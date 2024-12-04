@@ -33,7 +33,7 @@ Creative Video Editing | High-Quality Motion Content Creation | High Wycombe | B
 <h1>Video Editing & <br />Motion Graphics</h1>
 
 <main className="px-14">
-<p>
+<p className= "md:px-[15%] lg:px-[20%] xl:px-[30%] py-6">
 Welcome to my video editing and motion graphics portfolio! With a passion for storytelling through dynamic visuals, I specialize in creating engaging video content that captures attention and delivers impactful messages.
 
 <br /><br />

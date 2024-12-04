@@ -16,6 +16,9 @@ export default function About () {
         let phoneNumber = plus + numbers[4] + numbers[4] + numbers[7] + numbers[4] + numbers[1] + numbers[1] + numbers[3] + numbers[8] + numbers[7] + numbers[0] + numbers[0] + numbers[9] ;
 
 
+        let pinkButton = "bg-pink-300 w-3/4 md:w-1/2 xl:w-1/3 text-center py-6 my-3 rounded-full shadow-2xl";
+
+
 
 
 return (<Layout>
@@ -25,7 +28,7 @@ return (<Layout>
 
 
                 </title></Head>
-<main className="px-14">
+<main className="px-14 md:px-[20%] xl:px-[35%]">
 
 
 
@@ -61,9 +64,9 @@ Ready to design with purpose? Let’s shape visuals that turn first impressions 
 
 <div className="flex flex-col place-items-center my-9">
 
-<a href={"tel:" + phoneNumber} className="bg-pink-300 w-3/4 text-center py-3 my-3 rounded-full shadow-2xl">Call (UK)</a>
-<a href={"sms:" + phoneNumber} className="bg-pink-300 w-3/4 text-center py-3 my-3 rounded-full shadow-2xl">Send Text Message (UK)</a>
-<a href={"mailto:" + email} className="bg-pink-300 w-3/4 text-center py-3 my-3 rounded-full shadow-2xl">Send Email</a>
+<a href={"tel:" + phoneNumber} className={pinkButton}>Call (UK)</a>
+<a href={"sms:" + phoneNumber} className={pinkButton}>Send Text Message (UK)</a>
+<a href={"mailto:" + email} className={pinkButton}>Send Email</a>
 
 </div>
 

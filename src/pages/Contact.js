@@ -20,7 +20,7 @@ export default function Contact () {
 
 
 
-        let pinkButton = "bg-pink-300 w-3/4 text-center py-3 my-3 rounded-full shadow-2xl";
+        let pinkButton = "bg-pink-300 w-[80%] md:w-[70%] lg:w-[40%] xl:w-[30%] text-center py-6 my-5 rounded-full shadow-2xl";
 
 
 

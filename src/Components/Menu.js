@@ -7,13 +7,13 @@ import anime from "animejs";
 export default function Menu () {
 
 
-        let pinkButton = "flex-1 bg-pink-300 m-4 flex justify-center items-center min-w-1/7 py-7 rounded shadow-2xl w-5/6 rounded-full";
+        let pinkButton = "flex-1 bg-pink-300 m-4 flex justify-center items-center min-w-1/7 py-7 rounded shadow-2xl w-5/6 md:w-1/2 xl:w-1/3  rounded-full";
 
-        let greenButton = "flex-1 bg-green-300 m-4 flex justify-center items-center min-w-9 py-7 rounded shadow-2xl w-5/6 rounded-full";
+        let greenButton = "flex-1 bg-green-300 m-4 flex justify-center items-center min-w-9 py-7 rounded shadow-2xl w-5/6 md:w-1/2 xl:w-1/3 rounded-full";
 
 
 
-return (<div className="flex flex-col items-center w-full bg-white text-slate-800 font-bold absolute left-[-100%] top-[130px] z-20" id="menu">
+return (<div className="flex flex-col items-center w-full bg-white text-slate-800 font-bold absolute left-[-110%] top-[130px] z-20" id="menu">
 
 
 
