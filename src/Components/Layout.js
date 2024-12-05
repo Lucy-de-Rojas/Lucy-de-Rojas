@@ -24,7 +24,7 @@ export default function Layout({children}) {
 
                         <link rel="icon" href="/Media/IconsAndLogos/newLogoNOtail.ico" />
 
-                        <GoogleAnalytics gaId="08YXPLNCCC"/>
+                        <GoogleAnalytics gaId="G-08YXPLNCCC"/>
 
 
 
