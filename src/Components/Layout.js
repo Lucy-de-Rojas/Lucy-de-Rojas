@@ -6,18 +6,7 @@ import {GoogleAnalytics, GoogleTagManager} from "@next/third-parties/google"
 
 
 export default function Layout({children}) {
-        console.log("start")
 
-        let tag = document.dataLayer = window.dataLayer || [];
-        function gtag() {
-                dataLayer.push(arguments);
-                console.log("middle")
-        }
-
-        gtag('js', new Date());
-        gtag('config', 'G-08YXPLNCCC');
-
-        console.log("done");
 
 
 
@@ -34,6 +23,8 @@ export default function Layout({children}) {
                         <Script async scr="https://www.googletagmanager.com/gtag/js?id=G-08YXPLNCCC" />
 
                         <link rel="icon" href="/Media/IconsAndLogos/newLogoNOtail.ico" />
+
+                        <GoogleAnalytics gaId="08YXPLNCCC"/>
 
 
 
