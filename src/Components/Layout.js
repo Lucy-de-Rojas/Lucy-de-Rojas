@@ -23,11 +23,11 @@ export default function Layout({children}) {
 
 
                 <Head>
-                        <Script async scr="https://www.googletagmanager.com/gtag/js?id=G-08YXPLNCCC" />
+                        <GoogleTagManager gtmId={GTM_ID} />
 
                         <link rel="icon" href="/Media/IconsAndLogos/newLogoNOtail.ico" />
 
-                        <GoogleAnalytics gaId="G-08YXPLNCCC"/>
+                        <GoogleAnalytics gaId={GTM_ID}/>
 
 
 
