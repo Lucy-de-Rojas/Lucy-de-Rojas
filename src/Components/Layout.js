@@ -8,7 +8,7 @@ import {GoogleAnalytics} from "@next/third-parties/google"
 export default function Layout({children}) {
 
 
-        async function handlePageLoad() {
+        function handlePageLoad() {
 
                 window.dataLayer = window.dataLayer || [];
                 function gtag(){dataLayer.push(arguments);}
@@ -29,6 +29,8 @@ export default function Layout({children}) {
 
 
                         <Script src="https://www.googletagmanager.com/gtag/js?id=G-08YXPLNCCC"  async onLoad={handlePageLoad}/>
+
+
 
 
 
