@@ -28,10 +28,19 @@ export default function UI () {
 
 
 return (<Layout>
-        <BackToTopButton />
-        <Head><title>
+        <Head>
+
+
+
+
+                <title>
 User Interface Design | Modern & Accessible Web Design | Tailored Digital Experiences | High Wycombe, Buckinghamshire (Bucks)
                 </title></Head>
+
+
+        <BackToTopButton />
+
+
 <h1>UI Design</h1>
 
 <main className="px-14 pb-14 flex flex-col items-center">

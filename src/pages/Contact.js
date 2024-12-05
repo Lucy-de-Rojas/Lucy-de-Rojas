@@ -1,9 +1,12 @@
 import Layout from "@/Components/Layout"
 import Head from "next/head";
+import Script from "next/script";
 
 
 
 export default function Contact () {
+
+
 
         let numbers = [0,1,2,3,4,5,6,7,8,9];
         let letters = ["gm" ,"lucy",  "ail","de", "c","rojas", "om"];
@@ -39,7 +42,13 @@ export default function Contact () {
 
 return (<Layout>
 
-<Head><title>
+<Head>
+
+
+
+
+
+<title>
 Contact Lucy de Rojas | Multimedia Designer Available for Projects
 
         </title></Head>

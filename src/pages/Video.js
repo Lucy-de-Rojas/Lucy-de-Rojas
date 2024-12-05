@@ -22,13 +22,19 @@ export default function Video () {
 
 
 return (<Layout>
+<Head>
+
+
+
+
+
+
+
+
+        <title>
+Creative Video Editing | High-Quality Motion Content Creation | High Wycombe | Buckinghamshire | Bucks</title></Head>
+
         <BackToTopButton />
-<Head><title>
-Creative Video Editing | High-Quality Motion Content Creation | High Wycombe | Buckinghamshire | Bucks
-
-
-        </title></Head>
-
 
 <h1>Video Editing & <br />Motion Graphics</h1>
 

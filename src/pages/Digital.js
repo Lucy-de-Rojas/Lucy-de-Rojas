@@ -21,12 +21,20 @@ export default function Digital () {
 
 return (<Layout>
   <BackToTopButton />
-  <Head><title>
-  Creative Digital Designs | Custom Solutions for Web & Social Media | High Wycombe | Buckinghamshire | Bucks
+  <Head>
 
 
 
-    </title></Head>
+
+
+
+
+
+
+
+
+    <title>
+  Creative Digital Designs | Custom Solutions for Web & Social Media | High Wycombe | Buckinghamshire | Bucks</title></Head>
 <h1>Digital Design</h1>
 <main className="p-14">
 

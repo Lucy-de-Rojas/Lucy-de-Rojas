@@ -1,17 +1,17 @@
 seo url, h1, title ✅
 seo - google and bing ✅
+responsiveness on desktop side ✅
+digital design page - change green looking buttons ✅
 
 
-
-
-responsiveness on desktop side
-
-google analytics
 
 
 alt tags
 
-
-digital design page - change green looking buttons
+google analytics
 
 look into changing typefaces
+
+links to fimga, linkedIn, github?
+
+homepage - add some graphics or reel?

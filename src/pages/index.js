@@ -1,11 +1,25 @@
 import Layout from "@/Components/Layout";
 import Head from "next/head";
-
+import Script from "next/script";
 
 
 
 
 export default function Home() {
+
+  console.clear();
+
+  console.log("home page");
+
+  function handlePageLoad() {
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-08YXPLNCCC');
+
+  }
 
 
 
@@ -14,6 +28,13 @@ export default function Home() {
 
   return (<Layout>
     <Head>
+
+
+
+
+
+
+
       <title>Creative Multimedia Designer | UI, Video Editing, Print & Digital Design </title>
     </Head>
 

@@ -24,10 +24,19 @@ export default function Print () {
 
 
 return (<Layout>
-        <BackToTopButton />
         <Head>
+
+
+
+
+
+
+
+
+
                 <title>Expert Print Design | Creative Solutions for Your Business Needs | High Wycombe, Buckinghamshire (Bucks)</title>
         </Head>
+        <BackToTopButton />
 
 <h1>Print Design</h1>
 <main className="px-14 flex flex-col items-center">
