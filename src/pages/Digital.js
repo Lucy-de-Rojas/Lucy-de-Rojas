@@ -64,6 +64,7 @@ height={500}
 alt="image of animated scann appeal logo"
 layout="responsive"
 className={imageStyling}
+unoptimized
  />
 
 
