@@ -17,8 +17,22 @@ export default function Layout({children}) {
 
         return (<html className="flex flex-col" id="topOfPage">
                 <GoogleTagManager gtmId="G-08YXPLNCCC"/>
+                <GoogleTagManager gtmId="GTM-TKS2XTSF" />
+
+
+
+
                 <Head>
                         <link rel="icon" href="/Media/IconsAndLogos/newLogoNOtail.ico" />
+
+
+
+
+
+
+
+
+
                 </Head>
 
                         <TopHeader />
