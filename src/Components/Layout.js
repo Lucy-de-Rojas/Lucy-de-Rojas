@@ -8,8 +8,8 @@ import {GoogleAnalytics, GoogleTagManager} from "@next/third-parties/google"
 export default function Layout({children}) {
 
 
-        // let GTM_ID = "G-08YXPLNCCC";
-        let GTM_ID = "GTM-TKS2XTSF";
+        let GTM_ID = "G-08YXPLNCCC";
+        // let GTM_ID = "GTM-TKS2XTSF";
 
 
 
