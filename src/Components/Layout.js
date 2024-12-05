@@ -15,11 +15,9 @@ export default function Layout({children}) {
 
 
 
-        return (<html className="flex flex-col" id="topOfPage">
+        return (<div className="flex flex-col" id="topOfPage">
                 <GoogleTagManager gtmId="G-08YXPLNCCC"/>
                 <GoogleTagManager gtmId="GTM-TKS2XTSF" />
-
-
 
 
                 <Head>
@@ -48,4 +46,4 @@ export default function Layout({children}) {
 
 
 
-                </html>);}
+                </div>);}
