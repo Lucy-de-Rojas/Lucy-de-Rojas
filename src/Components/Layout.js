@@ -8,6 +8,17 @@ import {GoogleAnalytics} from "@next/third-parties/google"
 export default function Layout({children}) {
 
 
+        async function handlePageLoad() {
+
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+
+                gtag('config', 'G-08YXPLNCCC');
+
+        }
+
+
 
 
 
@@ -16,9 +27,8 @@ export default function Layout({children}) {
         return (<div className="flex flex-col" id="topOfPage">
                 <Head>
 
-                        <GoogleAnalytics gaId="G-08YXPLNCCC"/>
 
-
+                        <Script src="https://www.googletagmanager.com/gtag/js?id=G-08YXPLNCCC"  async onLoad={handlePageLoad}/>
 
 
 
