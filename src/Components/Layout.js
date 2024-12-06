@@ -8,8 +8,8 @@ import {GoogleAnalytics, GoogleTagManager} from "@next/third-parties/google"
 export default function Layout({children}) {
 
 
-        let GTM_ID = "G-08YXPLNCCC";
-        // let GTM_ID = "GTM-TKS2XTSF";
+        // let GTM_ID = "G-08YXPLNCCC";
+        let GTM_ID = "GTM-TKS2XTSF";
 
 
 
@@ -24,7 +24,6 @@ export default function Layout({children}) {
 
 
                 <Head>
-                        <GoogleTagManager gtmId={GTM_ID} />
 
                         <link rel="icon" href="/Media/IconsAndLogos/newLogoNOtail.ico" />
 
@@ -33,7 +32,6 @@ export default function Layout({children}) {
 
                 </Head>
 
-                        {/* <GoogleAnalytics gaId={GTM_ID}/> */}
                 <Script id="gtm" strategy="afterInteractive">
       {`
         (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
