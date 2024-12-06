@@ -11,19 +11,16 @@ export default function Layout({children}) {
 
         return (<div className="flex flex-col" id="topOfPage">
 
-<Script async src="https://www.googletagmanager.com/gtag/js?id=G-DTGHE5XWP7" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DTGHE5XWP7"></script>
 
-
-
-
-<Script>{
+<script>{
         `window.dataLayer = window.dataLayer || [];
         function gtag(){
         dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', 'G-DTGHE5XWP7');`
   }
-</Script>
+</script>
 
 
 
