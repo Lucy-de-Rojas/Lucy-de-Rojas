@@ -24,7 +24,7 @@ export default function Layout({children}) {
         function gtag(){
         dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', ${id});`
+        gtag('config', 'G-DTGHE5XWP7');`
   }
 </script>
 
