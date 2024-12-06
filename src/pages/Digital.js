@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
+import Script from "next/script";
 
 import Layout from "@/Components/Layout";
 import BackToTopButton from "@/Components/backToTopButton";
@@ -13,7 +14,7 @@ export default function Digital () {
 
 
         let imageStyling = "my-7 flex-1 drop-shadow-2xl rounded-md";
-        let GTM_ID = "G-08YXPLNCCC";
+        // let GTM_ID = "G-08YXPLNCCC";
 
 
 
@@ -28,12 +29,12 @@ return (<Layout>
 
 
 
-  <GoogleTagManager gtmId={GTM_ID} />
+  {/* <GoogleTagManager gtmId={GTM_ID} /> */}
     <title>
   Creative Digital Designs | Custom Solutions for Web & Social Media | High Wycombe | Buckinghamshire | Bucks</title></Head>
 
 
-
+{/*
 
   <Script id="gtm" strategy="afterInteractive">
       {`
@@ -43,7 +44,7 @@ return (<Layout>
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','${GTM_ID}');
       `}
-    </Script>
+    </Script> */}
 <h1>Digital Design</h1>
 <main className="p-14">
 
