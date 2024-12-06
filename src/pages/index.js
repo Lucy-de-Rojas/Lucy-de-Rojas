@@ -15,16 +15,7 @@ export default function Home() {
 
   return (<Layout>
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DTGHE5XWP7"></script>
 
-<script>{
-        `window.dataLayer = window.dataLayer || [];
-        function gtag(){
-        dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-DTGHE5XWP7');`
-  }
-</script>
     <Head>
 
 
