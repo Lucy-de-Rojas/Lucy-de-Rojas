@@ -18,6 +18,8 @@ export default function Layout({children}) {
 
 
         return (<div className="flex flex-col" id="topOfPage">
+                <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKS2XTSF"
+className="hidden invisible w-0 h-0"></iframe></noscript>
 
 
 
