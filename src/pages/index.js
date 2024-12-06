@@ -7,19 +7,6 @@ import Script from "next/script";
 
 export default function Home() {
 
-  console.clear();
-
-  console.log("home page");
-
-  function handlePageLoad() {
-
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-08YXPLNCCC');
-
-  }
 
 
 
@@ -27,6 +14,17 @@ export default function Home() {
 
 
   return (<Layout>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DTGHE5XWP7"></script>
+
+<script>{
+        `window.dataLayer = window.dataLayer || [];
+        function gtag(){
+        dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-DTGHE5XWP7');`
+  }
+</script>
     <Head>
 
 

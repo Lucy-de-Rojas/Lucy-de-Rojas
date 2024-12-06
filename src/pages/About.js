@@ -22,12 +22,18 @@ export default function About () {
 
 
 return (<Layout>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DTGHE5XWP7"></script>
+
+<script>{
+        `window.dataLayer = window.dataLayer || [];
+        function gtag(){
+        dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-DTGHE5XWP7');`
+  }
+</script>
         <Head>
-
-
-
-
-
 
                 <title>Creative Designer with Expertise in UI, Digital, Video & Print</title></Head>
 <main className="px-14 md:px-[20%] xl:px-[35%]">
