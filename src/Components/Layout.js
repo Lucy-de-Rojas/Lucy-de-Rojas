@@ -2,7 +2,7 @@ import Head from "next/head";
 import Script from "next/script";
 import TopHeader from "./TopHeader";
 
-// import {GoogleAnalytics, GoogleTagManager} from "@next/third-parties/google"
+import {GoogleAnalytics, GoogleTagManager} from "@next/third-parties/google"
 
 
 export default function Layout({children}) {
@@ -11,6 +11,10 @@ export default function Layout({children}) {
 
         return (<div className="flex flex-col" id="topOfPage">
 
+
+                <GoogleTagManager gtmId="G-DTGHE5XWP7" />
+                <GoogleAnalytics gaId="G-DTGHE5XWP7" />
+{/*
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DTGHE5XWP7"></script>
 
 <script>{
@@ -20,7 +24,7 @@ export default function Layout({children}) {
         gtag('js', new Date());
         gtag('config', 'G-DTGHE5XWP7');`
   }
-</script>
+</script> */}
 
 
 
