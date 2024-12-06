@@ -7,14 +7,16 @@ import {GoogleAnalytics, GoogleTagManager} from "@next/third-parties/google"
 
 export default function Layout({children}) {
 
+        let id = "G-DTGHE5XWP7";
+
 
 
         return (<div className="flex flex-col" id="topOfPage">
 
 
-                <GoogleTagManager gtmId="G-DTGHE5XWP7" />
-                <GoogleAnalytics gaId="G-DTGHE5XWP7" />
-{/*
+                <GoogleTagManager gtmId={id} />
+                <GoogleAnalytics gaId={id} />
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DTGHE5XWP7"></script>
 
 <script>{
@@ -22,9 +24,9 @@ export default function Layout({children}) {
         function gtag(){
         dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-DTGHE5XWP7');`
+        gtag('config', ${id});`
   }
-</script> */}
+</script>
 
 
 
