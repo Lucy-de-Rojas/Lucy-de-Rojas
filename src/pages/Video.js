@@ -71,7 +71,7 @@ Dive in and explore how I transform ideas into motion!
  </p>
 
 
-<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/VideoEditAndMotionGraphicsREEL.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
+<video src="/Media/Images/Portfolio/Video/VidoesWithFirstFrame/VideoEditAndMotionGraphicsREELStephie.mp4" width="100%" height="auto" type="video/mp4"controls className={videoItem}></video>
 </div>
 
 
