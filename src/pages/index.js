@@ -43,7 +43,7 @@ useEffect(() => {
 
 
 
-    <p className="w-full md:w-3/4 xl:w-1/3">My name is Lucy de Rojas and I’m UI, UX, digital & graphic designer.
+    <p className="w-full md:w-3/4 xl:w-1/3">My name is Lucy de Rojas and I’m digital / graphic designer, video editing aficionado and techie tinkeress.
 
 
 
