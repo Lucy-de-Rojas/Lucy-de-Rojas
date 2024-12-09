@@ -3,13 +3,22 @@ import Link from "next/link";
 import Image from "next/image";
 import Script from "next/script";
 
+import { useEffect } from "react";
+import { googleAnalyticsLucy } from "@/utils/googleAnalyticsLucy";
+
 import Layout from "@/Components/Layout";
 import BackToTopButton from "@/Components/backToTopButton";
-import {GoogleAnalytics, GoogleTagManager} from "@next/third-parties/google"
 
 
 
 export default function Digital () {
+
+
+
+// running google analytics:
+useEffect(() => {
+  googleAnalyticsLucy();
+},[]);
 
 
 
@@ -32,6 +41,7 @@ return (<Layout>
 
     <title>
   Creative Digital Designs | Custom Solutions for Web & Social Media | High Wycombe | Buckinghamshire | Bucks</title></Head>
+  <Script src="https://www.googletagmanager.com/gtag/js?id=G-FYW3VGK0DF" />
 
 
 <h1>Digital Design</h1>

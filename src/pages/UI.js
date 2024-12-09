@@ -10,7 +10,19 @@ import BackToTopButton from "@/Components/backToTopButton";
 
 
 
+import { useEffect } from "react";
+import { googleAnalyticsLucy } from "@/utils/googleAnalyticsLucy";
+
+
+
 export default function UI () {
+
+
+
+// running google analytics:
+useEffect(() => {
+        googleAnalyticsLucy();
+},[]);
 
 
         let imageMarginY = "my-14 drop-shadow-2xl rounded-xl";
@@ -36,6 +48,7 @@ return (<Layout>
                 <title>
 User Interface Design | Modern & Accessible Web Design | Tailored Digital Experiences | High Wycombe, Buckinghamshire (Bucks)
                 </title></Head>
+                <Script src="https://www.googletagmanager.com/gtag/js?id=G-FYW3VGK0DF" />
 
 
         <BackToTopButton />

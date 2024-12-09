@@ -3,9 +3,18 @@ import Head from "next/head";
 import Script from "next/script";
 
 
+import { useEffect } from "react";
+import { googleAnalyticsLucy } from "@/utils/googleAnalyticsLucy";
 
 
 export default function Home() {
+
+
+
+// running google analytics:
+useEffect(() => {
+  googleAnalyticsLucy();
+},[]);
 
 
 
@@ -26,6 +35,7 @@ export default function Home() {
 
       <title>Creative Multimedia Designer | UI, Video Editing, Print & Digital Design </title>
     </Head>
+    <Script src="https://www.googletagmanager.com/gtag/js?id=G-FYW3VGK0DF" />
 
 
 <main className= "px-14 flex flex-col items-center">

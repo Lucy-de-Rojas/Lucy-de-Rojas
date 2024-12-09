@@ -8,19 +8,6 @@ import {GoogleAnalytics, GoogleTagManager} from "@next/third-parties/google"
 
 export default function Layout({children}) {
 
-        let id = "G-FYW3VGK0DF";
-        useEffect(() => {
-                window.dataLayer = window.dataLayer || [];
-                function gtag() {
-                        dataLayer.push(arguments);
-                }
-
-                gtag('js', new Date());
-                gtag('config',id);
-
-
-        }, []);
-
 
 
         return (<div className="flex flex-col" id="topOfPage">

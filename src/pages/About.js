@@ -1,9 +1,21 @@
 import Layout from "@/Components/Layout"
 import Image from "next/image";
 import Head from "next/head";
+import { useEffect } from "react";
+import { googleAnalyticsLucy } from "@/utils/googleAnalyticsLucy";
+
+
+
+
 
 
 export default function About () {
+
+
+// running google analytics:
+        useEffect(() => {
+                googleAnalyticsLucy();
+        },[]);
 
         let numbers = [0,1,2,3,4,5,6,7,8,9];
         let letters = ["gm" ,"lucy",  "ail","de", "c","rojas", "om"];
@@ -26,6 +38,9 @@ return (<Layout>
         <Head>
 
                 <title>Creative Designer with Expertise in UI, Digital, Video & Print</title></Head>
+
+                <Script src="https://www.googletagmanager.com/gtag/js?id=G-FYW3VGK0DF" />
+
 <main className="px-14 md:px-[20%] xl:px-[35%]">
 
 

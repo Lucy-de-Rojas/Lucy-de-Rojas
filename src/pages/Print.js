@@ -1,14 +1,24 @@
 import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
+import Script from "next/script";
 
 import Layout from "@/Components/Layout";
 import BackToTopButton from "@/Components/backToTopButton";
 
 
+import { useEffect } from "react";
+import { googleAnalyticsLucy } from "@/utils/googleAnalyticsLucy";
 
 
 export default function Print () {
+
+
+
+// running google analytics:
+useEffect(() => {
+        googleAnalyticsLucy();
+},[]);
 
 
         let imagesALLWrapper = "w-full flex flex-col justify-center my-5 py-5 items-center";
@@ -38,6 +48,8 @@ return (<Layout>
 
                 <title>Expert Print Design | Creative Solutions for Your Business Needs | High Wycombe, Buckinghamshire (Bucks)</title>
         </Head>
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-FYW3VGK0DF" />
+
         <BackToTopButton />
 
 <h1>Print Design</h1>

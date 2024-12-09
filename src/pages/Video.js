@@ -7,9 +7,21 @@ import BackToTopButton from "@/Components/backToTopButton";
 
 
 
+import { useEffect } from "react";
+import { googleAnalyticsLucy } from "@/utils/googleAnalyticsLucy";
+
+
+
 
 
 export default function Video () {
+
+
+
+// running google analytics:
+useEffect(() => {
+        googleAnalyticsLucy();
+},[]);
 
 
         let videoItemWrapper = "flex flex-col items-center xl:flex-row p-5 border-2 border-red-200 rounded-2xl border-dashed text-center xl:text-left justify-between w-full lg:w-3/4";
@@ -34,6 +46,7 @@ return (<Layout>
 
         <title>
 Creative Video Editing | High-Quality Motion Content Creation | High Wycombe | Buckinghamshire | Bucks</title></Head>
+<Script src="https://www.googletagmanager.com/gtag/js?id=G-FYW3VGK0DF" />
 
         <BackToTopButton />
 

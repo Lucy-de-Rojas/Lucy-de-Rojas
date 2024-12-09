@@ -1,10 +1,20 @@
 import Layout from "@/Components/Layout"
 import Head from "next/head";
 import Script from "next/script";
+import { useEffect } from "react";
+import { googleAnalyticsLucy } from "@/utils/googleAnalyticsLucy";
 
 
 
 export default function Contact () {
+
+
+
+
+// running google analytics:
+useEffect(() => {
+        googleAnalyticsLucy();
+},[]);
 
 
 
@@ -53,6 +63,7 @@ return (<Layout>
 Contact Lucy de Rojas | Multimedia Designer Available for Projects
 
         </title></Head>
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-FYW3VGK0DF" />
 
 
 
