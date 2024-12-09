@@ -3,6 +3,7 @@ import Image from "next/image";
 import Head from "next/head";
 import { useEffect } from "react";
 import { googleAnalyticsLucy } from "@/utils/googleAnalyticsLucy";
+import Script from "next/script";
 
 
 

@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
+import Script from "next/script";
 
 import OneItem from "@/Components/oneItem";
 import ThreeItems from "@/Components/threeItems";
