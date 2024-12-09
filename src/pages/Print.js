@@ -13,7 +13,7 @@ export default function Print () {
 
         let imagesALLWrapper = "w-full flex flex-col justify-center my-5 py-5 items-center";
 
-        let imagesWrapper = "w-full md:w-1/2 flex flex-col xl:w-1/2 xl:flex-row  bg-white p-5 rounded-2xl gap-5 drop-shadow-2xl my-8 items-center text-center border-2 border-red-200 rounded-2xl border-dashed ";
+        let imagesWrapper = "w-full md:w-1/2 flex flex-col xl:w-1/2 xl:flex-row bg-white p-5 rounded-2xl gap-5 drop-shadow-2xl my-8 items-center text-center border-2 border-red-200 rounded-2xl border-dashed justify-center";
 
 
         let buttonStyling = "xl:absolute bottom-3 text-center bg-red-400 right-0 xl:w-1/3 p-5 rounded-full mx-5 text-white font-bold";
@@ -467,6 +467,66 @@ layout="responsive"
 " target="_blank">See full publication</Link>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+{/* packaging design: */}
+<div className={imagesWrapper}>
+<div>
+
+<b>Packaging Design</b>
+<p>CSSC (2017)</p>
+
+<Image
+src="/Media/Images/Portfolio/Print Design/PackagingDesign/PackagingDesign - CSSC.jpg"
+width={500}
+height={500}
+alt=""
+layout="responsive"
+className="my-5 rounded-2xl"
+/>
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+{/* 3D print design: */}
+<div className={imagesWrapper}>
+<div>
+
+<b>3D Print Design</b>
+<p>CSSC (2016)</p>
+
+<Image
+src="/Media/Images/Portfolio/Print Design/3D Print Design/3D-printed-volunteer-award-badge-CSSC-back-and-front.jpg"
+width={500}
+height={500}
+alt=""
+layout="responsive"
+className="my-5 rounded-2xl"
+/>
+
+</div>
+</div>
+
 
 
 

@@ -391,7 +391,7 @@ Naphill Tennis Club - Rusty Rackets Invite<br /></b>
 Work included:<br />
 </b>
 Video editing, motion graphics, visual effects, music sourcing.
-<b>
+<b><br />
 Usage:<br />
 </b>
 Website, social media.</p>
