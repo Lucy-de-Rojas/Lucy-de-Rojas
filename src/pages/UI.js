@@ -142,7 +142,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                         src="/Media/Images/Portfolio/UI Design/Water-FULLscreen3.jpg"
                         width={500}
                         height={500}
-                        alt=""
+                        alt="image of prototype for a website"
                         layout="responsive"
                         className={imageMarginY}
                         />
@@ -155,7 +155,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                        src="/Media/Images/Portfolio/UI Design/Water-FULLscreen2.jpg"
                        width={500}
                        height={500}
-                       alt=""
+                       alt="image of prototype for a website"
                        layout="responsive"
                        className={imageMarginY}
                        />
@@ -168,7 +168,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                      src="/Media/Images/Portfolio/UI Design/Water-desktop-and-mobile-homepage.jpg"
                      width={500}
                      height={500}
-                     alt=""
+                     alt="image of prototype for a website"
                      layout="responsive"
                      className={imageMarginY}
                       /></div>
@@ -178,7 +178,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                           src="/Media/Images/Portfolio/UI Design/Water-Mobile-screens.jpg"
                           width={500}
                           height={500}
-                          alt=""
+                          alt="image of prototype for a website"
                           layout="responsive"
                           className={imageMarginY}
                           />
@@ -192,7 +192,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                          src="/Media/Images/Portfolio/UI Design/Water-FULLscreen4.jpg"
                          width={500}
                          height={500}
-                         alt=""
+                         alt="image of prototype for a website"
                          layout="responsive"
                          className={imageMarginY}
                           /></div>
@@ -207,7 +207,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                       src="/Media/Images/Portfolio/UI Design/Water-FULLscreen1.jpg"
                       width={500}
                       height={500}
-                      alt=""
+                      alt="image of prototype for a website"
                       layout="responsive"
                       className={imageMarginY}
                       />
@@ -220,7 +220,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                    src="/Media/Images/Portfolio/UI Design/Laceys-Desktop-home-page.jpg"
                    width={500}
                    height={500}
-                   alt=""
+                   alt="image of prototype for a website"
                    layout="responsive"
                    className={imageMarginY}
                    />
@@ -237,7 +237,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                            src="/Media/Images/Portfolio/UI Design/Laceys-Mobile-Screens.jpg"
                            width={500}
                            height={500}
-                           alt=""
+                           alt="image of prototype for a website"
                            layout="responsive"
                            className={imageMarginY}
                            />
@@ -253,7 +253,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                      src="/Media/Images/Portfolio/UI Design/Laceys-Entire-Screen.jpg"
                      width={500}
                      height={500}
-                     alt=""
+                     alt="image of prototype for a website"
                      layout="responsive"
                      className={imageMarginY}
                      />
@@ -273,7 +273,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
               src="/Media/Images/Portfolio/UI Design/ChanelleScreenShot.jpg"
               width={500}
               height={500}
-              alt=""
+              alt="image of prototype for a website"
               layout="responsive"
               className={imageMarginY}
               />
@@ -295,7 +295,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                  src="/Media/Images/Portfolio/UI Design/Naphill-Desktop-Home-page.jpg"
                  width={500}
                  height={500}
-                 alt=""
+                 alt="image of prototype for a website"
                  layout="responsive"
                  className={imageMarginY}
                  />
@@ -309,7 +309,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                             src="/Media/Images/Portfolio/UI Design/Naphill Tennis Club Mobiel Screens.jpg"
                             width={500}
                             height={500}
-                            alt=""
+                            alt="image of prototype for a website"
                             layout="responsive"
                             className={imageMarginY}
                             />
@@ -323,7 +323,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                 src="/Media/Images/Portfolio/UI Design/Naphill-Desktop-contact-us.jpg"
                 width={500}
                 height={500}
-                alt=""
+                alt="image of prototype for a website"
                 layout="responsive"
                 className={imageMarginY}
                  /></div>
@@ -340,7 +340,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                     src="/Media/Images/Portfolio/UI Design/Naphill-Tennis-Club.jpg"
                     width={500}
                     height={500}
-                    alt=""
+                    alt="image of prototype for a website"
                     layout="responsive"
                     className={imageMarginY}
                     />
@@ -355,7 +355,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                 src="/Media/Images/Portfolio/UI Design/CSSC2.jpg"
                 width={500}
                 height={500}
-                alt=""
+                alt="image of prototype for a website"
                 layout="responsive"
                 className={imageMarginY}
                 />
@@ -374,7 +374,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                src="/Media/Images/Portfolio/UI Design/CSSC1.jpg"
                width={500}
                height={500}
-               alt=""
+               alt="image of prototype for a website"
                layout="responsive"
                className={imageMarginY}
                />
@@ -391,7 +391,7 @@ https://www.figma.com/proto/MmmDVxYW4T9L5TNRozYH62/CSSC-Centenary?node-id=0-1&no
                  src="/Media/Images/Portfolio/UI Design/CSSC3.jpg"
                  width={500}
                  height={500}
-                 alt=""
+                 alt="image of prototype for a website"
                  layout="responsive"
                  className={imageMarginY}
                  />

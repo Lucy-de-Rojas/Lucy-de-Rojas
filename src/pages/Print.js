@@ -113,7 +113,7 @@ Thank you for taking the time to explore my work—let’s create something extr
 src="/Media/Images/Portfolio/Print Design/Harveys/NU-Solutions-Sustainable-Solutions.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of sustainable leaflet design"
 layout="responsive"
 />
 
@@ -124,7 +124,7 @@ layout="responsive"
 src="/Media/Images/Portfolio/Print Design/Harveys/Grains.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of slide of power point presentation for sustainable company"
 layout="responsive"
 />
 
@@ -153,7 +153,7 @@ layout="responsive"
 src="/Media/Images/Portfolio/Print Design/Stage Design/SimonAndAndy.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of CSSC management mocking their employees"
 layout="responsive"
 className="my-5 rounded-2xl"
 />
@@ -164,7 +164,7 @@ className="my-5 rounded-2xl"
 src="/Media/Images/Portfolio/Print Design/Stage Design/overview.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of stage design at NEC Birmingham"
 layout="responsive"
 className="my-5 rounded-2xl"
 
@@ -189,7 +189,7 @@ className="my-5 rounded-2xl"
 src="/Media/Images/Portfolio/Print Design/Leisrure_Scenes/SPREADS/LeisureSceneAutumn2019/Lesiure_Scene_Autumn_Winter_2019-1.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of magazine front cover"
 layout="responsive"
 />
 </div>
@@ -199,7 +199,7 @@ layout="responsive"
 src="/Media/Images/Portfolio/Print Design/Leisrure_Scenes/SPREADS/LeisureSceneAutumn2019/LesiureSceneAutumn2019---5.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of inside spread of a magazine"
 layout="responsive"
 />
 </div>
@@ -219,7 +219,7 @@ layout="responsive"
         src="/Media/Images/Portfolio/Print Design/Leisrure_Scenes/SPREADS/LeisureSceneSpring2016/Lesiure_Scene_Spring_Summer_2016.jpg"
         width={500}
         height={500}
-        alt=""
+        alt="image of front cover of magazine"
         layout="responsive"
         />
         </div>
@@ -229,7 +229,7 @@ layout="responsive"
          src="/Media/Images/Portfolio/Print Design/Leisrure_Scenes/SPREADS/LeisureSceneSpring2016/Lesiure_Scene_Spring_Summer_20168.jpg"
          width={500}
          height={500}
-         alt=""
+         alt="image of inside sprad of magazine"
          layout="responsive"
          />
          </div><Link className={buttonStyling} href="https://docs.google.com/presentation/d/e/2PACX-1vTgkQqHXVBNAovFdlXVujPaEcyTr1MP1kQ_nUxBRwoa3Oom-1YPtTOXmcbIanA5G7AKpNpGZf59RAOW/pub?start=false&loop=false&delayms=3000
@@ -250,7 +250,7 @@ layout="responsive"
         src="/Media/Images/Portfolio/Print Design/Leisrure_Scenes/SPREADS/LeisureSceneAutumn2017/Lesiure_Scene_Spring_Summer_2017.jpg"
         width={500}
         height={500}
-        alt=""
+        alt="image of front cover of magazine"
         layout="responsive"
         />
         </div>
@@ -261,7 +261,7 @@ layout="responsive"
          src="/Media/Images/Portfolio/Print Design/Leisrure_Scenes/SPREADS/LeisureSceneAutumn2017/LesiureSceneSpring20175.jpg"
          width={500}
          height={500}
-         alt=""
+         alt="image of inside sprad of magazine"
          layout="responsive"
          />
          </div><Link className={buttonStyling} href="https://docs.google.com/presentation/d/e/2PACX-1vT2AwswOIeZ-nHLeRtvhMFtOD7h0zBkpL0yD3I3BwLpmRlfEOztyyQloY8m_NCbeT_SHXA9_tJzpLrN/pub?start=false&loop=false&delayms=3000
@@ -281,7 +281,7 @@ layout="responsive"
 src="/Media/Images/Portfolio/Print Design/Leisrure_Scenes/SPREADS/LeisureSceneAutumn2017/Lesiure_Scene_Autumn_Winter_2018.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of front cover of magazine"
 layout="responsive"
 />
 </div>
@@ -293,7 +293,7 @@ layout="responsive"
 src="/Media/Images/Portfolio/Print Design/Leisrure_Scenes/SPREADS/LeisureSceneAutumn2017/LeisureSceneAutumn2017--6.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of inside sprad of magazine"
 layout="responsive"
 />
 </div>
@@ -317,7 +317,7 @@ layout="responsive"
 src="/Media/Images/Portfolio/Print Design/Booklets/BenefitsOfMembership/CSSCBenefitsofMembership---.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of inside sprad of magazine"
 layout="responsive"
 />
 </div>
@@ -329,7 +329,7 @@ layout="responsive"
 src="/Media/Images/Portfolio/Print Design/Booklets/BenefitsOfMembership/CSSCBenefitsofMembership---16.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of front cover of magazine"
 layout="responsive"
 />
 </div>
@@ -354,7 +354,7 @@ layout="responsive"
 src="/Media/Images/Portfolio/Print Design/Booklets/WhatsOnInLondon2017/WhatsOnInLondon2017-----.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of inside sprad of magazine"
 layout="responsive"
 />
 </div>
@@ -365,7 +365,7 @@ layout="responsive"
 src="/Media/Images/Portfolio/Print Design/Booklets/WhatsOnInLondon2017/WhatsOnInLondon2017-----14.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of front cover of magazine"
 layout="responsive"
 />
 </div>
@@ -385,7 +385,7 @@ layout="responsive"
 src="/Media/Images/Portfolio/Print Design/Booklets/BenefitsOfMembership2017/CSSCBenefitsofMembership2017---.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of front cover of magazine"
 layout="responsive"
 />
 </div>
@@ -397,7 +397,7 @@ layout="responsive"
 src="/Media/Images/Portfolio/Print Design/Booklets/BenefitsOfMembership2017/CSSCBenefitsofMembership2017---5.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of inside sprad of magazine"
 layout="responsive"
 />
 </div>
@@ -421,7 +421,7 @@ layout="responsive"
 src="/Media/Images/Portfolio/Print Design/Leisrure_Scenes/SPREADS/LeisureSceneSpring2018/Lesiure_Scene_Spring_Summer_2018.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of inside sprad of magazine"
 layout="responsive"
 />
 </div>
@@ -432,7 +432,7 @@ layout="responsive"
 src="/Media/Images/Portfolio/Print Design/Leisrure_Scenes/SPREADS/LeisureSceneSpring2018/LesiureSceneSpring2018---9.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of front cover of magazine"
 layout="responsive"
 />
 </div>
@@ -453,7 +453,7 @@ layout="responsive"
 src="/Media/Images/Portfolio/Print Design/Booklets/WhatsOnInLindon2016/WhatsOnInLondon2016---.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of front cover of magazine"
 layout="responsive"
 />
 </div>
@@ -470,7 +470,7 @@ layout="responsive"
 src="/Media/Images/Portfolio/Print Design/Booklets/WhatsOnInLindon2016/WhatsOnInLondon2016---2.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of front cover of magazine"
 layout="responsive"
 />
 </div>
@@ -500,7 +500,7 @@ layout="responsive"
 src="/Media/Images/Portfolio/Print Design/PackagingDesign/PackagingDesign - CSSC.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of packaging design"
 layout="responsive"
 className="my-5 rounded-2xl"
 />
@@ -531,7 +531,7 @@ className="my-5 rounded-2xl"
 src="/Media/Images/Portfolio/Print Design/3D Print Design/3D-printed-volunteer-award-badge-CSSC-back-and-front.jpg"
 width={500}
 height={500}
-alt=""
+alt="image of 3D design badge"
 layout="responsive"
 className="my-5 rounded-2xl"
 />
