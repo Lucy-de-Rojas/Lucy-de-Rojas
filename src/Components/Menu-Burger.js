@@ -122,7 +122,7 @@ export default function MenuBurger () {
 
 
 
-return (<button onClick={handleClick} >
+return (<button onClick={handleClick} aria-label="menu button" >
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg"  x="0px" y="0px" width="135px" height="135px" viewBox="0 0 100 100" enableBackground="new 0 0 100 100">
 

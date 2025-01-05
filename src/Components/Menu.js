@@ -21,14 +21,16 @@ return (<div className="flex flex-col items-center w-full bg-white text-slate-80
 
 
 <Link href="/" className={pinkButton}>Home </Link>
-
 <Link href="/About" className={pinkButton}>About </Link>
+
+<Link href="/Web" className={greenButton}>Web </Link>
+<Link href="/UI" className={greenButton}>  UI / UX Design </Link>
+
 
 <Link href="/Digital" className={greenButton}>  Digital Design  </Link>
 <Link href="/Video" className={greenButton}>  Video Editing & Motion Graphics </Link>
 
 
-<Link href="/UI" className={greenButton}>  UI / UX Design </Link>
 
 <Link href="/Print" className={greenButton}>  Print Design</Link>
 
