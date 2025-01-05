@@ -24,10 +24,13 @@ export default function Web () {
 
         let styleIframeTools = "";
 
-        let styleHR = "w-full h-1 bg-slate-400 mt-5 mb-2  rounded-full";
+        let styleHR = "w-full h-1 bg-slate-100 mt-2 mb-2 rounded-full";
 
 
-        let styleLink = "bg-slate-400 w-full rounded-full py-2 my-2 shadow-2xl";
+        let styleLink = "bg-slate-500 text-white w-full rounded-full py-2 my-2 shadow-2xl";
+
+
+        // end of styling
 
 
 
