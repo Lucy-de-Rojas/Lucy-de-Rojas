@@ -1,5 +1,8 @@
-import Layout from "@/Components/Layout"
 import Head from "next/head";
+import Link from "next/link";
+
+// my components:
+import Layout from "@/Components/Layout"
 import BackToTopButton from "@/Components/backToTopButton";
 
 
@@ -10,7 +13,7 @@ export default function Web () {
 
 
         // styling:
-        let styleIframeWrapper = "iframeWrapper w-full flex flex-col items-center h-[900px] bg-red-200 rounded-lg mt-20 shadow-2xl py-10 text-center px-16";
+        let styleIframeWrapper = "iframeWrapper w-full flex flex-col items-center h-[900px] bg-red-200 rounded-lg mt-20 shadow-2xl py-10 text-center px-16 md:w-3/4 xl:w-1/2";
 
         let styleIframe = "w-[100%] h-[600px] shadow-2xl border-2 border-dotted border-blue-500 overflow-hidden rounded-2xl p-10 my-10";
 
@@ -22,6 +25,9 @@ export default function Web () {
         let styleIframeTools = "";
 
         let styleHR = "w-full h-1 bg-slate-400 mt-5 mb-2  rounded-full";
+
+
+        let styleLink = "bg-slate-400 w-full rounded-full py-2 my-2 shadow-2xl";
 
 
 
@@ -56,8 +62,9 @@ I’m a motivated React JS/Next JS Developer with a strong focus on creating cle
 {/* FocusRite: */}
 <div className={styleIframeWrapper}>
 
-<p className={styleIframerTitle}>FocusRite - Wav File Head Parser</p>
+<p className={styleIframerTitle}>FocusRite <br /> Wav File Head Parser</p>
 <p className={styleIframeDescription}>Single page web app analysing wav file header and displaying result in browser. It can use drag&drop or traditional file input.Created as part of selection process.</p>
+<Link href="https://focus-rite.vercel.app/"  target="_blank" className={styleLink}>Visit the site</Link>
 <hr className={styleHR}/>
 <p className={styleIframeTools}>Next JS &#x2022; Tailwind &#x2022; HTML </p>
 
@@ -83,6 +90,9 @@ I’m a motivated React JS/Next JS Developer with a strong focus on creating cle
 
 <p className={styleIframerTitle}>Education First </p>
 <p className={styleIframeDescription}>Single web page filtering and sorting tool to look for a course. It uses topics and learning filtering, with possibility to sort results in alphabetical order, ascending and descending.</p>
+
+<Link href="https://ef-8bgb.vercel.app/"  target="_blank" className={styleLink}>Visit the site</Link>
+
 <hr className={styleHR}/>
 <p className={styleIframeTools}>Next JS &#x2022; Tailwind &#x2022; HTML</p>
 
@@ -105,8 +115,11 @@ I’m a motivated React JS/Next JS Developer with a strong focus on creating cle
 {/* Laceys: */}
 <div className={styleIframeWrapper}>
 
-<p className={styleIframerTitle}>Laceys Farm Shop website update </p>
+<p className={styleIframerTitle}>Laceys Farm Shop </p>
 <p className={styleIframeDescription}>Improved look and feel of local organic farm shop. Emphasis was put on ease of finding the shop products online locally and to keep customers up-to-date with offers and deals.</p>
+
+<Link href="https://laceys.vercel.app/"  target="_blank" className={styleLink}>Visit the site</Link>
+
 <hr className={styleHR}/>
 <p className={styleIframeTools}>Next JS &#x2022; CSS &#x2022; HTML &#x2022; Anime JS</p>
 
@@ -128,6 +141,10 @@ I’m a motivated React JS/Next JS Developer with a strong focus on creating cle
 
 <p className={styleIframerTitle}>Chanelle Beauty</p>
 <p className={styleIframeDescription}>Created a brand new website for a beautician where the priority was to have online presence and being easily found and contacted in local area using google search.</p>
+
+
+<Link href="https://beyond-beauty-by-chanelle.vercel.app/"  target="_blank" className={styleLink}>Visit the site</Link>
+
 <hr className={styleHR}/>
 <p className={styleIframeTools}>Next JS &#x2022; CSS &#x2022; HTML &#x2022; Anime JS</p>
 
@@ -150,6 +167,10 @@ I’m a motivated React JS/Next JS Developer with a strong focus on creating cle
 
 <p className={styleIframerTitle}>Naphill Tennis Club</p>
 <p className={styleIframeDescription}>This task involved updating a website's look and feel into a modern sporty look. Apart from the club information being available online, it was important to be listed in search results for anyone looking to join local, family friendly club. </p>
+
+
+<Link href="https://naphill-tennis-club.vercel.app/"  target="_blank" className={styleLink}>Visit the site</Link>
+
 <hr className={styleHR}/>
 <p className={styleIframeTools}>Next JS &#x2022; CSS &#x2022; HTML &#x2022; Anime JS</p>
 
