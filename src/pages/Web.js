@@ -24,7 +24,7 @@ export default function Web () {
 
         let styleIframeTools = "";
 
-        let styleHR = "w-full h-1 bg-slate-100 mt-2 mb-2 rounded-full";
+        let styleHR = "w-full h-1 bg-slate-100 mt-2 mb-2 rounded-full lg:w-1/3";
 
 
         let styleLink = "bg-slate-500 text-white w-full rounded-full py-2 my-2 shadow-2xl";
