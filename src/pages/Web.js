@@ -15,7 +15,7 @@ export default function Web () {
         // styling:
         let styleIframeWrapper = "iframeWrapper w-full flex flex-col items-center h-[900px] bg-red-200 rounded-lg mt-20 shadow-2xl py-10 text-center px-16 md:w-3/4 xl:w-1/2";
 
-        let styleIframe = "w-[100%] h-[600px] shadow-2xl border-2 border-dotted border-blue-500 overflow-hidden rounded-2xl p-10 my-10";
+        let styleIframe = "w-[100%] h-[600px] shadow-2xl border-2 border-dotted border-blue-500 overflow-hidden rounded-2xl p-10 my-10 bg-white";
 
 
         let styleIframerTitle = "text-3xl font-bold text-slate-500";
@@ -80,6 +80,48 @@ I’m a motivated React JS/Next JS Developer with a strong focus on creating cle
 
         >
 </iframe></div>
+
+
+
+
+
+
+
+
+
+
+
+{/* Giga clear: */}
+<div className={styleIframeWrapper}>
+
+<p className={styleIframerTitle}>Giga Clear </p>
+<p className={styleIframeDescription}>Single web page filtering  tool to look for a posts. With dynamic page display.</p>
+
+<Link href="https://giga-clear.vercel.app/"  target="_blank" className={styleLink}>Visit the site</Link>
+
+<hr className={styleHR}/>
+<p className={styleIframeTools}>Next JS &#x2022; Tailwind &#x2022; HTML</p>
+
+
+<iframe
+        src="https://giga-clear.vercel.app/"
+        title="Giga Clear live site"
+        scroll="no"
+        className={styleIframe}
+
+        >
+</iframe></div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
