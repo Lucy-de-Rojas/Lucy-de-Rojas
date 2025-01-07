@@ -56,7 +56,7 @@ return (<Layout>
 <h1>Web</h1>
 <main className="px-0 lg:px-14 pb-14 flex flex-col items-center">
 
-<p className="w-full md:w-3/4 xl:w-1/2">
+<p className="w-[90%] md:w-3/4 xl:w-1/2">
 I’m a motivated React JS/Next JS Developer with a strong focus on creating clean, responsive, and accessible web applications. With a background in digital design and UI, I bring a keen eye for detail and user-centered solutions to front-end development. My work showcases dynamic, interactive projects built with modern frameworks, ensuring seamless performance and an engaging user experience. Let’s build something great together!</p>
 
 
