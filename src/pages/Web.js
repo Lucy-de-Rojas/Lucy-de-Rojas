@@ -13,7 +13,7 @@ export default function Web () {
 
 
         // styling:
-        let styleIframeWrapper = "iframeWrapper w-full flex flex-col items-center h-[900px] bg-red-200 rounded-lg mt-20 shadow-2xl py-10 text-center px-16 md:w-3/4 xl:w-1/2";
+        let styleIframeWrapper = "iframeWrapper w-full px-3 lg:px-8 flex flex-col items-center h-[900px] bg-red-200 lg:rounded-lg mt-20  shadow-lg lg:shadow-2xl py-10 text-center px-16 md:w-3/4 xl:w-1/2";
 
         let styleIframe = "w-[100%] h-[600px] shadow-2xl border-2 border-dotted border-blue-500 overflow-hidden rounded-2xl p-10 my-10 bg-white";
 
@@ -28,6 +28,7 @@ export default function Web () {
 
 
         let styleLink = "bg-slate-500 text-white w-full rounded-full py-2 my-2 shadow-2xl";
+        let styleLinkGithub = "bg-slate-800 text-white w-full rounded-full py-2 my-2 shadow-2xl";
 
 
         // end of styling
@@ -53,10 +54,15 @@ return (<Layout>
 
 
 <h1>Web</h1>
-<main className="px-14 pb-14 flex flex-col items-center">
+<main className="px-0 lg:px-14 pb-14 flex flex-col items-center">
 
 <p className="w-full md:w-3/4 xl:w-1/2">
 I’m a motivated React JS/Next JS Developer with a strong focus on creating clean, responsive, and accessible web applications. With a background in digital design and UI, I bring a keen eye for detail and user-centered solutions to front-end development. My work showcases dynamic, interactive projects built with modern frameworks, ensuring seamless performance and an engaging user experience. Let’s build something great together!</p>
+
+
+{/* iframes wrapper: */}
+<div className="iframesWrapper w-full flex flex-col items-center m-0">
+
 
 
 
@@ -67,7 +73,9 @@ I’m a motivated React JS/Next JS Developer with a strong focus on creating cle
 
 <p className={styleIframerTitle}>FocusRite <br /> Wav File Head Parser</p>
 <p className={styleIframeDescription}>Single page web app analysing wav file header and displaying result in browser. It can use drag&drop or traditional file input.Created as part of selection process.</p>
-<Link href="https://focus-rite.vercel.app/"  target="_blank" className={styleLink}>Visit the site</Link>
+<Link href="https://focus-rite.vercel.app/"  target="_blank" className={styleLink}>🌐 Visit the site</Link>
+<Link href="https://github.com/Lucy-de-Rojas/focus-rite" target="_blank"
+ className={styleLinkGithub} >🧑‍💻   Source code (Github)</Link>
 <hr className={styleHR}/>
 <p className={styleIframeTools}>Next JS &#x2022; Tailwind &#x2022; HTML </p>
 
@@ -99,8 +107,13 @@ I’m a motivated React JS/Next JS Developer with a strong focus on creating cle
 
 <Link href="https://giga-clear.vercel.app/"  target="_blank" className={styleLink}>Visit the site</Link>
 
+
+<Link href="" target="_blank"
+ className={styleLinkGithub} >🧑‍💻   Source code (Github)</Link>
+
+
 <hr className={styleHR}/>
-<p className={styleIframeTools}>Next JS &#x2022; Tailwind &#x2022; HTML</p>
+<p className={styleIframeTools}>Next JS  &#x2022; Typescript    &#x2022; Tailwind &#x2022; HTML</p>
 
 
 <iframe
@@ -138,6 +151,13 @@ I’m a motivated React JS/Next JS Developer with a strong focus on creating cle
 
 <Link href="https://ef-8bgb.vercel.app/"  target="_blank" className={styleLink}>Visit the site</Link>
 
+
+<Link href="https://github.com/Lucy-de-Rojas/ef" target="_blank"
+ className={styleLinkGithub} >🧑‍💻   Source code (Github)</Link>
+
+
+
+
 <hr className={styleHR}/>
 <p className={styleIframeTools}>Next JS &#x2022; Tailwind &#x2022; HTML</p>
 
@@ -165,6 +185,13 @@ I’m a motivated React JS/Next JS Developer with a strong focus on creating cle
 
 <Link href="https://laceys.vercel.app/"  target="_blank" className={styleLink}>Visit the site</Link>
 
+
+
+<Link href="https://github.com/Lucy-de-Rojas/laceys" target="_blank"
+ className={styleLinkGithub} >🧑‍💻   Source code (Github)</Link>
+
+
+
 <hr className={styleHR}/>
 <p className={styleIframeTools}>Next JS &#x2022; CSS &#x2022; HTML &#x2022; Anime JS</p>
 
@@ -189,6 +216,12 @@ I’m a motivated React JS/Next JS Developer with a strong focus on creating cle
 
 
 <Link href="https://beyond-beauty-by-chanelle.vercel.app/"  target="_blank" className={styleLink}>Visit the site</Link>
+
+
+<Link href="https://github.com/Lucy-de-Rojas/Beyond-Beauty-By-Chanelle" target="_blank"
+ className={styleLinkGithub} >🧑‍💻   Source code (Github)</Link>
+
+
 
 <hr className={styleHR}/>
 <p className={styleIframeTools}>Next JS &#x2022; CSS &#x2022; HTML &#x2022; Anime JS</p>
@@ -216,6 +249,13 @@ I’m a motivated React JS/Next JS Developer with a strong focus on creating cle
 
 <Link href="https://naphill-tennis-club.vercel.app/"  target="_blank" className={styleLink}>Visit the site</Link>
 
+
+<Link href="https://github.com/Lucy-de-Rojas/naphill-tennis-club" target="_blank"
+ className={styleLinkGithub} >🧑‍💻   Source code (Github)</Link>
+
+
+
+
 <hr className={styleHR}/>
 <p className={styleIframeTools}>Next JS &#x2022; CSS &#x2022; HTML &#x2022; Anime JS</p>
 
@@ -229,12 +269,11 @@ I’m a motivated React JS/Next JS Developer with a strong focus on creating cle
         >
 </iframe></div>
 
+</div>
 
 
-{/* GigaClear: */}
 
 
-{/* Water Company: */}
 
 
 

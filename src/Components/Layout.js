@@ -10,7 +10,7 @@ export default function Layout({children}) {
 
 
 
-        return (<div className="flex flex-col" id="topOfPage">
+        return (<div className="flex flex-col w-full bg-white p-0" id="topOfPage">
 
 
                 <Head>
